@@ -1,2 +1,3 @@
-# ling-245
-Replication of Culbertson and Adgerb (2011) for the class LING245 at Stanford.
+# Sebastian's project
+
+This folder contains all data, scripts, and documentation asscociated with Sebastian's replication.
