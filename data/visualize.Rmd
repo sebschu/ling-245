@@ -1,0 +1,98 @@
+---
+title: "Results"
+author: "Sebastian Schuster"
+date: "5/29/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(scales)
+source("helpers.R")
+
+theme_set(theme_bw())
+
+
+```
+
+```{r}
+# Read the data.
+data <- read.csv("data-combined.csv")
+
+```
+
+In my experiment, I am trying to evaluate whether speakers have a bias towards the scope-isomorphic order of determiners, adjectives, numerals, and nouns in an artificial language learning experiment. Participants learn during the training session that this artificial language has post-nominal modifiers but they do not learn the order of the nominal modifiers. 
+
+During training, participants hear two different combinations: `NOUN` + `MODIFIER 1` and `NOUN` + `MODIFIER 2`.
+Modifier 1 and modifier 2 are as following, depending on the condition:
+
+ - Condition 1: Numeral, adjective
+ - Condition 2: Adjective, demonstrative determiner
+ - Condition 3: Numeral, demonstrative determiner
+ 
+ During the test phase, participants are asked to "translate" phrases with one modifier (as they heard during training -- these are control trials) and phrases with two modifiers. As they never observed a noun with two modifiers during training, they have to come up with some strategy on how to order the nominal modifiers.
+ 
+## Control trials
+
+I first plot the ratio of post-nominal control trials for each of 96 participants. Culbertson and Adger exluded participants who consistenly failed at these trials. While they are not specific about what "consistent" means, I also exlude participants who selected a phrase with a post-nominal modifier in less than 50% of the cases (highlighted in red).
+
+
+```{r fig.height=20, fig.width=10}
+
+agr.test_control = data %>%
+  filter(train == FALSE) %>%
+  filter(is.na(modifier2)) %>%
+  group_by(condition, workerid) %>%
+  summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
+  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High)
+
+agr.test_control$exclude = "1"
+
+agr.test_control[agr.test_control$MeanCorrect < 0.5, ]$exclude = "2"
+
+ggplot(agr.test_control, aes(x=condition,y=MeanCorrect)) +
+  geom_bar(stat="identity",color="black", aes(fill=exclude)) +
+  scale_fill_manual(values=c("gray80", "tomato1")) +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("Condition") +
+  ylab("Proportion of post-nominal responses") +
+  scale_y_continuous(labels=percent) +
+  facet_wrap(~workerid, ncol=12) + 
+  theme(legend.position="none")
+
+```
+
+
+As this plot shows, 9 of the participants did not meet this threshold and I therefore excluded them from further analyses.
+
+# Test trials
+
+For the test trials, I aggregate all responsed within a condition as in Culbertson and Adger. As the following plot shows, the proportion of isomorphic post-nominal responses (that is noun-adjective-numeral, noun-adjective-determiner, and noun-numeral-determiner, in conditions 1,2, and 3, respectively) is far above chance and has similar values as reported in Culbertson and Adger. However, in my replication there don't seem to be any (or at least not the same) differences between the three conditions. This is insofar important, as Culbertson and Adger argued based on these differences that participants were not solely inverting the canonical English order. Considering that I was not able to replicate these differences, it might indeed be the case that participants are simply inverting the canonical English order of these phrases, which just happens to be the scope-isomorphic order.
+
+```{r}
+
+exclude_workers = agr.test_control[agr.test_control$exclude == "2",]$workerid
+
+agr.test = data %>%
+  filter((workerid %in% exclude_workers) == FALSE) %>%
+  group_by(condition) %>%
+  summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
+  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High)
+  
+
+
+ggplot(agr.test, aes(x=condition,y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("Condition") +
+  ylab("Proportion of scope-isomorphic responses") +
+  scale_y_continuous(labels=percent)
+
+
+```
+  

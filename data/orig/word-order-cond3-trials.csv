@@ -1,0 +1,2561 @@
+workerid,trial_type,modifier2,noun,modifier1,stimulus,train,modifier,response
+0,det,NA,bowl,NA,this bowl,NA,this,bowl this
+0,num,NA,boxes,NA,four boxes,NA,four,boxes four
+0,det,NA,pig,NA,this pig,NA,this,pig this
+0,num,NA,handbags,NA,three handbags,NA,three,handbags three
+0,num,NA,trays,NA,ten trays,NA,ten,trays ten
+0,num,NA,bananas,NA,six bananas,NA,six,bananas six
+0,num,NA,cherries,NA,five cherries,NA,five,cherries five
+0,num,NA,shoes,NA,six shoes,NA,six,shoes six
+0,num,NA,shirts,NA,nine shirts,NA,nine,shirts nine
+0,det,NA,scarf,NA,that scarf,NA,that,scarf that
+0,det,NA,horse,NA,this horse,NA,this,horse this
+0,det,NA,handbags,NA,these handbags,NA,these,handbags these
+0,num,NA,darts,NA,three darts,NA,three,darts three
+0,num,NA,pigs,NA,seven pigs,NA,seven,pigs seven
+0,num,NA,chairs,NA,seven chairs,NA,seven,chairs seven
+0,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+0,det,NA,chair,NA,this chair,NA,this,chair this
+0,num,NA,horses,NA,four horses,NA,four,horses four
+0,num,NA,ducks,NA,four ducks,NA,four,ducks four
+0,det,NA,leaves,NA,those leaves,NA,those,leaves those
+0,det,NA,shoe,NA,that shoe,NA,that,shoe that
+0,det,NA,lamp,NA,this lamp,NA,this,lamp this
+0,det,NA,trays,NA,these trays,NA,these,trays these
+0,num,NA,hat,NA,one hat,NA,one,hat one
+0,det,NA,cows,NA,these cows,NA,these,cows these
+0,num,NA,pears,NA,seven pears,NA,seven,pears seven
+0,det,NA,box,NA,that box,NA,that,box that
+0,num,NA,pitchers,NA,six pitchers,NA,six,pitchers six
+0,det,NA,vases,NA,those vases,NA,those,vases those
+0,det,NA,key,NA,that key,NA,that,key that
+0,num_det,these,cherries,ten,these ten cherries,False,NA,ten these cherries
+0,det,NA,banana,that,that banana,False,NA,banana that
+0,det,NA,dart,this,this dart,False,NA,dart this
+0,num,NA,pigs,ten,ten pigs,False,NA,pigs ten
+0,det,NA,lamp,this,this lamp,False,NA,lamp this
+0,num_det,these,cows,five,these five cows,False,NA,cows these five
+0,num_det,those,bananas,three,those three bananas,False,NA,three those bananas
+0,num_det,these,chairs,seven,these seven chairs,False,NA,seven these chairs
+0,num_det,those,pineapples,two,those two pineapples,False,NA,pineapples two those
+0,num_det,these,keys,seven,these seven keys,False,NA,seven these keys
+0,num_det,those,cars,seven,those seven cars,False,NA,seven those cars
+0,num_det,those,trays,four,those four trays,False,NA,four those trays
+0,num_det,these,spatulas,three,these three spatulas,False,NA,these three spatulas
+0,num_det,these,pitchers,three,these three pitchers,False,NA,pitchers three these
+0,num,NA,chairs,seven,seven chairs,False,NA,chairs seven
+0,det,NA,scarfs,these,these scarfs,False,NA,these scarfs
+0,num,NA,leaves,seven,seven leaves,False,NA,leaves seven
+0,num_det,these,darts,two,these two darts,False,NA,darts two these
+0,num_det,these,shirts,two,these two shirts,False,NA,shirts two these
+0,num,NA,boxes,two,two boxes,False,NA,boxes two
+0,num,NA,vases,six,six vases,False,NA,vases six
+0,num,NA,darts,two,two darts,False,NA,darts two
+0,det,NA,pig,that,that pig,False,NA,pig that
+0,num_det,these,handbags,four,these four handbags,False,NA,handbags four these
+0,num_det,that,vase,one,that one vase,False,NA,vase one that
+0,num,NA,shovels,eight,eight shovels,False,NA,shovels eight
+0,num_det,these,hats,seven,these seven hats,False,NA,hats these seven
+0,num,NA,pitchers,two,two pitchers,False,NA,pitchers two
+0,det,NA,shovel,that,that shovel,False,NA,shovel that
+0,num_det,that,leaf,one,that one leaf,False,NA,leaf one that
+0,num_det,these,pillows,seven,these seven pillows,False,NA,pillows seven these
+0,det,NA,pineapples,those,those pineapples,False,NA,pineapples those
+0,num_det,these,pears,six,these six pears,False,NA,pears six these
+0,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases these six
+0,num_det,these,shoes,three,these three shoes,False,NA,shoes three these
+0,num_det,these,ribbons,ten,these ten ribbons,False,NA,ribbons these ten
+0,num,NA,hats,six,six hats,False,NA,hats six
+0,num_det,these,horses,seven,these seven horses,False,NA,horses these seven
+0,num_det,these,pigs,two,these two pigs,False,NA,pigs these two
+0,num_det,these,lamps,seven,these seven lamps,False,NA,lamps these seven
+0,det,NA,car,that,that car,False,NA,car that
+0,num_det,these,bowls,ten,these ten bowls,False,NA,bowls these ten
+0,num,NA,bananas,nine,nine bananas,False,NA,bananas nine
+0,num_det,those,couches,five,those five couches,False,NA,couches those five
+0,num_det,these,ducks,three,these three ducks,False,NA,ducks three these
+0,det,NA,horses,these,these horses,False,NA,horses these
+0,num_det,this,box,one,this one box,False,NA,box one this
+0,num_det,these,scarfs,four,these four scarfs,False,NA,scarfs these four
+0,num_det,those,shovels,four,those four shovels,False,NA,shovels those four
+0,det,NA,couches,these,these couches,False,NA,couches these
+1,num,NA,chairs,NA,eight chairs,NA,eight,chairs eight
+1,num,NA,cow,NA,one cow,NA,one,cow one
+1,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+1,det,NA,tray,NA,that tray,NA,that,tray that
+1,det,NA,box,NA,that box,NA,that,box that
+1,num,NA,cars,NA,seven cars,NA,seven,cars seven
+1,num,NA,vases,NA,ten vases,NA,ten,vases ten
+1,det,NA,pig,NA,that pig,NA,that,pig that
+1,num,NA,couches,NA,five couches,NA,five,couches five
+1,det,NA,cherries,NA,those cherries,NA,those,cherries those
+1,num,NA,hats,NA,two hats,NA,two,hats two
+1,det,NA,lamp,NA,this lamp,NA,this,lamp this
+1,num,NA,handbags,NA,eight handbags,NA,eight,handbags eight
+1,num,NA,boxes,NA,six boxes,NA,six,boxes six
+1,det,NA,shoes,NA,these shoes,NA,these,shoes these
+1,num,NA,shirts,NA,nine shirts,NA,nine,shirts nine
+1,num,NA,suitcases,NA,nine suitcases,NA,nine,suitcases nine
+1,det,NA,hats,NA,those hats,NA,those,hats those
+1,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+1,det,NA,shovels,NA,those shovels,NA,those,shovels those
+1,det,NA,pineapples,NA,those pineapples,NA,those,pineapples those
+1,det,NA,keys,NA,those keys,NA,those,keys those
+1,det,NA,cow,NA,this cow,NA,this,cow this
+1,det,NA,couch,NA,this couch,NA,this,couch this
+1,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+1,det,NA,cars,NA,those cars,NA,those,cars those
+1,num,NA,keys,NA,two keys,NA,two,keys two
+1,num,NA,lamps,NA,nine lamps,NA,nine,lamps nine
+1,num,NA,pigs,NA,five pigs,NA,five,pigs five
+1,det,NA,horses,NA,those horses,NA,those,horses those
+1,num_det,that,cherry,one,that one cherry,False,NA,cherry that one
+1,num_det,those,trays,eight,those eight trays,False,NA,trays eight those
+1,num_det,those,bananas,nine,those nine bananas,False,NA,bananas nine those
+1,num_det,these,ribbons,four,these four ribbons,False,NA,ribbons four these
+1,num_det,these,lamps,ten,these ten lamps,False,NA,lamps ten these
+1,num_det,those,boxes,nine,those nine boxes,False,NA,boxes nine those
+1,num_det,these,darts,ten,these ten darts,False,NA,darts ten these
+1,det,NA,chair,that,that chair,False,NA,chair that
+1,num,NA,pitchers,seven,seven pitchers,False,NA,seven pitchers
+1,num,NA,suitcases,ten,ten suitcases,False,NA,suitcases ten
+1,num_det,those,shirts,four,those four shirts,False,NA,shirts four those
+1,num_det,those,cows,eight,those eight cows,False,NA,cows eight those
+1,num,NA,lamps,seven,seven lamps,False,NA,lamps seven
+1,num_det,these,ducks,four,these four ducks,False,NA,ducks four these
+1,num_det,this,suitcase,one,this one suitcase,False,NA,suitcase one this
+1,num_det,these,pillows,six,these six pillows,False,NA,pillows six these
+1,num_det,those,scarfs,eight,those eight scarfs,False,NA,scarfs eight those
+1,num_det,this,bowl,one,this one bowl,False,NA,bowl one this
+1,num,NA,box,one,one box,False,NA,box one
+1,num_det,these,cars,six,these six cars,False,NA,cars six these
+1,num_det,these,hats,ten,these ten hats,False,NA,hats ten these
+1,num_det,these,leaves,nine,these nine leaves,False,NA,leaves nine these
+1,num,NA,chairs,three,three chairs,False,NA,chairs three
+1,det,NA,key,that,that key,False,NA,key that
+1,num,NA,spatulas,eight,eight spatulas,False,NA,spatulas eight
+1,det,NA,couches,those,those couches,False,NA,couches those
+1,num_det,these,couches,eight,these eight couches,False,NA,couches eight these
+1,det,NA,spatula,this,this spatula,False,NA,spatula this
+1,num_det,that,shovel,one,that one shovel,False,NA,shovel one that
+1,num_det,these,vases,three,these three vases,False,NA,vases three these
+1,num,NA,horses,six,six horses,False,NA,horses six
+1,num_det,those,keys,two,those two keys,False,NA,keys two those
+1,det,NA,hats,those,those hats,False,NA,hats those
+1,num,NA,cow,one,one cow,False,NA,cow one
+1,num_det,that,horse,one,that one horse,False,NA,horse one that
+1,det,NA,horse,that,that horse,False,NA,horse that
+1,num_det,those,pears,four,those four pears,False,NA,pears four those
+1,det,NA,pillows,these,these pillows,False,NA,pillows these
+1,num_det,those,handbags,eight,those eight handbags,False,NA,handbags eight those
+1,det,NA,duck,this,this duck,False,NA,duck this
+1,num_det,these,pigs,four,these four pigs,False,NA,pigs four these
+1,num_det,those,shoes,seven,those seven shoes,False,NA,shoes seven those
+1,det,NA,banana,this,this banana,False,NA,banana this
+1,num,NA,shovels,seven,seven shovels,False,NA,shovels seven
+1,det,NA,pitchers,these,these pitchers,False,NA,pitchers these
+1,num_det,those,pineapples,four,those four pineapples,False,NA,pineapples four those
+1,num_det,those,chairs,seven,those seven chairs,False,NA,chairs seven those
+1,num_det,those,spatulas,nine,those nine spatulas,False,NA,spatulas nine those
+1,num_det,those,pitchers,nine,those nine pitchers,False,NA,pitchers nine those
+1,num,NA,scarfs,ten,ten scarfs,False,NA,scarfs ten
+2,det,NA,chairs,NA,those chairs,NA,those,chairs those
+2,num,NA,lamps,NA,three lamps,NA,three,lamps three
+2,det,NA,cherry,NA,that cherry,NA,that,cherry that
+2,num,NA,ducks,NA,four ducks,NA,four,ducks four
+2,num,NA,vases,NA,nine vases,NA,nine,vases nine
+2,num,NA,pillow,NA,one pillow,NA,one,pillow one
+2,det,NA,leaves,NA,these leaves,NA,these,leaves these
+2,num,NA,box,NA,one box,NA,one,box one
+2,num,NA,spatulas,NA,six spatulas,NA,six,spatulas six
+2,det,NA,pig,NA,this pig,NA,this,pig this
+2,det,NA,scarfs,NA,these scarfs,NA,these,scarfs these
+2,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+2,num,NA,handbags,NA,ten handbags,NA,ten,handbags ten
+2,det,NA,keys,NA,those keys,NA,those,keys those
+2,num,NA,ribbon,NA,one ribbon,NA,one,ribbon one
+2,det,NA,shoes,NA,those shoes,NA,those,shoes those
+2,det,NA,pineapple,NA,that pineapple,NA,that,pineapple that
+2,num,NA,cherries,NA,nine cherries,NA,nine,cherries nine
+2,det,NA,ribbons,NA,those ribbons,NA,those,ribbons those
+2,det,NA,pitcher,NA,this pitcher,NA,this,pitcher this
+2,num,NA,keys,NA,seven keys,NA,seven,keys seven
+2,det,NA,horse,NA,that horse,NA,that,horse that
+2,num,NA,leaves,NA,nine leaves,NA,nine,leaves nine
+2,det,NA,suitcase,NA,this suitcase,NA,this,suitcase this
+2,det,NA,couch,NA,that couch,NA,that,couch that
+2,det,NA,cow,NA,that cow,NA,that,cow that
+2,det,NA,pears,NA,those pears,NA,those,pears those
+2,num,NA,darts,NA,six darts,NA,six,darts six
+2,num,NA,shoes,NA,two shoes,NA,two,shoes two
+2,num,NA,couches,NA,two couches,NA,two,couches two
+2,num_det,those,pitchers,nine,those nine pitchers,False,NA,pitchers those nine
+2,num,NA,shirts,four,four shirts,False,NA,shirts four
+2,num_det,those,couches,two,those two couches,False,NA,two those couches
+2,num_det,these,cars,three,these three cars,False,NA,cars these three
+2,num_det,those,horses,nine,those nine horses,False,NA,horses nine those
+2,num_det,these,pears,three,these three pears,False,NA,pears these three
+2,num,NA,scarfs,ten,ten scarfs,False,NA,scarfs ten
+2,det,NA,leaf,this,this leaf,False,NA,leaf this
+2,num_det,those,shoes,two,those two shoes,False,NA,shoes those two
+2,num_det,those,handbags,three,those three handbags,False,NA,handbags three those
+2,num_det,this,pig,one,this one pig,False,NA,pig this one
+2,num_det,those,leaves,eight,those eight leaves,False,NA,leaves eight those
+2,num,NA,hats,three,three hats,False,NA,hats three
+2,num,NA,trays,five,five trays,False,NA,trays five
+2,det,NA,ribbon,this,this ribbon,False,NA,ribbon this
+2,det,NA,box,that,that box,False,NA,box that
+2,num_det,those,spatulas,three,those three spatulas,False,NA,spatulas those three
+2,num_det,these,darts,nine,these nine darts,False,NA,darts these nine
+2,num_det,those,boxes,two,those two boxes,False,NA,boxes two those
+2,num,NA,spatulas,two,two spatulas,False,NA,spatulas two
+2,det,NA,darts,these,these darts,False,NA,darts these
+2,num_det,these,chairs,three,these three chairs,False,NA,chairs three these
+2,det,NA,key,that,that key,False,NA,key that
+2,num_det,these,hats,seven,these seven hats,False,NA,hats seven these
+2,num,NA,keys,seven,seven keys,False,NA,keys seven
+2,num_det,these,ribbons,four,these four ribbons,False,NA,ribbons four these
+2,num_det,those,trays,two,those two trays,False,NA,trays those two
+2,det,NA,pillows,those,those pillows,False,NA,pillows those
+2,num_det,this,pineapple,one,this one pineapple,False,NA,pineapple this one
+2,num_det,these,pillows,eight,these eight pillows,False,NA,pillows eight these
+2,num_det,these,shovels,nine,these nine shovels,False,NA,shovels these nine
+2,num_det,these,cows,nine,these nine cows,False,NA,cows nine these
+2,num_det,those,lamps,seven,those seven lamps,False,NA,lamps seven those
+2,num,NA,leaves,ten,ten leaves,False,NA,leaves ten
+2,num,NA,bananas,two,two bananas,False,NA,bananas two
+2,det,NA,cars,these,these cars,False,NA,cars these
+2,num_det,these,cherries,three,these three cherries,False,NA,cherries three these
+2,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases six these
+2,det,NA,shirt,that,that shirt,False,NA,shirt that
+2,num_det,those,ducks,seven,those seven ducks,False,NA,ducks seven those
+2,num_det,these,vases,two,these two vases,False,NA,vases these two
+2,num_det,these,shirts,nine,these nine shirts,False,NA,shirts these nine
+2,num,NA,suitcase,one,one suitcase,False,NA,suitcase one
+2,num_det,those,scarfs,five,those five scarfs,False,NA,scarfs five those
+2,num_det,those,bowls,five,those five bowls,False,NA,bowls five those
+2,num_det,these,bananas,six,these six bananas,False,NA,bananas six these
+2,num,NA,chairs,four,four chairs,False,NA,chairs four
+2,det,NA,trays,these,these trays,False,NA,trays these
+2,num_det,these,keys,two,these two keys,False,NA,keys two these
+2,det,NA,pitcher,that,that pitcher,False,NA,pitcher that
+3,det,NA,car,NA,this car,NA,this,car this
+3,num,NA,shoes,NA,ten shoes,NA,ten,shoes ten
+3,num,NA,cow,NA,one cow,NA,one,cow one
+3,num,NA,cars,NA,two cars,NA,two,cars two
+3,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+3,det,NA,couches,NA,those couches,NA,those,couches those
+3,det,NA,cows,NA,these cows,NA,these,cows these
+3,num,NA,pineapples,NA,five pineapples,NA,five,pineapples five
+3,num,NA,lamps,NA,eight lamps,NA,eight,lamps eight
+3,num,NA,pillows,NA,ten pillows,NA,ten,pillows ten
+3,det,NA,chair,NA,this chair,NA,this,chair this
+3,det,NA,pigs,NA,these pigs,NA,these,pigs these
+3,det,NA,scarf,NA,this scarf,NA,this,scarf this
+3,det,NA,keys,NA,these keys,NA,these,keys these
+3,det,NA,hats,NA,those hats,NA,those,hats those
+3,det,NA,pillows,NA,those pillows,NA,those,pillows those
+3,det,NA,banana,NA,this banana,NA,this,banana this
+3,num,NA,couches,NA,five couches,NA,five,couches five
+3,num,NA,boxes,NA,four boxes,NA,four,boxes four
+3,num,NA,handbags,NA,two handbags,NA,two,handbags two
+3,num,NA,ducks,NA,two ducks,NA,two,ducks two
+3,det,NA,shirts,NA,these shirts,NA,these,shirts these
+3,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+3,det,NA,handbag,NA,this handbag,NA,this,handbag this
+3,num,NA,tray,NA,one tray,NA,one,tray one
+3,num,NA,ribbons,NA,two ribbons,NA,two,ribbons two
+3,det,NA,bowl,NA,this bowl,NA,this,bowl this
+3,num,NA,horse,NA,one horse,NA,one,horse one
+3,num,NA,hats,NA,nine hats,NA,nine,hats nine
+3,det,NA,shovels,NA,these shovels,NA,these,shovels these
+3,det,NA,hat,that,that hat,False,NA,hat that
+3,num_det,these,bowls,seven,these seven bowls,False,NA,bowls seven these
+3,num_det,those,suitcases,four,those four suitcases,False,NA,suitcases those four
+3,num,NA,handbags,eight,eight handbags,False,NA,handbags eight
+3,num_det,these,ducks,five,these five ducks,False,NA,ducks these five
+3,num_det,this,cow,one,this one cow,False,NA,cow this one
+3,num,NA,spatulas,six,six spatulas,False,NA,spatulas six
+3,num_det,those,shovels,two,those two shovels,False,NA,shovels two those
+3,num_det,those,pears,eight,those eight pears,False,NA,pears eight those
+3,num_det,those,spatulas,seven,those seven spatulas,False,NA,spatulas seven those
+3,num_det,these,pillows,four,these four pillows,False,NA,pillows four these
+3,det,NA,pig,that,that pig,False,NA,pig that
+3,det,NA,cow,that,that cow,False,NA,cow that
+3,det,NA,tray,this,this tray,False,NA,tray this
+3,det,NA,suitcase,this,this suitcase,False,NA,suitcase this
+3,num_det,this,shoe,one,this one shoe,False,NA,shoe one this
+3,num_det,those,vases,five,those five vases,False,NA,vases five those
+3,num_det,those,ribbons,three,those three ribbons,False,NA,ribbons those three
+3,num_det,these,handbags,seven,these seven handbags,False,NA,handbags seven these
+3,num_det,those,bananas,ten,those ten bananas,False,NA,bananas ten those
+3,num_det,these,leaves,five,these five leaves,False,NA,leaves five these
+3,num,NA,key,one,one key,False,NA,key one
+3,num_det,these,pigs,ten,these ten pigs,False,NA,pigs ten these
+3,num_det,these,lamps,ten,these ten lamps,False,NA,lamps ten these
+3,num,NA,dart,one,one dart,False,NA,dart one
+3,num_det,those,trays,three,those three trays,False,NA,trays three those
+3,det,NA,ducks,those,those ducks,False,NA,ducks those
+3,num,NA,ribbons,four,four ribbons,False,NA,ribbons four
+3,num_det,that,key,one,that one key,False,NA,one that key
+3,num,NA,shovels,seven,seven shovels,False,NA,shovels seven
+3,num,NA,pigs,ten,ten pigs,False,NA,pigs ten
+3,num_det,these,boxes,three,these three boxes,False,NA,boxes three these
+3,num_det,this,car,one,this one car,False,NA,car one this
+3,num_det,those,darts,five,those five darts,False,NA,darts five those
+3,num,NA,trays,eight,eight trays,False,NA,trays eight
+3,det,NA,shovel,this,this shovel,False,NA,shovel this
+3,num_det,these,hats,five,these five hats,False,NA,hats five these
+3,num_det,these,horses,six,these six horses,False,NA,horses six these
+3,num,NA,pitchers,ten,ten pitchers,False,NA,pitchers ten
+3,num_det,these,pineapples,four,these four pineapples,False,NA,pineapples these four
+3,num_det,those,couches,two,those two couches,False,NA,couches those two
+3,det,NA,pillow,this,this pillow,False,NA,pillow this
+3,num_det,these,scarfs,two,these two scarfs,False,NA,two these scarfs
+3,num,NA,bowl,one,one bowl,False,NA,bowl one
+3,num_det,those,cherries,five,those five cherries,False,NA,cherries those five
+3,det,NA,vases,these,these vases,False,NA,vases these
+3,num_det,those,shirts,nine,those nine shirts,False,NA,shirts nine those
+3,num_det,these,chairs,nine,these nine chairs,False,NA,nine these chairs
+3,det,NA,handbags,these,these handbags,False,NA,handbags these
+3,num_det,those,pitchers,ten,those ten pitchers,False,NA,pitchers those ten
+4,num,NA,vases,NA,eight vases,NA,eight,vases eight
+4,det,NA,tray,NA,this tray,NA,this,tray this
+4,num,NA,shovels,NA,seven shovels,NA,seven,shovels seven
+4,det,NA,shirts,NA,these shirts,NA,these,shirts these
+4,num,NA,pineapples,NA,ten pineapples,NA,ten,pineapples ten
+4,num,NA,pillows,NA,eight pillows,NA,eight,pillows eight
+4,num,NA,horse,NA,one horse,NA,one,horse one
+4,num,NA,shirts,NA,seven shirts,NA,seven,shirts seven
+4,det,NA,scarfs,NA,these scarfs,NA,these,scarfs these
+4,det,NA,cherries,NA,these cherries,NA,these,cherries these
+4,det,NA,bowl,NA,that bowl,NA,that,bowl that
+4,det,NA,handbags,NA,those handbags,NA,those,handbags those
+4,det,NA,dart,NA,that dart,NA,that,dart that
+4,num,NA,leaves,NA,seven leaves,NA,seven,leaves seven
+4,det,NA,pigs,NA,those pigs,NA,those,pigs those
+4,num,NA,scarf,NA,one scarf,NA,one,scarf one
+4,num,NA,chairs,NA,five chairs,NA,five,chairs five
+4,num,NA,pigs,NA,six pigs,NA,six,pigs six
+4,det,NA,box,NA,that box,NA,that,box that
+4,det,NA,vases,NA,those vases,NA,those,vases those
+4,num,NA,pears,NA,two pears,NA,two,pears two
+4,num,NA,ribbons,NA,eight ribbons,NA,eight,ribbons eight
+4,num,NA,bananas,NA,seven bananas,NA,seven,bananas seven
+4,num,NA,darts,NA,nine darts,NA,nine,darts nine
+4,det,NA,leaf,NA,this leaf,NA,this,leaf this
+4,num,NA,hats,NA,five hats,NA,five,hats five
+4,det,NA,hats,NA,those hats,NA,those,hats those
+4,det,NA,suitcases,NA,those suitcases,NA,those,suitcases those
+4,det,NA,pillow,NA,that pillow,NA,that,pillow that
+4,det,NA,pears,NA,those pears,NA,those,pears those
+4,num_det,these,horses,ten,these ten horses,False,NA,horses ten these
+4,num_det,that,shovel,one,that one shovel,False,NA,shovel one that
+4,num_det,these,leaves,four,these four leaves,False,NA,leaves four these
+4,num_det,those,lamps,five,those five lamps,False,NA,lamps five those
+4,num_det,these,pigs,four,these four pigs,False,NA,pigs four these
+4,det,NA,suitcase,this,this suitcase,False,NA,suitcase this
+4,num_det,those,pillows,two,those two pillows,False,NA,pillows two those
+4,num_det,these,scarfs,seven,these seven scarfs,False,NA,scarfs seven these
+4,num_det,these,bananas,nine,these nine bananas,False,NA,bananas nine these
+4,num_det,those,pitchers,four,those four pitchers,False,NA,pitchers four those
+4,num,NA,horses,four,four horses,False,NA,horses four
+4,num_det,those,darts,six,those six darts,False,NA,darts six those
+4,det,NA,ribbons,those,those ribbons,False,NA,ribbons those
+4,det,NA,car,this,this car,False,NA,car this
+4,num_det,these,cars,three,these three cars,False,NA,cars three these
+4,det,NA,shovel,this,this shovel,False,NA,shovel this
+4,num_det,these,couches,seven,these seven couches,False,NA,couches seven these
+4,num_det,these,keys,eight,these eight keys,False,NA,keys eight these
+4,num,NA,pears,nine,nine pears,False,NA,pears nine
+4,num_det,these,boxes,eight,these eight boxes,False,NA,boxes eight these
+4,num_det,these,chairs,ten,these ten chairs,False,NA,chairs ten these
+4,num_det,those,pineapples,four,those four pineapples,False,NA,pineapples four those
+4,num_det,these,pears,three,these three pears,False,NA,pears three these
+4,det,NA,spatula,that,that spatula,False,NA,spatula that
+4,num,NA,trays,five,five trays,False,NA,trays five
+4,num_det,these,handbags,five,these five handbags,False,NA,handbags five these
+4,num_det,those,trays,eight,those eight trays,False,NA,trays eight those
+4,num_det,these,shoes,four,these four shoes,False,NA,shoes four these
+4,num,NA,scarfs,four,four scarfs,False,NA,scarfs four
+4,num,NA,key,one,one key,False,NA,key one
+4,num_det,those,ribbons,nine,those nine ribbons,False,NA,ribbons nine those
+4,det,NA,duck,that,that duck,False,NA,duck that
+4,num_det,this,vase,one,this one vase,False,NA,vase one this
+4,num_det,this,shirt,one,this one shirt,False,NA,shirt one this
+4,num,NA,bananas,nine,nine bananas,False,NA,bananas nine
+4,det,NA,key,that,that key,False,NA,key that
+4,num,NA,couch,one,one couch,False,NA,couch one
+4,num_det,those,hats,eight,those eight hats,False,NA,hats eight those
+4,det,NA,shirts,these,these shirts,False,NA,shirts these
+4,num_det,that,bowl,one,that one bowl,False,NA,bowl one that
+4,num,NA,suitcases,ten,ten suitcases,False,NA,suitcases ten
+4,num_det,those,ducks,two,those two ducks,False,NA,ducks two those
+4,det,NA,hat,that,that hat,False,NA,hat that
+4,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases six these
+4,num_det,these,cherries,ten,these ten cherries,False,NA,cherries ten these
+4,num_det,those,spatulas,nine,those nine spatulas,False,NA,spatulas nine those
+4,num,NA,cherries,ten,ten cherries,False,NA,cherries ten
+4,num,NA,shoe,one,one shoe,False,NA,shoe one
+4,det,NA,cherries,those,those cherries,False,NA,cherries those
+4,num_det,these,cows,five,these five cows,False,NA,cows five these
+5,det,NA,vases,NA,these vases,NA,these,vases these
+5,num,NA,leaves,NA,two leaves,NA,two,leaves two
+5,det,NA,suitcases,NA,these suitcases,NA,these,suitcases these
+5,det,NA,lamps,NA,those lamps,NA,those,lamps those
+5,num,NA,suitcases,NA,five suitcases,NA,five,suitcases five
+5,det,NA,pillow,NA,this pillow,NA,this,pillow this
+5,det,NA,chairs,NA,these chairs,NA,these,chairs these
+5,num,NA,lamps,NA,ten lamps,NA,ten,lamps ten
+5,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+5,num,NA,cherries,NA,four cherries,NA,four,cherries four
+5,num,NA,cars,NA,five cars,NA,five,cars five
+5,num,NA,handbags,NA,nine handbags,NA,nine,handbags nine
+5,det,NA,spatula,NA,this spatula,NA,this,spatula this
+5,det,NA,bowl,NA,this bowl,NA,this,bowl this
+5,num,NA,pitchers,NA,four pitchers,NA,four,pitchers four
+5,det,NA,horses,NA,those horses,NA,those,horses those
+5,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+5,num,NA,trays,NA,six trays,NA,six,trays six
+5,det,NA,darts,NA,these darts,NA,these,darts these
+5,num,NA,keys,NA,ten keys,NA,ten,keys ten
+5,num,NA,couches,NA,six couches,NA,six,couches six
+5,num,NA,spatulas,NA,six spatulas,NA,six,spatulas six
+5,det,NA,shovels,NA,those shovels,NA,those,shovels those
+5,det,NA,bananas,NA,these bananas,NA,these,bananas these
+5,det,NA,trays,NA,these trays,NA,these,trays these
+5,num,NA,pillow,NA,one pillow,NA,one,pillow one
+5,det,NA,pineapple,NA,that pineapple,NA,that,pineapple that
+5,det,NA,leaves,NA,these leaves,NA,these,leaves these
+5,num,NA,scarf,NA,one scarf,NA,one,scarf one
+5,num,NA,shirts,NA,six shirts,NA,six,shirts six
+5,num,NA,lamps,seven,seven lamps,False,NA,lamps seven
+5,det,NA,tray,this,this tray,False,NA,tray this
+5,num,NA,handbags,five,five handbags,False,NA,handbags five
+5,det,NA,lamp,this,this lamp,False,NA,lamp this
+5,num_det,those,cows,seven,those seven cows,False,NA,cows seven those
+5,det,NA,bowl,this,this bowl,False,NA,bowl this
+5,det,NA,car,this,this car,False,NA,car this
+5,det,NA,vases,these,these vases,False,NA,vases these
+5,num_det,these,vases,seven,these seven vases,False,NA,vases seven these
+5,num_det,these,cars,three,these three cars,False,NA,cars three these
+5,num_det,these,pigs,eight,these eight pigs,False,NA,pigs eight these
+5,num,NA,ribbons,nine,nine ribbons,False,NA,ribbons nine
+5,num_det,these,cherries,five,these five cherries,False,NA,cherries five these
+5,num_det,those,ducks,two,those two ducks,False,NA,ducks two those
+5,num_det,this,couch,one,this one couch,False,NA,couch one this
+5,det,NA,darts,those,those darts,False,NA,darts those
+5,num_det,those,pears,three,those three pears,False,NA,pears three those
+5,num_det,those,trays,four,those four trays,False,NA,trays those four
+5,det,NA,suitcases,those,those suitcases,False,NA,suitcases those
+5,num,NA,bananas,ten,ten bananas,False,NA,bananas ten
+5,num,NA,keys,seven,seven keys,False,NA,keys seven
+5,num_det,these,pillows,ten,these ten pillows,False,NA,ten these pillows
+5,num_det,these,shoes,eight,these eight shoes,False,NA,eight these shoes
+5,num_det,those,horses,six,those six horses,False,NA,horses those six
+5,num_det,those,suitcases,ten,those ten suitcases,False,NA,those ten suitcases
+5,num_det,this,handbag,one,this one handbag,False,NA,handbag one this
+5,num_det,these,bowls,five,these five bowls,False,NA,bowls five these
+5,det,NA,pitchers,these,these pitchers,False,NA,pitchers these
+5,num_det,those,pineapples,seven,those seven pineapples,False,NA,seven those pineapples
+5,num_det,these,shirts,three,these three shirts,False,NA,shirts three these
+5,num_det,those,darts,three,those three darts,False,NA,darts those three
+5,num_det,these,pitchers,six,these six pitchers,False,NA,pitchers these six
+5,num_det,those,ribbons,eight,those eight ribbons,False,NA,ribbons eight those
+5,num_det,those,hats,four,those four hats,False,NA,those four hats
+5,num_det,these,scarfs,four,these four scarfs,False,NA,four these scarfs
+5,num_det,these,bananas,two,these two bananas,False,NA,bananas two these
+5,num_det,this,spatula,one,this one spatula,False,NA,spatula this one
+5,num_det,those,boxes,two,those two boxes,False,NA,boxes two those
+5,num_det,these,chairs,three,these three chairs,False,NA,chairs three these
+5,num,NA,trays,two,two trays,False,NA,trays two
+5,det,NA,box,this,this box,False,NA,box this
+5,num,NA,pigs,two,two pigs,False,NA,pigs two
+5,num_det,those,keys,ten,those ten keys,False,NA,ten those keys
+5,num,NA,pitchers,ten,ten pitchers,False,NA,pitchers ten
+5,num_det,those,lamps,three,those three lamps,False,NA,those three lamps
+5,det,NA,handbag,this,this handbag,False,NA,handbag this
+5,num_det,those,leaves,eight,those eight leaves,False,NA,leaves eight those
+5,num,NA,pineapples,five,five pineapples,False,NA,pineapples five
+5,num,NA,shirts,two,two shirts,False,NA,shirts two
+5,num_det,those,shovels,eight,those eight shovels,False,NA,shovels eight those
+6,det,NA,couches,NA,those couches,NA,those,couches those
+6,det,NA,pillow,NA,this pillow,NA,this,pillow this
+6,det,NA,horse,NA,this horse,NA,this,horse this
+6,num,NA,pears,NA,five pears,NA,five,pears five
+6,num,NA,chairs,NA,nine chairs,NA,nine,chairs nine
+6,det,NA,pears,NA,those pears,NA,those,pears those
+6,det,NA,shoe,NA,this shoe,NA,this,shoe this
+6,det,NA,cherries,NA,those cherries,NA,those,cherries those
+6,num,NA,scarfs,NA,seven scarfs,NA,seven,scarfs seven
+6,num,NA,shoes,NA,ten shoes,NA,ten,shoes ten
+6,det,NA,vase,NA,this vase,NA,this,vase this
+6,num,NA,cars,NA,two cars,NA,two,cars two
+6,num,NA,vases,NA,five vases,NA,five,vases five
+6,det,NA,chair,NA,that chair,NA,that,chair that
+6,num,NA,bananas,NA,five bananas,NA,five,bananas five
+6,num,NA,boxes,NA,nine boxes,NA,nine,boxes nine
+6,det,NA,duck,NA,that duck,NA,that,duck that
+6,num,NA,horses,NA,five horses,NA,five,horses five
+6,det,NA,keys,NA,these keys,NA,these,keys these
+6,num,NA,pillows,NA,two pillows,NA,two,pillows two
+6,num,NA,ducks,NA,six ducks,NA,six,ducks six
+6,num,NA,darts,NA,three darts,NA,three,darts three
+6,det,NA,darts,NA,those darts,NA,those,darts those
+6,det,NA,shovel,NA,this shovel,NA,this,shovel this
+6,num,NA,suitcases,NA,two suitcases,NA,two,suitcases two
+6,det,NA,scarf,NA,that scarf,NA,that,scarf that
+6,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+6,det,NA,hat,NA,that hat,NA,that,hat that
+6,num,NA,bowls,NA,six bowls,NA,six,bowls six
+6,det,NA,pineapples,NA,those pineapples,NA,those,pineapples those
+6,det,NA,cherries,those,those cherries,False,NA,cherries those
+6,num_det,these,pears,five,these five pears,False,NA,pears five these
+6,num_det,those,pillows,nine,those nine pillows,False,NA,pillows nine those
+6,num_det,that,vase,one,that one vase,False,NA,vase one that
+6,num_det,those,darts,six,those six darts,False,NA,darts six those
+6,num_det,those,horses,seven,those seven horses,False,NA,horses seven those
+6,num,NA,horses,seven,seven horses,False,NA,horses seven
+6,num,NA,scarfs,seven,seven scarfs,False,NA,scarfs seven
+6,num_det,those,chairs,seven,those seven chairs,False,NA,chairs seven those
+6,det,NA,car,that,that car,False,NA,car that
+6,num_det,these,pitchers,ten,these ten pitchers,False,NA,pitchers ten these
+6,num_det,these,ducks,five,these five ducks,False,NA,ducks five these
+6,num,NA,darts,nine,nine darts,False,NA,darts nine
+6,num,NA,trays,seven,seven trays,False,NA,trays seven
+6,num_det,these,cherries,ten,these ten cherries,False,NA,cherries ten these
+6,det,NA,spatulas,these,these spatulas,False,NA,spatulas these
+6,num_det,these,leaves,seven,these seven leaves,False,NA,leaves seven these
+6,det,NA,horse,that,that horse,False,NA,horse that
+6,det,NA,hat,this,this hat,False,NA,hat this
+6,num_det,those,scarfs,three,those three scarfs,False,NA,scarfs three those
+6,num_det,these,pineapples,seven,these seven pineapples,False,NA,pineapples seven these
+6,num,NA,vases,four,four vases,False,NA,vases four
+6,num_det,these,spatulas,two,these two spatulas,False,NA,spatulas two these
+6,num,NA,suitcases,eight,eight suitcases,False,NA,suitcases eight
+6,num_det,these,shovels,nine,these nine shovels,False,NA,shovels nine these
+6,num_det,those,handbags,nine,those nine handbags,False,NA,handbags nine those
+6,det,NA,ribbons,those,those ribbons,False,NA,ribbons those
+6,num_det,these,couches,two,these two couches,False,NA,couches two these
+6,num_det,those,boxes,ten,those ten boxes,False,NA,boxes ten those
+6,num_det,this,key,one,this one key,False,NA,key this one
+6,det,NA,tray,that,that tray,False,NA,tray that
+6,det,NA,ducks,those,those ducks,False,NA,ducks those
+6,num_det,that,lamp,one,that one lamp,False,NA,lamp one that
+6,num_det,these,ribbons,four,these four ribbons,False,NA,ribbons four these
+6,num_det,these,suitcases,eight,these eight suitcases,False,NA,suitcases eight these
+6,num,NA,lamps,four,four lamps,False,NA,lamps four
+6,num_det,those,trays,four,those four trays,False,NA,trays four those
+6,num_det,this,shirt,one,this one shirt,False,NA,shirt one this
+6,num_det,those,bowls,two,those two bowls,False,NA,bowls two those
+6,det,NA,key,this,this key,False,NA,key this
+6,num_det,these,bananas,six,these six bananas,False,NA,bananas six these
+6,num_det,those,cows,nine,those nine cows,False,NA,cows nine those
+6,num,NA,cherries,two,two cherries,False,NA,cherries two
+6,num_det,those,pigs,two,those two pigs,False,NA,pigs two those
+6,det,NA,pig,that,that pig,False,NA,pig that
+6,num,NA,shirts,nine,nine shirts,False,NA,shirts nine
+6,num,NA,bananas,four,four bananas,False,NA,bananas four
+6,num_det,these,shoes,seven,these seven shoes,False,NA,shoes seven these
+6,num_det,these,hats,three,these three hats,False,NA,hats three these
+6,num_det,these,cars,six,these six cars,False,NA,cars six these
+7,num,NA,handbags,NA,three handbags,NA,three,three handbags
+7,det,NA,suitcases,NA,these suitcases,NA,these,these suitcases
+7,num,NA,chairs,NA,three chairs,NA,three,three chairs
+7,det,NA,vase,NA,that vase,NA,that,that vase
+7,num,NA,pitchers,NA,nine pitchers,NA,nine,nine pitchers
+7,det,NA,shovel,NA,this shovel,NA,this,shovel this
+7,num,NA,boxes,NA,seven boxes,NA,seven,seven boxes
+7,det,NA,shirt,NA,that shirt,NA,that,shirt that
+7,num,NA,cars,NA,eight cars,NA,eight,eight cars
+7,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+7,det,NA,cherry,NA,this cherry,NA,this,cherry this
+7,det,NA,pillows,NA,these pillows,NA,these,these pillows
+7,det,NA,lamps,NA,these lamps,NA,these,lamps these
+7,det,NA,cars,NA,those cars,NA,those,those cars
+7,num,NA,keys,NA,seven keys,NA,seven,seven keys
+7,num,NA,lamps,NA,six lamps,NA,six,six lamps
+7,det,NA,tray,NA,that tray,NA,that,that tray
+7,det,NA,cows,NA,those cows,NA,those,those cows
+7,num,NA,pears,NA,seven pears,NA,seven,seven pears
+7,num,NA,vases,NA,three vases,NA,three,three vases
+7,det,NA,ducks,NA,these ducks,NA,these,these ducks
+7,num,NA,suitcases,NA,two suitcases,NA,two,suitcases two
+7,det,NA,pigs,NA,these pigs,NA,these,these pigs
+7,num,NA,pineapples,NA,three pineapples,NA,three,three pineapples
+7,num,NA,horses,NA,three horses,NA,three,three horses
+7,num,NA,pillows,NA,three pillows,NA,three,pillows three
+7,num,NA,shirts,NA,six shirts,NA,six,six shirts
+7,det,NA,handbags,NA,those handbags,NA,those,those handbags
+7,num,NA,spatula,NA,one spatula,NA,one,one spatula
+7,det,NA,hats,NA,these hats,NA,these,these hats
+7,num_det,those,lamps,three,those three lamps,False,NA,lamps those three
+7,num_det,this,shirt,one,this one shirt,False,NA,shirt one this
+7,num_det,those,pigs,two,those two pigs,False,NA,pigs two those
+7,det,NA,handbags,those,those handbags,False,NA,handbags those
+7,num_det,those,boxes,ten,those ten boxes,False,NA,boxes those ten
+7,num,NA,scarfs,two,two scarfs,False,NA,scarfs two
+7,num,NA,cherries,three,three cherries,False,NA,cherries three
+7,num_det,these,darts,six,these six darts,False,NA,darts six these
+7,num_det,those,couches,four,those four couches,False,NA,couches four those
+7,num_det,these,trays,eight,these eight trays,False,NA,trays eight these
+7,num,NA,lamps,ten,ten lamps,False,NA,lamps ten
+7,det,NA,pig,that,that pig,False,NA,pig that
+7,num,NA,vases,six,six vases,False,NA,six vases
+7,num,NA,hats,six,six hats,False,NA,hats six
+7,num_det,these,pitchers,four,these four pitchers,False,NA,pitchers four these
+7,num,NA,cars,three,three cars,False,NA,cars three
+7,num_det,those,ribbons,two,those two ribbons,False,NA,ribbons two those
+7,num_det,these,horses,four,these four horses,False,NA,horses four these
+7,num_det,these,bowls,eight,these eight bowls,False,NA,bowls eight these
+7,num_det,this,cow,one,this one cow,False,NA,cow one this
+7,det,NA,horse,this,this horse,False,NA,horse this
+7,det,NA,vase,that,that vase,False,NA,vase that
+7,det,NA,scarfs,those,those scarfs,False,NA,scarfs those
+7,num_det,those,pears,five,those five pears,False,NA,pears five those
+7,num_det,these,pillows,seven,these seven pillows,False,NA,pillows seven these
+7,num_det,these,shoes,two,these two shoes,False,NA,shoes two these
+7,num_det,these,cherries,five,these five cherries,False,NA,cherries five these
+7,num_det,those,leaves,two,those two leaves,False,NA,leaves two those
+7,num_det,these,keys,six,these six keys,False,NA,keys six these
+7,det,NA,shirt,this,this shirt,False,NA,shirt this
+7,num,NA,shirts,seven,seven shirts,False,NA,shirts seven
+7,num,NA,pillow,one,one pillow,False,NA,pillow one
+7,num_det,those,scarfs,nine,those nine scarfs,False,NA,scarfs nine those
+7,num_det,those,hats,ten,those ten hats,False,NA,hats ten those
+7,num,NA,ducks,seven,seven ducks,False,NA,ducks seven
+7,num_det,these,vases,eight,these eight vases,False,NA,vases eight these
+7,num_det,those,shovels,two,those two shovels,False,NA,shovels two those
+7,num_det,those,suitcases,three,those three suitcases,False,NA,suitcases three those
+7,num_det,those,chairs,three,those three chairs,False,NA,chairs three those
+7,det,NA,boxes,those,those boxes,False,NA,boxes those
+7,det,NA,hat,that,that hat,False,NA,hat that
+7,num_det,these,ducks,three,these three ducks,False,NA,ducks three these
+7,det,NA,spatula,this,this spatula,False,NA,spatula this
+7,num_det,that,handbag,one,that one handbag,False,NA,handbag one that
+7,num_det,those,spatulas,five,those five spatulas,False,NA,spatulas five those
+7,num_det,those,bananas,six,those six bananas,False,NA,bananas six those
+7,det,NA,pitchers,those,those pitchers,False,NA,pitchers those
+7,num_det,those,cars,five,those five cars,False,NA,cars five those
+7,num_det,those,pineapples,six,those six pineapples,False,NA,pineapples six those
+7,num,NA,leaves,ten,ten leaves,False,NA,leaves ten
+8,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+8,num,NA,bananas,NA,four bananas,NA,four,bananas four
+8,num,NA,vase,NA,one vase,NA,one,vase one
+8,det,NA,lamp,NA,that lamp,NA,that,lamp that
+8,det,NA,pears,NA,these pears,NA,these,pears these
+8,num,NA,pears,NA,three pears,NA,three,pears three
+8,num,NA,handbags,NA,five handbags,NA,five,handbags five
+8,num,NA,cows,NA,four cows,NA,four,cows four
+8,det,NA,pineapple,NA,this pineapple,NA,this,pineapple this
+8,num,NA,cherries,NA,five cherries,NA,five,cherries five
+8,num,NA,chairs,NA,nine chairs,NA,nine,chairs nine
+8,det,NA,cows,NA,those cows,NA,those,cows those
+8,det,NA,cars,NA,those cars,NA,those,cars those
+8,det,NA,cherries,NA,those cherries,NA,those,cherries those
+8,num,NA,trays,NA,ten trays,NA,ten,trays ten
+8,det,NA,ducks,NA,these ducks,NA,these,ducks these
+8,det,NA,box,NA,this box,NA,this,box this
+8,num,NA,couches,NA,three couches,NA,three,couches three
+8,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+8,det,NA,banana,NA,this banana,NA,this,banana this
+8,det,NA,couches,NA,those couches,NA,those,couches those
+8,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+8,num,NA,shirts,NA,ten shirts,NA,ten,shirts ten
+8,det,NA,scarfs,NA,these scarfs,NA,these,scarfs these
+8,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+8,num,NA,keys,NA,eight keys,NA,eight,keys eight
+8,det,NA,tray,NA,that tray,NA,that,tray that
+8,det,NA,shirts,NA,those shirts,NA,those,shirts those
+8,num,NA,boxes,NA,seven boxes,NA,seven,boxes seven
+8,num,NA,ribbons,NA,six ribbons,NA,six,ribbons six
+8,num_det,these,couches,eight,these eight couches,False,NA,couches eight these
+8,num,NA,shoes,two,two shoes,False,NA,shoes two
+8,num,NA,lamps,three,three lamps,False,NA,lamps three
+8,num_det,that,bowl,one,that one bowl,False,NA,bowl that one
+8,num_det,these,pears,six,these six pears,False,NA,pears these six
+8,det,NA,ducks,those,those ducks,False,NA,ducks those
+8,num_det,those,ducks,three,those three ducks,False,NA,ducks those three
+8,num,NA,pineapples,nine,nine pineapples,False,NA,pineapples nine
+8,num_det,these,cherries,two,these two cherries,False,NA,cherries these two
+8,num_det,those,chairs,five,those five chairs,False,NA,chairs those five
+8,num_det,those,ribbons,ten,those ten ribbons,False,NA,ribbons those ten
+8,num_det,those,spatulas,nine,those nine spatulas,False,NA,spatulas those nine
+8,num,NA,bananas,three,three bananas,False,NA,bananas three
+8,det,NA,leaves,these,these leaves,False,NA,leaves these
+8,num_det,those,suitcases,six,those six suitcases,False,NA,suitcases six those
+8,det,NA,hat,that,that hat,False,NA,hat that
+8,num_det,those,scarfs,five,those five scarfs,False,NA,scarfs five those
+8,num_det,these,lamps,two,these two lamps,False,NA,lamps two these
+8,num_det,those,cows,three,those three cows,False,NA,cows three those
+8,num_det,this,car,one,this one car,False,NA,car one this
+8,num_det,those,pitchers,two,those two pitchers,False,NA,pitchers two those
+8,num_det,those,handbags,nine,those nine handbags,False,NA,handbags nine those
+8,num_det,these,keys,nine,these nine keys,False,NA,keys nine these
+8,num_det,these,hats,six,these six hats,False,NA,hats six these
+8,num_det,these,pigs,seven,these seven pigs,False,NA,pigs seven these
+8,det,NA,couch,this,this couch,False,NA,couch this
+8,num_det,these,shovels,four,these four shovels,False,NA,shovels four these
+8,num,NA,spatulas,nine,nine spatulas,False,NA,spatulas nine
+8,num,NA,bowls,seven,seven bowls,False,NA,bowls seven
+8,num,NA,shovels,nine,nine shovels,False,NA,shovels nine
+8,det,NA,shirt,that,that shirt,False,NA,shirt that
+8,num_det,those,shirts,eight,those eight shirts,False,NA,shirts eight those
+8,num_det,this,leaf,one,this one leaf,False,NA,leaf one this
+8,num_det,these,horses,two,these two horses,False,NA,horses two these
+8,num,NA,vases,nine,nine vases,False,NA,vases nine
+8,num_det,those,pillows,five,those five pillows,False,NA,pillows five those
+8,num_det,those,darts,nine,those nine darts,False,NA,darts nine those
+8,num_det,those,pineapples,five,those five pineapples,False,NA,pineapples five those
+8,det,NA,scarfs,those,those scarfs,False,NA,scarfs those
+8,num_det,these,bananas,six,these six bananas,False,NA,bananas six these
+8,num,NA,ribbons,six,six ribbons,False,NA,ribbons six
+8,det,NA,darts,these,these darts,False,NA,darts these
+8,det,NA,bowls,those,those bowls,False,NA,bowls those
+8,num_det,those,shoes,six,those six shoes,False,NA,shoes six those
+8,num_det,those,vases,five,those five vases,False,NA,vases five those
+8,det,NA,cow,that,that cow,False,NA,cow that
+8,det,NA,cherries,these,these cherries,False,NA,cherries these
+8,num_det,those,boxes,four,those four boxes,False,NA,boxes four those
+8,num_det,these,trays,five,these five trays,False,NA,trays five these
+8,num,NA,hats,six,six hats,False,NA,hats six
+9,num,NA,spatula,NA,one spatula,NA,one,spatula one
+9,det,NA,keys,NA,those keys,NA,those,keys those
+9,num,NA,bananas,NA,seven bananas,NA,seven,bananas seven
+9,det,NA,leaves,NA,those leaves,NA,those,leaves those
+9,num,NA,shirts,NA,eight shirts,NA,eight,shirts eight
+9,det,NA,lamp,NA,that lamp,NA,that,lamp that
+9,num,NA,cherries,NA,three cherries,NA,three,cherries three
+9,num,NA,darts,NA,seven darts,NA,seven,darts seven
+9,det,NA,vases,NA,these vases,NA,these,vases these
+9,det,NA,ribbons,NA,those ribbons,NA,those,ribbons those
+9,det,NA,pitchers,NA,these pitchers,NA,these,pitchers these
+9,det,NA,cherries,NA,those cherries,NA,those,cherries those
+9,num,NA,lamps,NA,three lamps,NA,three,lamps three
+9,num,NA,chairs,NA,three chairs,NA,three,chairs three
+9,det,NA,duck,NA,this duck,NA,this,duck this
+9,det,NA,shoe,NA,this shoe,NA,this,shoe this
+9,det,NA,pillow,NA,that pillow,NA,that,pillow that
+9,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+9,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+9,num,NA,pig,NA,one pig,NA,one,pig one
+9,num,NA,pillows,NA,three pillows,NA,three,pillows three
+9,num,NA,cows,NA,six cows,NA,six,cows six
+9,det,NA,horse,NA,this horse,NA,this,horse this
+9,det,NA,pineapple,NA,that pineapple,NA,that,pineapple that
+9,num,NA,couches,NA,four couches,NA,four,couches four
+9,num,NA,keys,NA,five keys,NA,five,keys five
+9,det,NA,couches,NA,those couches,NA,those,couches those
+9,num,NA,trays,NA,three trays,NA,three,trays three
+9,num,NA,ribbons,NA,five ribbons,NA,five,ribbons five
+9,det,NA,pear,NA,this pear,NA,this,pear this
+9,det,NA,shovel,this,this shovel,False,NA,shovel this
+9,num_det,this,box,one,this one box,False,NA,box one this
+9,num_det,those,lamps,nine,those nine lamps,False,NA,lamps nine those
+9,num_det,these,cherries,six,these six cherries,False,NA,cherries six these
+9,det,NA,bananas,those,those bananas,False,NA,bananas those
+9,det,NA,bowls,these,these bowls,False,NA,bowls these
+9,num,NA,car,one,one car,False,NA,car one
+9,num_det,these,trays,four,these four trays,False,NA,trays four these
+9,num_det,these,ribbons,five,these five ribbons,False,NA,ribbons five these
+9,num_det,those,leaves,seven,those seven leaves,False,NA,leaves seven those
+9,det,NA,vases,these,these vases,False,NA,vases these
+9,det,NA,handbags,these,these handbags,False,NA,handbags these
+9,num,NA,pigs,two,two pigs,False,NA,pigs two
+9,num,NA,horses,four,four horses,False,NA,horses four
+9,num_det,those,ducks,nine,those nine ducks,False,NA,ducks nine those
+9,num_det,these,pineapples,five,these five pineapples,False,NA,these five pineapples
+9,num,NA,bowl,one,one bowl,False,NA,bowl one
+9,det,NA,pears,these,these pears,False,NA,pears these
+9,num_det,these,hats,three,these three hats,False,NA,hats three these
+9,num_det,those,chairs,ten,those ten chairs,False,NA,chairs ten those
+9,num_det,those,bananas,nine,those nine bananas,False,NA,bananas nine those
+9,num_det,these,pitchers,ten,these ten pitchers,False,NA,pitchers ten these
+9,num,NA,cherries,ten,ten cherries,False,NA,cherries ten
+9,num,NA,hats,ten,ten hats,False,NA,hats ten
+9,det,NA,spatulas,these,these spatulas,False,NA,spatulas these
+9,det,NA,cars,those,those cars,False,NA,cars those
+9,num_det,those,cows,three,those three cows,False,NA,cows three those
+9,num_det,this,shirt,one,this one shirt,False,NA,shirt one this
+9,num,NA,shirts,ten,ten shirts,False,NA,shirts ten
+9,num_det,those,shovels,two,those two shovels,False,NA,shovels two those
+9,num_det,those,bowls,three,those three bowls,False,NA,bowls three those
+9,num_det,those,vases,nine,those nine vases,False,NA,vases nine those
+9,num_det,these,cars,four,these four cars,False,NA,cars four these
+9,num_det,these,handbags,eight,these eight handbags,False,NA,handbags eight these
+9,num,NA,shoes,ten,ten shoes,False,NA,shoes ten
+9,num_det,those,scarfs,seven,those seven scarfs,False,NA,scarfs seven those
+9,num_det,those,pigs,five,those five pigs,False,NA,pigs five those
+9,num_det,these,pears,seven,these seven pears,False,NA,pears seven these
+9,num_det,these,darts,four,these four darts,False,NA,darts four these
+9,num,NA,boxes,three,three boxes,False,NA,boxes three
+9,det,NA,cows,those,those cows,False,NA,cows those
+9,num_det,those,couches,six,those six couches,False,NA,couches six those
+9,num_det,those,suitcases,eight,those eight suitcases,False,NA,suitcases eight those
+9,num_det,these,keys,nine,these nine keys,False,NA,keys nine these
+9,num,NA,keys,six,six keys,False,NA,keys six
+9,det,NA,darts,those,those darts,False,NA,darts those
+9,num_det,those,spatulas,four,those four spatulas,False,NA,spatulas four those
+9,num_det,these,shoes,seven,these seven shoes,False,NA,shoes seven these
+9,num_det,that,horse,one,that one horse,False,NA,horse one that
+9,num_det,this,pillow,one,this one pillow,False,NA,pillow one this
+10,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+10,det,NA,cherry,NA,this cherry,NA,this,cherry this
+10,det,NA,pillow,NA,that pillow,NA,that,pillow that
+10,det,NA,dart,NA,that dart,NA,that,dart that
+10,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+10,det,NA,trays,NA,those trays,NA,those,trays those
+10,num,NA,couches,NA,eight couches,NA,eight,eight couches
+10,num,NA,suitcases,NA,five suitcases,NA,five,suitcases five
+10,det,NA,cars,NA,these cars,NA,these,cars these
+10,det,NA,couch,NA,that couch,NA,that,couch that
+10,det,NA,shoes,NA,those shoes,NA,those,shoes those
+10,num,NA,ducks,NA,seven ducks,NA,seven,ducks seven
+10,num,NA,shoes,NA,six shoes,NA,six,shoes six
+10,num,NA,handbags,NA,ten handbags,NA,ten,handbags ten
+10,det,NA,chairs,NA,those chairs,NA,those,chairs those
+10,det,NA,horses,NA,those horses,NA,those,horses those
+10,num,NA,bowls,NA,six bowls,NA,six,bowls six
+10,num,NA,cherries,NA,three cherries,NA,three,cherries three
+10,num,NA,chairs,NA,seven chairs,NA,seven,chairs seven
+10,det,NA,suitcase,NA,this suitcase,NA,this,suitcase this
+10,num,NA,cars,NA,three cars,NA,three,cars three
+10,num,NA,keys,NA,two keys,NA,two,keys two
+10,num,NA,trays,NA,ten trays,NA,ten,trays ten
+10,det,NA,duck,NA,this duck,NA,this,duck this
+10,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+10,num,NA,darts,NA,nine darts,NA,nine,darts nine
+10,det,NA,shovel,NA,this shovel,NA,this,shovel this
+10,num,NA,cows,NA,eight cows,NA,eight,cows eight
+10,det,NA,handbag,NA,that handbag,NA,that,handbag that
+10,det,NA,box,NA,this box,NA,this,box this
+10,num_det,those,spatulas,three,those three spatulas,False,NA,spatulas those three
+10,num_det,those,shirts,three,those three shirts,False,NA,shirts those three
+10,num,NA,vases,four,four vases,False,NA,vases four
+10,det,NA,pig,this,this pig,False,NA,pig this
+10,num_det,this,lamp,one,this one lamp,False,NA,lamp one this
+10,num_det,these,suitcases,five,these five suitcases,False,NA,suitcases these five
+10,num,NA,pears,three,three pears,False,NA,pears three
+10,num_det,those,darts,two,those two darts,False,NA,darts those two
+10,num_det,those,cars,nine,those nine cars,False,NA,nine those cars
+10,num_det,these,cherries,two,these two cherries,False,NA,cherries these two
+10,num_det,those,handbags,three,those three handbags,False,NA,handbags those three
+10,num_det,these,shovels,two,these two shovels,False,NA,shovels these two
+10,det,NA,ribbons,those,those ribbons,False,NA,ribbons those
+10,num,NA,suitcases,ten,ten suitcases,False,NA,suitcases ten
+10,num,NA,banana,one,one banana,False,NA,banana one
+10,num,NA,bowls,six,six bowls,False,NA,bowls six
+10,num_det,those,scarfs,seven,those seven scarfs,False,NA,scarfs those seven
+10,det,NA,duck,that,that duck,False,NA,duck that
+10,num_det,these,pigs,two,these two pigs,False,NA,pigs these two
+10,num_det,these,pears,ten,these ten pears,False,NA,pears these ten
+10,num,NA,pillows,ten,ten pillows,False,NA,pillows ten
+10,num_det,those,couches,seven,those seven couches,False,NA,couches those seven
+10,num_det,those,keys,eight,those eight keys,False,NA,keys those eight
+10,det,NA,pineapple,that,that pineapple,False,NA,pineapple that
+10,det,NA,shoes,these,these shoes,False,NA,shoes these
+10,num,NA,darts,eight,eight darts,False,NA,darts eight
+10,num_det,this,tray,one,this one tray,False,NA,tray this one
+10,num_det,those,vases,five,those five vases,False,NA,vases those five
+10,num_det,these,ducks,four,these four ducks,False,NA,ducks these four
+10,num_det,those,pillows,three,those three pillows,False,NA,pillows those three
+10,num,NA,keys,six,six keys,False,NA,keys six
+10,num_det,these,hats,seven,these seven hats,False,NA,hats these seven
+10,num,NA,cherries,seven,seven cherries,False,NA,cherries seven
+10,det,NA,shirts,those,those shirts,False,NA,shirts those
+10,det,NA,hat,that,that hat,False,NA,hat that
+10,num_det,these,boxes,two,these two boxes,False,NA,boxes these two
+10,num_det,those,pitchers,six,those six pitchers,False,NA,pitchers those six
+10,num_det,those,bowls,nine,those nine bowls,False,NA,bowls those nine
+10,num_det,these,leaves,six,these six leaves,False,NA,six these leaves
+10,num_det,those,pineapples,three,those three pineapples,False,NA,pineapples those three
+10,num_det,that,horse,one,that one horse,False,NA,horse that one
+10,num,NA,shoe,one,one shoe,False,NA,shoe one
+10,num_det,these,cows,ten,these ten cows,False,NA,cows these ten
+10,det,NA,box,this,this box,False,NA,box this
+10,det,NA,key,that,that key,False,NA,key that
+10,num_det,these,bananas,eight,these eight bananas,False,NA,bananas these eight
+10,num_det,those,chairs,nine,those nine chairs,False,NA,chairs those nine
+10,num_det,these,ribbons,eight,these eight ribbons,False,NA,ribbons these eight
+10,num_det,this,shoe,one,this one shoe,False,NA,shoe this one
+10,det,NA,cow,this,this cow,False,NA,cow this
+11,det,NA,shovels,NA,these shovels,NA,these,shovels these
+11,num,NA,trays,NA,three trays,NA,three,trays three
+11,num,NA,couches,NA,four couches,NA,four,couches four
+11,det,NA,pillows,NA,these pillows,NA,these,pillows these
+11,num,NA,vases,NA,eight vases,NA,eight,vases eight
+11,num,NA,boxes,NA,three boxes,NA,three,boxes three
+11,det,NA,keys,NA,those keys,NA,those,keys those
+11,det,NA,bowl,NA,this bowl,NA,this,bowl this
+11,num,NA,shoes,NA,seven shoes,NA,seven,shoes seven
+11,det,NA,shoe,NA,this shoe,NA,this,shoe this
+11,num,NA,spatula,NA,one spatula,NA,one,spatula one
+11,det,NA,hat,NA,this hat,NA,this,hat this
+11,det,NA,ducks,NA,those ducks,NA,those,ducks those
+11,num,NA,hats,NA,two hats,NA,two,hats two
+11,det,NA,horse,NA,that horse,NA,that,horse that
+11,det,NA,leaf,NA,that leaf,NA,that,leaf that
+11,det,NA,cherries,NA,those cherries,NA,those,cherries those
+11,det,NA,dart,NA,this dart,NA,this,dart this
+11,num,NA,pigs,NA,seven pigs,NA,seven,pigs seven
+11,det,NA,car,NA,this car,NA,this,car this
+11,num,NA,keys,NA,nine keys,NA,nine,keys nine
+11,num,NA,lamp,NA,one lamp,NA,one,lamp one
+11,num,NA,chairs,NA,ten chairs,NA,ten,chairs ten
+11,num,NA,leaves,NA,four leaves,NA,four,leaves four
+11,det,NA,handbags,NA,those handbags,NA,those,handbags those
+11,num,NA,cherries,NA,five cherries,NA,five,cherries five
+11,num,NA,ribbons,NA,four ribbons,NA,four,ribbons four
+11,det,NA,lamp,NA,this lamp,NA,this,lamp this
+11,num,NA,pineapples,NA,ten pineapples,NA,ten,pineapples ten
+11,det,NA,couches,NA,those couches,NA,those,couches those
+11,num_det,these,handbags,nine,these nine handbags,False,NA,handbags these nine
+11,det,NA,dart,this,this dart,False,NA,dart this
+11,det,NA,lamp,that,that lamp,False,NA,lamp that
+11,det,NA,couches,these,these couches,False,NA,couches these
+11,num_det,those,pineapples,ten,those ten pineapples,False,NA,pineapples those ten
+11,det,NA,leaves,those,those leaves,False,NA,leaves those
+11,num_det,those,ribbons,six,those six ribbons,False,NA,ribbons those six
+11,num_det,that,suitcase,one,that one suitcase,False,NA,suitcase that one
+11,num_det,those,shovels,three,those three shovels,False,NA,shovels those three
+11,num,NA,keys,three,three keys,False,NA,keys three
+11,num_det,those,pigs,two,those two pigs,False,NA,pigs those two
+11,num,NA,spatulas,seven,seven spatulas,False,NA,spatulas seven
+11,num_det,these,hats,four,these four hats,False,NA,hats these four
+11,num_det,those,leaves,seven,those seven leaves,False,NA,leaves those seven
+11,num_det,those,chairs,nine,those nine chairs,False,NA,chairs those nine
+11,num_det,these,keys,seven,these seven keys,False,NA,keys these seven
+11,num_det,those,pitchers,five,those five pitchers,False,NA,pitchers those five
+11,num_det,those,couches,nine,those nine couches,False,NA,couches those nine
+11,num_det,those,lamps,nine,those nine lamps,False,NA,lamps those nine
+11,num_det,these,scarfs,six,these six scarfs,False,NA,scarfs these six
+11,det,NA,trays,those,those trays,False,NA,trays those
+11,num,NA,horses,three,three horses,False,NA,horses three
+11,num,NA,scarfs,nine,nine scarfs,False,NA,scarfs nine
+11,num_det,those,boxes,eight,those eight boxes,False,NA,boxes those eight
+11,num,NA,cows,six,six cows,False,NA,cows six
+11,num_det,these,shoes,seven,these seven shoes,False,NA,shoes these seven
+11,det,NA,pillows,those,those pillows,False,NA,pillows those
+11,num_det,those,shirts,seven,those seven shirts,False,NA,shirts those seven
+11,det,NA,suitcase,this,this suitcase,False,NA,suitcase this
+11,num_det,these,trays,seven,these seven trays,False,NA,trays these seven
+11,num_det,those,pillows,three,those three pillows,False,NA,pillows those three
+11,num_det,those,bananas,nine,those nine bananas,False,NA,bananas those nine
+11,num_det,those,spatulas,eight,those eight spatulas,False,NA,eight those spatulas
+11,num_det,these,ducks,eight,these eight ducks,False,NA,ducks these eight
+11,num_det,this,dart,one,this one dart,False,NA,dart this one
+11,num,NA,couch,one,one couch,False,NA,couch one
+11,num_det,those,cows,four,those four cows,False,NA,cows those four
+11,num,NA,pigs,seven,seven pigs,False,NA,pigs seven
+11,det,NA,chair,that,that chair,False,NA,chair that
+11,num,NA,hats,five,five hats,False,NA,hats five
+11,num_det,these,cherries,ten,these ten cherries,False,NA,cherries these ten
+11,num_det,these,vases,ten,these ten vases,False,NA,vases these ten
+11,num_det,these,pears,nine,these nine pears,False,NA,pears these nine
+11,num_det,those,bowls,five,those five bowls,False,NA,bowls those five
+11,det,NA,shoe,this,this shoe,False,NA,shoe this
+11,det,NA,shovels,these,these shovels,False,NA,shovels these
+11,num,NA,pineapple,one,one pineapple,False,NA,pineapple one
+11,num,NA,chairs,four,four chairs,False,NA,chairs four
+11,num_det,those,horses,four,those four horses,False,NA,horses those four
+11,num_det,these,cars,seven,these seven cars,False,NA,cars these seven
+12,num,NA,ducks,NA,six ducks,NA,six,ducks six
+12,det,NA,ducks,NA,these ducks,NA,these,ducks these
+12,det,NA,spatula,NA,this spatula,NA,this,spatula this
+12,num,NA,chairs,NA,ten chairs,NA,ten,chairs ten
+12,det,NA,chairs,NA,these chairs,NA,these,chairs these
+12,num,NA,cars,NA,three cars,NA,three,cars three
+12,num,NA,couch,NA,one couch,NA,one,couch one
+12,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+12,det,NA,hats,NA,those hats,NA,those,hats those
+12,num,NA,boxes,NA,six boxes,NA,six,boxes six
+12,det,NA,pineapples,NA,those pineapples,NA,those,pineapples those
+12,det,NA,leaf,NA,that leaf,NA,that,leaf that
+12,num,NA,pillows,NA,three pillows,NA,three,pillows three
+12,num,NA,keys,NA,eight keys,NA,eight,keys eight
+12,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+12,det,NA,bowls,NA,these bowls,NA,these,bowls these
+12,det,NA,box,NA,that box,NA,that,box that
+12,det,NA,shirt,NA,this shirt,NA,this,shirt this
+12,det,NA,bananas,NA,those bananas,NA,those,bananas those
+12,num,NA,cherries,NA,ten cherries,NA,ten,cherries ten
+12,num,NA,bowls,NA,seven bowls,NA,seven,bowls seven
+12,det,NA,keys,NA,these keys,NA,these,keys these
+12,num,NA,pitcher,NA,one pitcher,NA,one,pitcher one
+12,num,NA,suitcases,NA,seven suitcases,NA,seven,suitcases seven
+12,det,NA,shoe,NA,this shoe,NA,this,shoe this
+12,det,NA,dart,NA,that dart,NA,that,dart that
+12,num,NA,shoe,NA,one shoe,NA,one,shoe one
+12,num,NA,spatulas,NA,eight spatulas,NA,eight,spatulas eight
+12,num,NA,darts,NA,eight darts,NA,eight,darts eight
+12,det,NA,tray,NA,that tray,NA,that,tray that
+12,num,NA,pillows,two,two pillows,False,NA,pillows two
+12,det,NA,tray,this,this tray,False,NA,tray this
+12,num_det,those,keys,two,those two keys,False,NA,keys two those
+12,num_det,those,shirts,four,those four shirts,False,NA,shirts four those
+12,num,NA,handbags,ten,ten handbags,False,NA,handbags ten
+12,num_det,these,handbags,five,these five handbags,False,NA,handbags five these
+12,num_det,those,couches,nine,those nine couches,False,NA,couches nine those
+12,num_det,these,bowls,eight,these eight bowls,False,NA,bowls eight these
+12,num_det,those,boxes,eight,those eight boxes,False,NA,boxes eight those
+12,num_det,that,pear,one,that one pear,False,NA,pear one that
+12,num,NA,shovels,seven,seven shovels,False,NA,shovels seven
+12,num,NA,bowls,three,three bowls,False,NA,bowls three
+12,det,NA,cows,these,these cows,False,NA,cows these
+12,num_det,those,scarfs,four,those four scarfs,False,NA,scarfs four those
+12,det,NA,scarf,this,this scarf,False,NA,scarf this
+12,num_det,those,shoes,seven,those seven shoes,False,NA,shoes seven those
+12,det,NA,pineapple,that,that pineapple,False,NA,pineapple that
+12,num_det,these,pineapples,two,these two pineapples,False,NA,pineapples two these
+12,num_det,these,pigs,four,these four pigs,False,NA,pigs four these
+12,num_det,those,leaves,ten,those ten leaves,False,NA,leaves ten those
+12,num_det,this,car,one,this one car,False,NA,car one this
+12,num_det,these,pillows,five,these five pillows,False,NA,pillows five these
+12,det,NA,shovel,this,this shovel,False,NA,shovel this
+12,det,NA,shirts,those,those shirts,False,NA,shirts those
+12,num,NA,chairs,nine,nine chairs,False,NA,chairs nine
+12,num,NA,spatulas,seven,seven spatulas,False,NA,spatulas seven
+12,num_det,these,pitchers,three,these three pitchers,False,NA,pitchers three these
+12,num_det,those,lamps,four,those four lamps,False,NA,lamps four those
+12,num_det,those,ribbons,four,those four ribbons,False,NA,ribbons four those
+12,num_det,that,duck,one,that one duck,False,NA,duck one that
+12,num_det,these,hats,three,these three hats,False,NA,hats three these
+12,num_det,these,horses,two,these two horses,False,NA,horses two these
+12,num_det,these,cherries,six,these six cherries,False,NA,cherries six these
+12,num,NA,trays,nine,nine trays,False,NA,trays nine
+12,num_det,those,cows,seven,those seven cows,False,NA,cows seven those
+12,num,NA,pineapples,six,six pineapples,False,NA,pineapples six
+12,num_det,those,spatulas,four,those four spatulas,False,NA,spatulas four those
+12,det,NA,handbags,these,these handbags,False,NA,handbags these
+12,num_det,these,shovels,nine,these nine shovels,False,NA,shovels nine these
+12,num_det,those,chairs,ten,those ten chairs,False,NA,chairs ten those
+12,det,NA,keys,these,these keys,False,NA,keys these
+12,num_det,this,suitcase,one,this one suitcase,False,NA,suitcase one this
+12,num_det,those,trays,two,those two trays,False,NA,trays two those
+12,num_det,these,bananas,two,these two bananas,False,NA,bananas two these
+12,num_det,these,darts,five,these five darts,False,NA,darts five these
+12,num,NA,scarfs,five,five scarfs,False,NA,scarfs five
+12,num_det,these,vases,nine,these nine vases,False,NA,vases nine these
+12,det,NA,darts,these,these darts,False,NA,darts these
+12,det,NA,spatula,this,this spatula,False,NA,spatula this
+12,num,NA,hat,one,one hat,False,NA,hat one
+13,det,NA,ducks,NA,these ducks,NA,these,ducks these
+13,num,NA,shovels,NA,six shovels,NA,six,shovels six
+13,num,NA,scarfs,NA,six scarfs,NA,six,scarfs six
+13,num,NA,pigs,NA,nine pigs,NA,nine,pigs nine
+13,det,NA,box,NA,that box,NA,that,box that
+13,num,NA,bananas,NA,two bananas,NA,two,bananas two
+13,num,NA,bowls,NA,two bowls,NA,two,bowls two
+13,det,NA,pear,NA,this pear,NA,this,pear this
+13,num,NA,suitcases,NA,ten suitcases,NA,ten,suitcases ten
+13,det,NA,pineapple,NA,that pineapple,NA,that,pineapple that
+13,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+13,num,NA,cherries,NA,two cherries,NA,two,cherries two
+13,det,NA,bowls,NA,those bowls,NA,those,bowls those
+13,det,NA,scarfs,NA,these scarfs,NA,these,scarfs these
+13,num,NA,cars,NA,seven cars,NA,seven,cars seven
+13,num,NA,trays,NA,nine trays,NA,nine,trays nine
+13,num,NA,keys,NA,two keys,NA,two,keys two
+13,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+13,det,NA,shovels,NA,these shovels,NA,these,shovels these
+13,det,NA,darts,NA,those darts,NA,those,darts those
+13,det,NA,shoes,NA,these shoes,NA,these,shoes these
+13,det,NA,handbags,NA,those handbags,NA,those,handbags those
+13,det,NA,spatulas,NA,those spatulas,NA,those,spatulas those
+13,det,NA,shirts,NA,these shirts,NA,these,shirts these
+13,num,NA,shoes,NA,three shoes,NA,three,shoes three
+13,det,NA,cherry,NA,that cherry,NA,that,cherry that
+13,det,NA,vases,NA,these vases,NA,these,vases these
+13,num,NA,ducks,NA,ten ducks,NA,ten,ducks ten
+13,num,NA,boxes,NA,four boxes,NA,four,boxes four
+13,num,NA,darts,NA,three darts,NA,three,darts three
+13,num_det,those,keys,nine,those nine keys,False,NA,keys nine those
+13,det,NA,spatulas,these,these spatulas,False,NA,spatulas these
+13,det,NA,scarf,this,this scarf,False,NA,scarf this
+13,num,NA,couches,seven,seven couches,False,NA,couches seven
+13,num_det,this,pillow,one,this one pillow,False,NA,pillow one this
+13,num_det,these,cows,six,these six cows,False,NA,cows six these
+13,num_det,those,shovels,seven,those seven shovels,False,NA,shovels seven those
+13,num_det,these,scarfs,six,these six scarfs,False,NA,scarfs six these
+13,num_det,these,pineapples,eight,these eight pineapples,False,NA,pineapples eight these
+13,num_det,those,couches,six,those six couches,False,NA,couches six those
+13,num_det,those,darts,five,those five darts,False,NA,darts five those
+13,num_det,those,hats,eight,those eight hats,False,NA,hats eight those
+13,num_det,this,suitcase,one,this one suitcase,False,NA,suitcase one this
+13,num_det,those,pitchers,two,those two pitchers,False,NA,pitchers two those
+13,det,NA,shovel,that,that shovel,False,NA,shovel that
+13,det,NA,trays,these,these trays,False,NA,trays these
+13,det,NA,bowl,that,that bowl,False,NA,bowl that
+13,num_det,those,shirts,eight,those eight shirts,False,NA,shirts eight those
+13,det,NA,pear,that,that pear,False,NA,pear that
+13,num,NA,pitchers,six,six pitchers,False,NA,pitchers six
+13,num_det,that,tray,one,that one tray,False,NA,tray one that
+13,num_det,these,chairs,five,these five chairs,False,NA,chairs five these
+13,num_det,those,shoes,five,those five shoes,False,NA,shoes five those
+13,num_det,those,horses,six,those six horses,False,NA,horses six those
+13,num_det,those,handbags,five,those five handbags,False,NA,handbags five those
+13,num,NA,shoes,eight,eight shoes,False,NA,shoes eight
+13,num,NA,chairs,nine,nine chairs,False,NA,chairs nine
+13,num_det,these,bowls,nine,these nine bowls,False,NA,bowls nine these
+13,num,NA,shovels,seven,seven shovels,False,NA,shovels seven
+13,num_det,these,leaves,six,these six leaves,False,NA,leaves six these
+13,det,NA,darts,those,those darts,False,NA,darts those
+13,num_det,those,pigs,five,those five pigs,False,NA,pigs five those
+13,det,NA,couches,these,these couches,False,NA,couches these
+13,num_det,those,pears,six,those six pears,False,NA,pears six those
+13,num_det,these,cherries,four,these four cherries,False,NA,cherries four these
+13,num_det,these,cars,three,these three cars,False,NA,cars three these
+13,det,NA,horses,these,these horses,False,NA,horses these
+13,num,NA,vases,ten,ten vases,False,NA,vases ten
+13,det,NA,pig,this,this pig,False,NA,pig this
+13,num_det,these,vases,five,these five vases,False,NA,vases five these
+13,num_det,these,boxes,two,these two boxes,False,NA,boxes two these
+13,num_det,these,ducks,three,these three ducks,False,NA,ducks three these
+13,num_det,those,lamps,seven,those seven lamps,False,NA,lamps seven those
+13,num,NA,scarf,one,one scarf,False,NA,scarf one
+13,num,NA,pillows,eight,eight pillows,False,NA,pillows eight
+13,num,NA,keys,eight,eight keys,False,NA,keys eight
+13,num_det,those,bananas,nine,those nine bananas,False,NA,bananas nine those
+13,num_det,these,spatulas,five,these five spatulas,False,NA,spatulas five these
+13,num_det,those,ribbons,five,those five ribbons,False,NA,ribbons five those
+13,num,NA,ribbon,one,one ribbon,False,NA,ribbon one
+14,det,NA,pear,NA,this pear,NA,this,pear this
+14,num,NA,horse,NA,one horse,NA,one,horse one
+14,det,NA,handbag,NA,this handbag,NA,this,handbag this
+14,det,NA,cow,NA,this cow,NA,this,cow this
+14,det,NA,suitcases,NA,these suitcases,NA,these,these suitcases
+14,det,NA,pigs,NA,these pigs,NA,these,these pigs
+14,det,NA,tray,NA,that tray,NA,that,that tray
+14,num,NA,cars,NA,five cars,NA,five,five cars
+14,num,NA,pitcher,NA,one pitcher,NA,one,pitcher one
+14,num,NA,hats,NA,four hats,NA,four,four hats
+14,num,NA,lamps,NA,two lamps,NA,two,two lamps
+14,num,NA,pineapples,NA,five pineapples,NA,five,five pineapples
+14,det,NA,key,NA,that key,NA,that,key that
+14,num,NA,handbags,NA,ten handbags,NA,ten,handbags ten
+14,num,NA,chairs,NA,four chairs,NA,four,four chairs
+14,det,NA,horses,NA,those horses,NA,those,horses those
+14,num,NA,shoes,NA,two shoes,NA,two,two shoes
+14,num,NA,couches,NA,two couches,NA,two,two couches
+14,det,NA,duck,NA,that duck,NA,that,duck that
+14,det,NA,banana,NA,that banana,NA,that,that banana
+14,det,NA,pineapples,NA,those pineapples,NA,those,pineapples those
+14,num,NA,trays,NA,seven trays,NA,seven,seven trays
+14,num,NA,boxes,NA,nine boxes,NA,nine,boxes nine
+14,num,NA,bowls,NA,six bowls,NA,six,six bowls
+14,det,NA,pitcher,NA,this pitcher,NA,this,pitcher this
+14,det,NA,chairs,NA,those chairs,NA,those,those chairs
+14,det,NA,cherry,NA,this cherry,NA,this,cherry this
+14,det,NA,pillows,NA,those pillows,NA,those,those pillows
+14,num,NA,cherries,NA,eight cherries,NA,eight,cherries eight
+14,num,NA,ducks,NA,six ducks,NA,six,six ducks
+14,num_det,these,boxes,five,these five boxes,False,NA,boxes these five
+14,num,NA,shirts,four,four shirts,False,NA,four shirts
+14,num_det,these,hats,nine,these nine hats,False,NA,these nine hats
+14,det,NA,cow,that,that cow,False,NA,that cow
+14,num_det,those,pitchers,four,those four pitchers,False,NA,those four pitchers
+14,num,NA,cherry,one,one cherry,False,NA,one cherry
+14,num,NA,trays,five,five trays,False,NA,five trays
+14,det,NA,darts,these,these darts,False,NA,these darts
+14,num,NA,darts,six,six darts,False,NA,six darts
+14,num_det,those,pigs,eight,those eight pigs,False,NA,those eight pigs
+14,num_det,those,bananas,three,those three bananas,False,NA,those three bananas
+14,det,NA,pitcher,this,this pitcher,False,NA,this pitcher
+14,det,NA,shirt,that,that shirt,False,NA,that shirt
+14,num_det,these,suitcases,nine,these nine suitcases,False,NA,suitcases nine these
+14,num_det,those,shirts,four,those four shirts,False,NA,four those shirts
+14,num_det,these,cars,nine,these nine cars,False,NA,cars these nine
+14,num_det,these,keys,ten,these ten keys,False,NA,ten these keys
+14,num,NA,car,one,one car,False,NA,one car
+14,num_det,these,pears,five,these five pears,False,NA,these five pears
+14,num_det,those,pillows,nine,those nine pillows,False,NA,nine those pillows
+14,det,NA,handbag,that,that handbag,False,NA,handbag that
+14,num_det,those,vases,six,those six vases,False,NA,those six vases
+14,num_det,these,cows,seven,these seven cows,False,NA,cows these seven
+14,num_det,these,scarfs,four,these four scarfs,False,NA,these four scarfs
+14,det,NA,ribbon,this,this ribbon,False,NA,this ribbon
+14,num,NA,spatulas,nine,nine spatulas,False,NA,nine spatulas
+14,num_det,this,duck,one,this one duck,False,NA,duck this one
+14,num_det,those,chairs,eight,those eight chairs,False,NA,eight those chairs
+14,det,NA,couches,these,these couches,False,NA,these couches
+14,det,NA,vase,this,this vase,False,NA,vase this
+14,num,NA,pineapples,three,three pineapples,False,NA,pineapples three
+14,det,NA,pineapple,that,that pineapple,False,NA,that pineapple
+14,num_det,these,bowls,ten,these ten bowls,False,NA,these ten bowls
+14,det,NA,scarfs,these,these scarfs,False,NA,scarfs these
+14,num_det,these,couches,nine,these nine couches,False,NA,couches nine these
+14,num_det,these,pineapples,three,these three pineapples,False,NA,these three pineapples
+14,num_det,these,leaves,seven,these seven leaves,False,NA,leaves seven these
+14,num,NA,keys,eight,eight keys,False,NA,keys eight
+14,num_det,this,tray,one,this one tray,False,NA,tray one this
+14,num_det,these,ribbons,ten,these ten ribbons,False,NA,these ten ribbons
+14,num_det,these,handbags,nine,these nine handbags,False,NA,handbags these nine
+14,num_det,those,horses,four,those four horses,False,NA,those four horses
+14,num_det,that,dart,one,that one dart,False,NA,dart that one
+14,num_det,these,shovels,eight,these eight shovels,False,NA,eight these shovels
+14,num,NA,lamps,seven,seven lamps,False,NA,lamps seven
+14,num_det,those,shoes,three,those three shoes,False,NA,those three shoes
+14,num_det,these,cherries,two,these two cherries,False,NA,these two cherries
+14,num_det,those,lamps,three,those three lamps,False,NA,three those lamps
+14,num,NA,boxes,three,three boxes,False,NA,boxes three
+14,num_det,these,spatulas,three,these three spatulas,False,NA,spatulas these three
+15,det,NA,cows,NA,those cows,NA,those,those cows
+15,num,NA,trays,NA,ten trays,NA,ten,ten trays
+15,det,NA,boxes,NA,these boxes,NA,these,these boxes
+15,det,NA,bananas,NA,those bananas,NA,those,those bananas
+15,det,NA,ribbons,NA,those ribbons,NA,those,those ribbons
+15,det,NA,vases,NA,these vases,NA,these,these vases
+15,num,NA,vases,NA,seven vases,NA,seven,vases seven
+15,num,NA,lamps,NA,five lamps,NA,five,lamps five
+15,det,NA,leaf,NA,this leaf,NA,this,leaf this
+15,num,NA,key,NA,one key,NA,one,key one
+15,det,NA,pear,NA,that pear,NA,that,pear that
+15,num,NA,bananas,NA,two bananas,NA,two,bananas two
+15,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+15,num,NA,boxes,NA,five boxes,NA,five,boxes five
+15,num,NA,horses,NA,six horses,NA,six,horses six
+15,det,NA,car,NA,that car,NA,that,car that
+15,num,NA,suitcases,NA,seven suitcases,NA,seven,suitcases seven
+15,num,NA,duck,NA,one duck,NA,one,duck one
+15,det,NA,dart,NA,this dart,NA,this,dart this
+15,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+15,num,NA,shoes,NA,four shoes,NA,four,four shoes
+15,det,NA,pineapples,NA,those pineapples,NA,those,pineapples those
+15,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+15,num,NA,pigs,NA,six pigs,NA,six,pigs six
+15,num,NA,chairs,NA,nine chairs,NA,nine,chairs nine
+15,num,NA,pitchers,NA,nine pitchers,NA,nine,pitchers nine
+15,det,NA,shirts,NA,those shirts,NA,those,shirts those
+15,num,NA,bowls,NA,three bowls,NA,three,bowls three
+15,det,NA,pig,NA,this pig,NA,this,pig this
+15,det,NA,key,NA,this key,NA,this,key this
+15,num_det,these,shirts,seven,these seven shirts,False,NA,shirts seven these
+15,num_det,these,hats,nine,these nine hats,False,NA,hats nine these
+15,num_det,those,shovels,three,those three shovels,False,NA,shovels three those
+15,num_det,that,tray,one,that one tray,False,NA,tray one that
+15,num,NA,cherries,two,two cherries,False,NA,cherries two
+15,num_det,those,bananas,six,those six bananas,False,NA,bananas six those
+15,num_det,those,vases,eight,those eight vases,False,NA,vases eight those
+15,det,NA,cherries,those,those cherries,False,NA,cherries those
+15,num_det,those,darts,two,those two darts,False,NA,darts two those
+15,num_det,those,boxes,four,those four boxes,False,NA,boxes four those
+15,det,NA,key,this,this key,False,NA,key this
+15,num,NA,keys,four,four keys,False,NA,keys four
+15,num_det,those,cherries,six,those six cherries,False,NA,cherries six those
+15,num,NA,chairs,two,two chairs,False,NA,chairs two
+15,det,NA,pears,these,these pears,False,NA,pears these
+15,det,NA,suitcases,these,these suitcases,False,NA,suitcases these
+15,num_det,those,bowls,three,those three bowls,False,NA,bowls three those
+15,num_det,these,cars,two,these two cars,False,NA,cars two these
+15,num_det,those,pigs,four,those four pigs,False,NA,pigs four those
+15,num,NA,bowls,three,three bowls,False,NA,bowls three
+15,num_det,these,ducks,ten,these ten ducks,False,NA,ducks ten these
+15,num,NA,lamps,ten,ten lamps,False,NA,lamps ten
+15,num_det,those,spatulas,five,those five spatulas,False,NA,spatulas five those
+15,num_det,those,pears,eight,those eight pears,False,NA,pears eight those
+15,det,NA,pillows,these,these pillows,False,NA,pillows these
+15,num,NA,pillows,two,two pillows,False,NA,pillows two
+15,num_det,these,shoes,seven,these seven shoes,False,NA,shoes seven these
+15,num_det,those,couches,five,those five couches,False,NA,couches five those
+15,det,NA,banana,that,that banana,False,NA,banana that
+15,num_det,those,pillows,three,those three pillows,False,NA,pillows three those
+15,num_det,these,horses,five,these five horses,False,NA,horses five these
+15,det,NA,cows,these,these cows,False,NA,cows these
+15,num_det,those,pineapples,eight,those eight pineapples,False,NA,pineapples eight those
+15,det,NA,dart,that,that dart,False,NA,dart that
+15,num_det,those,cows,two,those two cows,False,NA,cows two those
+15,num,NA,shovels,six,six shovels,False,NA,shovels six
+15,num_det,these,leaves,two,these two leaves,False,NA,leaves two these
+15,det,NA,ducks,these,these ducks,False,NA,ducks these
+15,num_det,these,ribbons,ten,these ten ribbons,False,NA,ribbons ten these
+15,num_det,those,handbags,eight,those eight handbags,False,NA,handbags eight those
+15,num,NA,cars,seven,seven cars,False,NA,cars seven
+15,num,NA,hats,five,five hats,False,NA,hats five
+15,num_det,these,scarfs,nine,these nine scarfs,False,NA,scarfs nine these
+15,num_det,those,lamps,two,those two lamps,False,NA,lamps two those
+15,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases six these
+15,num,NA,couches,four,four couches,False,NA,couches four
+15,num_det,that,key,one,that one key,False,NA,key one that
+15,det,NA,ribbon,that,that ribbon,False,NA,ribbon that
+15,num_det,those,pitchers,ten,those ten pitchers,False,NA,pitchers ten those
+15,num_det,those,chairs,six,those six chairs,False,NA,chairs six those
+16,num,NA,shirts,NA,seven shirts,NA,seven,shirts seven
+16,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+16,det,NA,darts,NA,these darts,NA,these,darts these
+16,det,NA,vase,NA,that vase,NA,that,vase that
+16,num,NA,cherries,NA,ten cherries,NA,ten,cherries ten
+16,num,NA,shovels,NA,nine shovels,NA,nine,shovels nine
+16,det,NA,chairs,NA,these chairs,NA,these,chairs these
+16,num,NA,ribbons,NA,six ribbons,NA,six,ribbons six
+16,num,NA,vase,NA,one vase,NA,one,vase one
+16,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+16,num,NA,chairs,NA,ten chairs,NA,ten,chairs ten
+16,det,NA,pear,NA,that pear,NA,that,pear that
+16,num,NA,ducks,NA,three ducks,NA,three,ducks three
+16,num,NA,scarfs,NA,nine scarfs,NA,nine,scarfs nine
+16,num,NA,handbags,NA,six handbags,NA,six,handbags six
+16,det,NA,leaves,NA,these leaves,NA,these,leaves these
+16,det,NA,couch,NA,that couch,NA,that,couch that
+16,num,NA,cars,NA,three cars,NA,three,cars three
+16,num,NA,horses,NA,nine horses,NA,nine,horses nine
+16,det,NA,lamp,NA,that lamp,NA,that,lamp that
+16,det,NA,box,NA,that box,NA,that,box that
+16,det,NA,pig,NA,that pig,NA,that,pig that
+16,det,NA,shovel,NA,that shovel,NA,that,shovel that
+16,num,NA,lamps,NA,nine lamps,NA,nine,lamps nine
+16,det,NA,pineapples,NA,these pineapples,NA,these,pineapples these
+16,num,NA,spatulas,NA,eight spatulas,NA,eight,spatulas eight
+16,num,NA,pears,NA,seven pears,NA,seven,pears seven
+16,det,NA,shirts,NA,these shirts,NA,these,shirts these
+16,det,NA,pillows,NA,those pillows,NA,those,pillows those
+16,det,NA,duck,NA,that duck,NA,that,duck that
+16,det,NA,cars,those,those cars,False,NA,cars those
+16,num_det,these,shirts,seven,these seven shirts,False,NA,shirts seven these
+16,det,NA,horse,this,this horse,False,NA,horse this
+16,num_det,these,ducks,seven,these seven ducks,False,NA,ducks seven these
+16,det,NA,shoe,this,this shoe,False,NA,shoe this
+16,det,NA,chairs,these,these chairs,False,NA,chairs these
+16,num_det,those,spatulas,seven,those seven spatulas,False,NA,spatulas seven those
+16,num_det,these,hats,three,these three hats,False,NA,hats three these
+16,det,NA,shovels,these,these shovels,False,NA,shovels these
+16,det,NA,darts,those,those darts,False,NA,darts those
+16,num_det,those,pears,seven,those seven pears,False,NA,pears seven those
+16,num_det,these,pineapples,five,these five pineapples,False,NA,pineapples these five
+16,num,NA,pineapple,one,one pineapple,False,NA,pineapple one
+16,num_det,these,bananas,five,these five bananas,False,NA,bananas five these
+16,num,NA,suitcases,two,two suitcases,False,NA,suitcases two
+16,num_det,those,scarfs,seven,those seven scarfs,False,NA,scarfs seven those
+16,num_det,these,keys,three,these three keys,False,NA,keys three these
+16,num,NA,boxes,two,two boxes,False,NA,boxes two
+16,num_det,those,vases,nine,those nine vases,False,NA,vases nine those
+16,num,NA,darts,nine,nine darts,False,NA,darts nine
+16,num,NA,shoes,four,four shoes,False,NA,four shoes
+16,num_det,those,cherries,eight,those eight cherries,False,NA,cherries eight those
+16,num,NA,bowls,eight,eight bowls,False,NA,bowls eight
+16,det,NA,ribbons,those,those ribbons,False,NA,ribbons those
+16,num_det,these,horses,five,these five horses,False,NA,horses five these
+16,det,NA,couch,this,this couch,False,NA,couch this
+16,num_det,these,lamps,five,these five lamps,False,NA,lamps five these
+16,num_det,those,chairs,three,those three chairs,False,NA,chairs three those
+16,num,NA,shirts,four,four shirts,False,NA,shirts four
+16,num_det,this,car,one,this one car,False,NA,car one this
+16,num_det,these,pigs,seven,these seven pigs,False,NA,pigs seven these
+16,num_det,these,bowls,ten,these ten bowls,False,NA,bowls ten these
+16,num,NA,couches,ten,ten couches,False,NA,couches ten
+16,num_det,these,couches,eight,these eight couches,False,NA,couches eight these
+16,num_det,these,shoes,three,these three shoes,False,NA,shoes three these
+16,num_det,those,cows,three,those three cows,False,NA,cows three those
+16,num_det,these,darts,five,these five darts,False,NA,darts five these
+16,num_det,those,leaves,six,those six leaves,False,NA,leaves six those
+16,num_det,these,ribbons,five,these five ribbons,False,NA,ribbons five these
+16,num_det,these,pitchers,five,these five pitchers,False,NA,pitchers five these
+16,num_det,these,suitcases,two,these two suitcases,False,NA,suitcases two these
+16,num,NA,pillows,five,five pillows,False,NA,pillows five
+16,num,NA,horses,three,three horses,False,NA,horses three
+16,num_det,these,handbags,eight,these eight handbags,False,NA,handbags eight these
+16,num_det,those,pillows,two,those two pillows,False,NA,pillows two those
+16,det,NA,lamp,this,this lamp,False,NA,lamp this
+16,det,NA,vase,that,that vase,False,NA,vase that
+16,num_det,those,boxes,eight,those eight boxes,False,NA,boxes eight those
+16,num_det,that,tray,one,that one tray,False,NA,that one tray
+16,num_det,those,shovels,ten,those ten shovels,False,NA,shovels ten those
+17,num,NA,leaves,NA,six leaves,NA,six,leaves six
+17,det,NA,shovels,NA,those shovels,NA,those,shovels those
+17,det,NA,bowls,NA,those bowls,NA,those,bowls those
+17,det,NA,handbag,NA,this handbag,NA,this,handbag this
+17,num,NA,darts,NA,eight darts,NA,eight,darts eight
+17,det,NA,pineapple,NA,this pineapple,NA,this,pineapple this
+17,det,NA,suitcase,NA,this suitcase,NA,this,suitcase this
+17,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+17,det,NA,vase,NA,that vase,NA,that,vase that
+17,num,NA,shovels,NA,two shovels,NA,two,shovels two
+17,det,NA,hat,NA,this hat,NA,this,hat this
+17,det,NA,bananas,NA,these bananas,NA,these,bananas these
+17,num,NA,bowls,NA,two bowls,NA,two,bowls two
+17,num,NA,suitcases,NA,ten suitcases,NA,ten,suitcases ten
+17,det,NA,car,NA,this car,NA,this,car this
+17,det,NA,cow,NA,this cow,NA,this,cow this
+17,num,NA,pillow,NA,one pillow,NA,one,pillow one
+17,num,NA,scarfs,NA,nine scarfs,NA,nine,scarfs nine
+17,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+17,num,NA,couches,NA,six couches,NA,six,couches six
+17,num,NA,hats,NA,eight hats,NA,eight,hats eight
+17,det,NA,pitchers,NA,those pitchers,NA,those,pitchers those
+17,det,NA,box,NA,that box,NA,that,box that
+17,num,NA,pitchers,NA,five pitchers,NA,five,pitchers five
+17,num,NA,cherries,NA,three cherries,NA,three,cherries three
+17,num,NA,vases,NA,six vases,NA,six,vases six
+17,num,NA,bananas,NA,eight bananas,NA,eight,bananas eight
+17,det,NA,couches,NA,those couches,NA,those,couches those
+17,det,NA,leaves,NA,these leaves,NA,these,leaves these
+17,num,NA,key,NA,one key,NA,one,key one
+17,num_det,these,chairs,six,these six chairs,False,NA,chairs six these
+17,num,NA,key,one,one key,False,NA,key one
+17,num_det,those,trays,four,those four trays,False,NA,trays four those
+17,num_det,those,suitcases,four,those four suitcases,False,NA,suitcases four those
+17,num_det,those,horses,two,those two horses,False,NA,horses two those
+17,num_det,those,cherries,eight,those eight cherries,False,NA,cherries eight those
+17,num_det,these,shovels,nine,these nine shovels,False,NA,shovels nine these
+17,num_det,these,shoes,four,these four shoes,False,NA,shoes four these
+17,num_det,those,couches,four,those four couches,False,NA,couches four those
+17,num,NA,couches,two,two couches,False,NA,couches two
+17,num_det,these,pitchers,two,these two pitchers,False,NA,pitchers two these
+17,num_det,those,ribbons,seven,those seven ribbons,False,NA,ribbons seven those
+17,num,NA,shirt,one,one shirt,False,NA,shirt one
+17,num_det,those,shirts,seven,those seven shirts,False,NA,shirts seven those
+17,num_det,these,boxes,eight,these eight boxes,False,NA,boxes eight these
+17,num,NA,suitcase,one,one suitcase,False,NA,suitcase one
+17,num,NA,darts,seven,seven darts,False,NA,darts seven
+17,det,NA,cow,this,this cow,False,NA,cow this
+17,det,NA,pig,this,this pig,False,NA,pig this
+17,det,NA,duck,that,that duck,False,NA,duck that
+17,num_det,this,handbag,one,this one handbag,False,NA,handbag one this
+17,num,NA,pineapples,five,five pineapples,False,NA,pineapples five
+17,det,NA,chairs,these,these chairs,False,NA,chairs these
+17,num_det,those,pears,ten,those ten pears,False,NA,pears ten those
+17,det,NA,couches,those,those couches,False,NA,couches those
+17,num_det,those,bowls,nine,those nine bowls,False,NA,bowls nine those
+17,num_det,these,keys,three,these three keys,False,NA,keys three these
+17,num,NA,ducks,two,two ducks,False,NA,ducks two
+17,num_det,these,bananas,nine,these nine bananas,False,NA,bananas nine these
+17,num_det,those,scarfs,six,those six scarfs,False,NA,scarfs six those
+17,num_det,these,pigs,three,these three pigs,False,NA,pigs three these
+17,num,NA,pitchers,six,six pitchers,False,NA,pitchers six
+17,num_det,those,darts,five,those five darts,False,NA,darts five those
+17,num_det,those,spatulas,two,those two spatulas,False,NA,spatulas two those
+17,num_det,those,leaves,eight,those eight leaves,False,NA,leaves eight those
+17,num_det,these,pineapples,two,these two pineapples,False,NA,pineapples two these
+17,det,NA,scarfs,these,these scarfs,False,NA,scarfs these
+17,num_det,these,lamps,two,these two lamps,False,NA,lamps two these
+17,num_det,these,vases,three,these three vases,False,NA,vases three these
+17,det,NA,pear,this,this pear,False,NA,pear this
+17,num,NA,ribbons,two,two ribbons,False,NA,ribbons two
+17,det,NA,banana,this,this banana,False,NA,banana this
+17,num_det,those,pillows,ten,those ten pillows,False,NA,pillows ten those
+17,num_det,this,cow,one,this one cow,False,NA,cow one this
+17,num_det,those,cars,nine,those nine cars,False,NA,cars nine those
+17,det,NA,car,that,that car,False,NA,car that
+17,num,NA,pears,two,two pears,False,NA,pears two
+17,num_det,those,hats,three,those three hats,False,NA,hats three those
+17,det,NA,handbags,these,these handbags,False,NA,handbags these
+17,num_det,those,ducks,seven,those seven ducks,False,NA,ducks seven those
+18,num,NA,boxes,NA,four boxes,NA,four,boxes four
+18,num,NA,darts,NA,six darts,NA,six,darts six
+18,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+18,num,NA,shoes,NA,eight shoes,NA,eight,shoes eight
+18,num,NA,ducks,NA,two ducks,NA,two,ducks two
+18,det,NA,pig,NA,this pig,NA,this,pig this
+18,det,NA,spatulas,NA,those spatulas,NA,those,spatulas those
+18,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+18,num,NA,handbags,NA,three handbags,NA,three,handbags three
+18,num,NA,ribbons,NA,ten ribbons,NA,ten,ribbons ten
+18,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+18,det,NA,shovel,NA,this shovel,NA,this,shovel this
+18,num,NA,bananas,NA,nine bananas,NA,nine,bananas nine
+18,num,NA,hat,NA,one hat,NA,one,hat one
+18,num,NA,lamps,NA,nine lamps,NA,nine,lamps nine
+18,det,NA,leaf,NA,this leaf,NA,this,leaf this
+18,det,NA,couch,NA,that couch,NA,that,couch that
+18,det,NA,pillows,NA,these pillows,NA,these,pillows these
+18,num,NA,scarfs,NA,nine scarfs,NA,nine,scarfs nine
+18,det,NA,pitcher,NA,this pitcher,NA,this,pitcher this
+18,det,NA,handbags,NA,these handbags,NA,these,handbags these
+18,num,NA,keys,NA,eight keys,NA,eight,keys eight
+18,det,NA,scarf,NA,this scarf,NA,this,scarf this
+18,det,NA,pineapple,NA,that pineapple,NA,that,pineapple that
+18,det,NA,chairs,NA,these chairs,NA,these,chairs these
+18,num,NA,pears,NA,six pears,NA,six,pears six
+18,det,NA,keys,NA,those keys,NA,those,keys those
+18,num,NA,horses,NA,nine horses,NA,nine,horses nine
+18,det,NA,cherries,NA,these cherries,NA,these,cherries these
+18,det,NA,shirt,NA,that shirt,NA,that,shirt that
+18,num_det,these,boxes,eight,these eight boxes,False,NA,boxes eight these
+18,num_det,these,pigs,three,these three pigs,False,NA,pigs three these
+18,num,NA,shirt,one,one shirt,False,NA,shirt one
+18,num_det,those,pitchers,two,those two pitchers,False,NA,pitchers two those
+18,det,NA,handbag,this,this handbag,False,NA,handbag this
+18,num_det,those,darts,five,those five darts,False,NA,darts five those
+18,num,NA,pigs,four,four pigs,False,NA,pigs four
+18,num_det,these,scarfs,four,these four scarfs,False,NA,scarfs four these
+18,num_det,these,cars,eight,these eight cars,False,NA,cars eight these
+18,det,NA,leaf,this,this leaf,False,NA,leaf this
+18,num_det,these,bowls,two,these two bowls,False,NA,bowls two these
+18,num_det,these,spatulas,three,these three spatulas,False,NA,spatulas three these
+18,num_det,these,ducks,eight,these eight ducks,False,NA,ducks eight these
+18,num_det,these,bananas,four,these four bananas,False,NA,bananas four these
+18,num_det,these,cherries,ten,these ten cherries,False,NA,cherries ten these
+18,num_det,these,pillows,seven,these seven pillows,False,NA,pillows seven these
+18,num_det,these,suitcases,five,these five suitcases,False,NA,suitcases five these
+18,num,NA,cows,two,two cows,False,NA,cows two
+18,num_det,those,pears,three,those three pears,False,NA,pears three those
+18,num_det,these,hats,two,these two hats,False,NA,hats two these
+18,num_det,those,shovels,four,those four shovels,False,NA,shovels four those
+18,num_det,those,shoes,five,those five shoes,False,NA,shoes five those
+18,det,NA,horses,those,those horses,False,NA,horses those
+18,num_det,these,lamps,three,these three lamps,False,NA,lamps three these
+18,det,NA,cherries,these,these cherries,False,NA,cherries these
+18,num_det,these,trays,five,these five trays,False,NA,trays five these
+18,num_det,those,leaves,six,those six leaves,False,NA,leaves six those
+18,num_det,those,pineapples,three,those three pineapples,False,NA,pineapples three those
+18,num,NA,pears,five,five pears,False,NA,pears five
+18,det,NA,pear,that,that pear,False,NA,pear that
+18,num,NA,shoes,three,three shoes,False,NA,shoes three
+18,det,NA,box,that,that box,False,NA,box that
+18,num,NA,suitcase,one,one suitcase,False,NA,suitcase one
+18,num_det,these,vases,three,these three vases,False,NA,vases three these
+18,num_det,these,handbags,ten,these ten handbags,False,NA,handbags ten these
+18,num_det,these,shirts,four,these four shirts,False,NA,shirts four these
+18,det,NA,couch,that,that couch,False,NA,couch that
+18,num_det,those,couches,four,those four couches,False,NA,couches four those
+18,num,NA,trays,seven,seven trays,False,NA,trays seven
+18,det,NA,shirt,this,this shirt,False,NA,shirt this
+18,num_det,those,horses,three,those three horses,False,NA,horses three those
+18,num,NA,keys,four,four keys,False,NA,keys four
+18,num_det,these,ribbons,nine,these nine ribbons,False,NA,ribbons nine these
+18,det,NA,suitcases,those,those suitcases,False,NA,suitcases those
+18,det,NA,bowl,that,that bowl,False,NA,bowl that
+18,num,NA,cherries,five,five cherries,False,NA,cherries five
+18,num_det,those,chairs,ten,those ten chairs,False,NA,those ten chairs
+18,num,NA,handbags,six,six handbags,False,NA,handbags six
+18,num_det,those,keys,three,those three keys,False,NA,keys three those
+18,num_det,those,cows,nine,those nine cows,False,NA,cows those nine
+19,num,NA,cows,NA,seven cows,NA,seven,cows seven
+19,det,NA,bowls,NA,those bowls,NA,those,bowls those
+19,det,NA,pears,NA,these pears,NA,these,pears these
+19,num,NA,scarfs,NA,five scarfs,NA,five,scarfs five
+19,det,NA,couches,NA,those couches,NA,those,couches those
+19,det,NA,shoe,NA,that shoe,NA,that,shoe that
+19,det,NA,spatula,NA,that spatula,NA,that,spatula that
+19,num,NA,chairs,NA,three chairs,NA,three,chairs three
+19,num,NA,cars,NA,ten cars,NA,ten,cars ten
+19,det,NA,pineapple,NA,this pineapple,NA,this,pineapple this
+19,det,NA,duck,NA,that duck,NA,that,duck that
+19,num,NA,horses,NA,five horses,NA,five,horses five
+19,det,NA,chair,NA,this chair,NA,this,chair this
+19,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+19,det,NA,shovel,NA,this shovel,NA,this,shovel this
+19,det,NA,cow,NA,this cow,NA,this,cow this
+19,det,NA,darts,NA,those darts,NA,those,darts those
+19,num,NA,boxes,NA,ten boxes,NA,ten,boxes ten
+19,num,NA,darts,NA,seven darts,NA,seven,darts seven
+19,det,NA,cherries,NA,those cherries,NA,those,cherries those
+19,num,NA,pig,NA,one pig,NA,one,pig one
+19,num,NA,lamps,NA,six lamps,NA,six,lamps six
+19,num,NA,shoes,NA,five shoes,NA,five,shoes five
+19,num,NA,vases,NA,nine vases,NA,nine,vases nine
+19,num,NA,keys,NA,five keys,NA,five,keys five
+19,num,NA,shirts,NA,ten shirts,NA,ten,shirts ten
+19,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+19,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+19,det,NA,ribbons,NA,those ribbons,NA,those,ribbons those
+19,det,NA,tray,NA,that tray,NA,that,tray that
+19,num_det,these,pigs,six,these six pigs,False,NA,pigs six these
+19,num_det,those,pineapples,five,those five pineapples,False,NA,pineapples five those
+19,num_det,those,horses,seven,those seven horses,False,NA,horses seven those
+19,det,NA,vases,these,these vases,False,NA,vases these
+19,num_det,those,couches,six,those six couches,False,NA,couches six those
+19,num,NA,couch,one,one couch,False,NA,couch one
+19,det,NA,pillows,those,those pillows,False,NA,pillows those
+19,num_det,those,shirts,six,those six shirts,False,NA,shirts six those
+19,num_det,those,keys,three,those three keys,False,NA,those three keys
+19,det,NA,cherry,that,that cherry,False,NA,that cherry
+19,num,NA,spatulas,six,six spatulas,False,NA,spatulas six
+19,num_det,those,shoes,four,those four shoes,False,NA,those four shoes
+19,num_det,these,spatulas,four,these four spatulas,False,NA,these four spatulas
+19,num_det,these,pears,three,these three pears,False,NA,pears three these
+19,num_det,these,hats,ten,these ten hats,False,NA,hats ten these
+19,num_det,these,suitcases,three,these three suitcases,False,NA,suitcases three these
+19,num,NA,chairs,five,five chairs,False,NA,chairs five
+19,num_det,that,pitcher,one,that one pitcher,False,NA,pitcher one that
+19,num_det,these,cows,seven,these seven cows,False,NA,cows seven these
+19,num,NA,vases,nine,nine vases,False,NA,vases nine
+19,num_det,those,cars,nine,those nine cars,False,NA,cars nine those
+19,num_det,these,chairs,nine,these nine chairs,False,NA,chairs nine these
+19,num_det,these,handbags,five,these five handbags,False,NA,handbags five these
+19,num,NA,handbags,four,four handbags,False,NA,handbags four
+19,det,NA,shovels,those,those shovels,False,NA,shovels those
+19,num_det,these,ducks,six,these six ducks,False,NA,ducks six these
+19,num,NA,trays,seven,seven trays,False,NA,trays seven
+19,num_det,these,ribbons,eight,these eight ribbons,False,NA,ribbons eight these
+19,det,NA,chair,this,this chair,False,NA,chair this
+19,num_det,those,leaves,three,those three leaves,False,NA,leaves three those
+19,num_det,these,scarfs,six,these six scarfs,False,NA,scarfs six these
+19,num_det,these,pillows,five,these five pillows,False,NA,pillows five these
+19,num,NA,bowls,ten,ten bowls,False,NA,bowls ten
+19,num_det,those,trays,five,those five trays,False,NA,trays five those
+19,num_det,those,boxes,nine,those nine boxes,False,NA,boxes nine those
+19,num_det,those,vases,eight,those eight vases,False,NA,vases eight those
+19,num_det,these,cherries,seven,these seven cherries,False,NA,cherries seven these
+19,num,NA,ribbons,five,five ribbons,False,NA,ribbons five
+19,num_det,those,bananas,seven,those seven bananas,False,NA,bananas seven those
+19,det,NA,pear,this,this pear,False,NA,pear this
+19,num_det,those,lamps,ten,those ten lamps,False,NA,lamps ten those
+19,num,NA,shoes,six,six shoes,False,NA,shoes six
+19,det,NA,bowls,these,these bowls,False,NA,bowls these
+19,num_det,this,dart,one,this one dart,False,NA,dart one this
+19,num_det,those,bowls,seven,those seven bowls,False,NA,bowls seven those
+19,num_det,those,shovels,nine,those nine shovels,False,NA,shovels nine those
+19,det,NA,cows,these,these cows,False,NA,cows these
+19,num,NA,hat,one,one hat,False,NA,hat one
+19,det,NA,hats,these,these hats,False,NA,hats these
+19,det,NA,pitchers,these,these pitchers,False,NA,pitchers these
+20,num,NA,pineapples,NA,ten pineapples,NA,ten,pineapples ten
+20,num,NA,trays,NA,eight trays,NA,eight,trays eight
+20,det,NA,leaves,NA,those leaves,NA,those,leaves those
+20,num,NA,pigs,NA,eight pigs,NA,eight,pigs eight
+20,det,NA,cars,NA,these cars,NA,these,cars these
+20,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+20,num,NA,keys,NA,three keys,NA,three,keys three
+20,num,NA,pillows,NA,nine pillows,NA,nine,pillows nine
+20,num,NA,lamps,NA,five lamps,NA,five,lamps five
+20,det,NA,handbag,NA,this handbag,NA,this,handbag this
+20,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+20,num,NA,cars,NA,four cars,NA,four,cars four
+20,num,NA,boxes,NA,two boxes,NA,two,boxes two
+20,num,NA,ribbons,NA,seven ribbons,NA,seven,ribbons seven
+20,det,NA,bowls,NA,those bowls,NA,those,bowls those
+20,num,NA,bowl,NA,one bowl,NA,one,bowl one
+20,det,NA,pears,NA,these pears,NA,these,pears these
+20,det,NA,lamp,NA,this lamp,NA,this,lamp this
+20,det,NA,darts,NA,those darts,NA,those,darts those
+20,det,NA,boxes,NA,those boxes,NA,those,boxes those
+20,num,NA,couches,NA,seven couches,NA,seven,couches seven
+20,det,NA,banana,NA,this banana,NA,this,banana this
+20,num,NA,vase,NA,one vase,NA,one,vase one
+20,det,NA,key,NA,that key,NA,that,key that
+20,num,NA,handbag,NA,one handbag,NA,one,handbag one
+20,det,NA,tray,NA,this tray,NA,this,tray this
+20,det,NA,chair,NA,this chair,NA,this,chair this
+20,num,NA,darts,NA,two darts,NA,two,darts two
+20,det,NA,shirts,NA,those shirts,NA,those,shirts those
+20,num,NA,spatulas,NA,nine spatulas,NA,nine,spatulas nine
+20,num,NA,trays,six,six trays,False,NA,trays six
+20,det,NA,pigs,those,those pigs,False,NA,pigs those
+20,num_det,those,bowls,two,those two bowls,False,NA,two those bowls
+20,num_det,those,leaves,six,those six leaves,False,NA,leaves six those
+20,num_det,those,cars,ten,those ten cars,False,NA,those ten cars
+20,num_det,these,cows,three,these three cows,False,NA,three these cows
+20,num,NA,shoes,five,five shoes,False,NA,shoes five
+20,num_det,these,pears,ten,these ten pears,False,NA,these ten pears
+20,det,NA,chairs,those,those chairs,False,NA,chairs those
+20,num_det,those,vases,ten,those ten vases,False,NA,vases ten those
+20,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases six these
+20,num_det,those,pineapples,two,those two pineapples,False,NA,pineapples those two
+20,num_det,these,darts,eight,these eight darts,False,NA,darts eight these
+20,num_det,those,bananas,four,those four bananas,False,NA,bananas four those
+20,det,NA,keys,those,those keys,False,NA,keys those
+20,num,NA,leaves,nine,nine leaves,False,NA,leaves nine
+20,det,NA,hats,these,these hats,False,NA,hats these
+20,num_det,those,ducks,ten,those ten ducks,False,NA,ducks ten those
+20,num_det,those,keys,ten,those ten keys,False,NA,keys ten those
+20,num_det,these,boxes,ten,these ten boxes,False,NA,boxes ten these
+20,num,NA,hat,one,one hat,False,NA,hat one
+20,num,NA,vases,seven,seven vases,False,NA,vases seven
+20,num_det,those,couches,ten,those ten couches,False,NA,couches ten those
+20,num,NA,bowls,eight,eight bowls,False,NA,bowls eight
+20,det,NA,banana,this,this banana,False,NA,banana this
+20,num_det,these,handbags,nine,these nine handbags,False,NA,handbags nine these
+20,num_det,those,spatulas,eight,those eight spatulas,False,NA,spatulas eight those
+20,num_det,those,pigs,eight,those eight pigs,False,NA,pigs eight those
+20,num_det,those,cherries,six,those six cherries,False,NA,cherries those six
+20,num_det,those,trays,nine,those nine trays,False,NA,trays nine those
+20,num,NA,scarfs,eight,eight scarfs,False,NA,scarfs eight
+20,num_det,these,hats,ten,these ten hats,False,NA,hats ten these
+20,num,NA,shovels,nine,nine shovels,False,NA,shovels nine
+20,num_det,these,pitchers,six,these six pitchers,False,NA,pitchers six these
+20,num_det,these,horses,eight,these eight horses,False,NA,horses eight these
+20,num_det,those,chairs,seven,those seven chairs,False,NA,chairs seven those
+20,det,NA,lamp,that,that lamp,False,NA,that lamp
+20,num_det,these,shovels,eight,these eight shovels,False,NA,shovels eight these
+20,num_det,those,ribbons,three,those three ribbons,False,NA,ribbons three those
+20,det,NA,ribbons,those,those ribbons,False,NA,ribbons those
+20,det,NA,bowls,these,these bowls,False,NA,bowls these
+20,num_det,those,shirts,two,those two shirts,False,NA,shirts two those
+20,num_det,these,lamps,five,these five lamps,False,NA,lamps five these
+20,num,NA,darts,nine,nine darts,False,NA,darts nine
+20,det,NA,shirt,that,that shirt,False,NA,shirt that
+20,num_det,those,scarfs,nine,those nine scarfs,False,NA,scarfs nine those
+20,num_det,these,shoes,eight,these eight shoes,False,NA,shoes eight these
+20,num,NA,couches,nine,nine couches,False,NA,couches nine
+20,det,NA,cows,those,those cows,False,NA,cows those
+20,num_det,these,pillows,six,these six pillows,False,NA,pillows six these
+21,det,NA,tray,NA,that tray,NA,that,tray that
+21,num,NA,scarfs,NA,nine scarfs,NA,nine,scarfs nine
+21,num,NA,couches,NA,six couches,NA,six,couches six
+21,det,NA,handbags,NA,those handbags,NA,those,handbags those
+21,num,NA,pineapples,NA,seven pineapples,NA,seven,pineapples seven
+21,det,NA,pigs,NA,these pigs,NA,these,pigs these
+21,num,NA,cherries,NA,nine cherries,NA,nine,cherries nine
+21,num,NA,vases,NA,seven vases,NA,seven,vases seven
+21,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+21,det,NA,spatula,NA,this spatula,NA,this,spatula this
+21,num,NA,handbags,NA,nine handbags,NA,nine,handbags nine
+21,num,NA,cars,NA,five cars,NA,five,cars five
+21,det,NA,lamp,NA,this lamp,NA,this,lamp this
+21,num,NA,lamps,NA,four lamps,NA,four,lamps four
+21,det,NA,couches,NA,those couches,NA,those,couches those
+21,num,NA,pears,NA,nine pears,NA,nine,pears nine
+21,num,NA,leaves,NA,ten leaves,NA,ten,leaves ten
+21,det,NA,horse,NA,that horse,NA,that,horse that
+21,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+21,det,NA,hat,NA,that hat,NA,that,hat that
+21,num,NA,pigs,NA,five pigs,NA,five,pigs five
+21,num,NA,shovels,NA,three shovels,NA,three,shovels three
+21,num,NA,cow,NA,one cow,NA,one,cow one
+21,num,NA,shoes,NA,six shoes,NA,six,shoes six
+21,num,NA,trays,NA,five trays,NA,five,trays five
+21,det,NA,pineapple,NA,this pineapple,NA,this,pineapple this
+21,det,NA,banana,NA,this banana,NA,this,banana this
+21,det,NA,duck,NA,that duck,NA,that,duck that
+21,det,NA,shoes,NA,those shoes,NA,those,shoes those
+21,det,NA,chair,NA,that chair,NA,that,chair that
+21,num,NA,cherries,six,six cherries,False,NA,cherries six
+21,det,NA,pillow,that,that pillow,False,NA,pillow that
+21,num_det,those,cars,three,those three cars,False,NA,cars those three
+21,num_det,those,ribbons,four,those four ribbons,False,NA,ribbons those four
+21,num_det,these,shoes,four,these four shoes,False,NA,shoes these four
+21,det,NA,cars,those,those cars,False,NA,cars those
+21,num_det,these,trays,eight,these eight trays,False,NA,trays these eight
+21,num_det,these,spatulas,six,these six spatulas,False,NA,spatulas these six
+21,num_det,these,keys,two,these two keys,False,NA,keys these two
+21,det,NA,box,this,this box,False,NA,box this
+21,num_det,those,scarfs,three,those three scarfs,False,NA,scarfs those three
+21,num,NA,pigs,nine,nine pigs,False,NA,pigs nine
+21,num,NA,pears,seven,seven pears,False,NA,pears seven
+21,num_det,these,shovels,six,these six shovels,False,NA,shovels these six
+21,num,NA,hats,seven,seven hats,False,NA,hats seven
+21,det,NA,pineapple,this,this pineapple,False,NA,pineapple this
+21,num_det,those,shirts,two,those two shirts,False,NA,shirts those two
+21,det,NA,shoe,that,that shoe,False,NA,shoe that
+21,num_det,that,vase,one,that one vase,False,NA,vase that one
+21,num_det,this,horse,one,this one horse,False,NA,horse this one
+21,num_det,these,bananas,five,these five bananas,False,NA,bananas these five
+21,num_det,those,couches,six,those six couches,False,NA,couches those six
+21,num_det,those,cows,two,those two cows,False,NA,cows those two
+21,num_det,those,handbags,ten,those ten handbags,False,NA,handbags those ten
+21,num_det,these,chairs,eight,these eight chairs,False,NA,chairs these eight
+21,num_det,those,pineapples,ten,those ten pineapples,False,NA,pineapples those ten
+21,det,NA,couches,those,those couches,False,NA,couches those
+21,num_det,those,darts,five,those five darts,False,NA,darts those five
+21,num_det,those,pitchers,six,those six pitchers,False,NA,pitchers those six
+21,num_det,these,pigs,four,these four pigs,False,NA,pigs these four
+21,det,NA,trays,these,these trays,False,NA,trays these
+21,num_det,those,hats,nine,those nine hats,False,NA,hats those nine
+21,num_det,those,leaves,seven,those seven leaves,False,NA,leaves those seven
+21,num_det,these,lamps,nine,these nine lamps,False,NA,lamps these nine
+21,num_det,those,suitcases,nine,those nine suitcases,False,NA,suitcases those nine
+21,num_det,these,cherries,five,these five cherries,False,NA,cherries these five
+21,num_det,those,ducks,nine,those nine ducks,False,NA,ducks those nine
+21,num_det,those,pillows,five,those five pillows,False,NA,pillows those five
+21,det,NA,cherries,these,these cherries,False,NA,cherries these
+21,det,NA,ducks,these,these ducks,False,NA,ducks these
+21,num_det,these,bowls,two,these two bowls,False,NA,bowls these two
+21,det,NA,horses,these,these horses,False,NA,horses these
+21,num,NA,cars,seven,seven cars,False,NA,cars seven
+21,num,NA,chairs,two,two chairs,False,NA,chairs two
+21,num_det,those,boxes,seven,those seven boxes,False,NA,boxes those seven
+21,num,NA,shovel,one,one shovel,False,NA,shovel one
+21,num,NA,vases,ten,ten vases,False,NA,vases ten
+21,num_det,these,pears,seven,these seven pears,False,NA,pears these seven
+21,num,NA,lamps,four,four lamps,False,NA,lamps four
+21,num,NA,leaves,ten,ten leaves,False,NA,leaves ten
+22,num,NA,pitchers,NA,seven pitchers,NA,seven,pitchers seven
+22,num,NA,lamp,NA,one lamp,NA,one,lamp one
+22,det,NA,pigs,NA,these pigs,NA,these,pigs these
+22,det,NA,pillow,NA,this pillow,NA,this,pillow this
+22,num,NA,hats,NA,five hats,NA,five,hats five
+22,num,NA,horses,NA,eight horses,NA,eight,horses eight
+22,det,NA,horse,NA,that horse,NA,that,horse that
+22,det,NA,pear,NA,this pear,NA,this,pear this
+22,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+22,num,NA,cars,NA,eight cars,NA,eight,cars eight
+22,det,NA,bowls,NA,these bowls,NA,these,bowls these
+22,num,NA,pears,NA,ten pears,NA,ten,pears ten
+22,num,NA,handbags,NA,three handbags,NA,three,handbags three
+22,num,NA,keys,NA,two keys,NA,two,keys two
+22,num,NA,shovels,NA,nine shovels,NA,nine,shovels nine
+22,num,NA,bowls,NA,seven bowls,NA,seven,bowls seven
+22,num,NA,cherries,NA,six cherries,NA,six,cherries six
+22,num,NA,shirts,NA,six shirts,NA,six,shirts six
+22,num,NA,shoes,NA,three shoes,NA,three,shoes three
+22,det,NA,chairs,NA,these chairs,NA,these,chairs these
+22,det,NA,shovel,NA,this shovel,NA,this,shovel this
+22,det,NA,hat,NA,this hat,NA,this,hat this
+22,num,NA,trays,NA,nine trays,NA,nine,trays nine
+22,det,NA,pitcher,NA,this pitcher,NA,this,pitcher this
+22,det,NA,bananas,NA,those bananas,NA,those,bananas those
+22,det,NA,tray,NA,that tray,NA,that,tray that
+22,det,NA,cars,NA,these cars,NA,these,cars these
+22,num,NA,vases,NA,eight vases,NA,eight,vases eight
+22,det,NA,spatulas,NA,those spatulas,NA,those,spatulas those
+22,det,NA,couch,NA,that couch,NA,that,couch that
+22,num,NA,cars,two,two cars,False,NA,cars two
+22,num_det,these,lamps,nine,these nine lamps,False,NA,lamps nine these
+22,num_det,these,leaves,eight,these eight leaves,False,NA,leaves eight these
+22,det,NA,box,that,that box,False,NA,box that
+22,num_det,these,cows,six,these six cows,False,NA,cows six these
+22,num_det,those,ribbons,five,those five ribbons,False,NA,ribbons five those
+22,det,NA,pitchers,these,these pitchers,False,NA,pitchers these
+22,det,NA,trays,these,these trays,False,NA,trays these
+22,num,NA,cow,one,one cow,False,NA,cow one
+22,num_det,these,shovels,ten,these ten shovels,False,NA,shovels ten these
+22,det,NA,suitcase,that,that suitcase,False,NA,suitcase that
+22,num_det,these,keys,six,these six keys,False,NA,these six keys
+22,det,NA,couches,these,these couches,False,NA,couches these
+22,num_det,those,handbags,seven,those seven handbags,False,NA,handbags seven those
+22,num_det,these,darts,seven,these seven darts,False,NA,darts seven these
+22,num_det,those,trays,seven,those seven trays,False,NA,trays seven those
+22,num,NA,hats,three,three hats,False,NA,hats three
+22,num_det,those,bananas,seven,those seven bananas,False,NA,bananas seven those
+22,num_det,those,bowls,nine,those nine bowls,False,NA,bowls nine those
+22,det,NA,shoe,this,this shoe,False,NA,shoe this
+22,num,NA,scarfs,three,three scarfs,False,NA,scarfs three
+22,num,NA,shovels,two,two shovels,False,NA,shovels two
+22,num_det,these,horses,five,these five horses,False,NA,horses five these
+22,num,NA,bananas,eight,eight bananas,False,NA,bananas eight
+22,num_det,those,chairs,three,those three chairs,False,NA,chairs three those
+22,det,NA,leaf,this,this leaf,False,NA,leaf this
+22,num_det,those,suitcases,ten,those ten suitcases,False,NA,suitcases ten those
+22,det,NA,cherry,this,this cherry,False,NA,cherry this
+22,num,NA,spatulas,six,six spatulas,False,NA,spatulas six
+22,num_det,these,pears,eight,these eight pears,False,NA,pears eight these
+22,num_det,those,spatulas,five,those five spatulas,False,NA,spatulas five those
+22,num,NA,ducks,three,three ducks,False,NA,ducks three
+22,num_det,these,pillows,two,these two pillows,False,NA,pillows two these
+22,num_det,these,couches,two,these two couches,False,NA,couches two these
+22,num_det,those,hats,five,those five hats,False,NA,hats five those
+22,num,NA,bowls,three,three bowls,False,NA,bowls three
+22,det,NA,pig,this,this pig,False,NA,this pig
+22,num_det,that,pineapple,one,that one pineapple,False,NA,pineapple one that
+22,num_det,these,shoes,four,these four shoes,False,NA,shoes four these
+22,num_det,these,ducks,ten,these ten ducks,False,NA,ducks ten these
+22,num_det,those,pigs,eight,those eight pigs,False,NA,pigs eight those
+22,num_det,those,cherries,three,those three cherries,False,NA,cherries three those
+22,num,NA,pineapples,five,five pineapples,False,NA,pineapples five
+22,num_det,those,vases,seven,those seven vases,False,NA,vases seven those
+22,det,NA,darts,these,these darts,False,NA,darts these
+22,num_det,those,cars,five,those five cars,False,NA,cars five those
+22,num_det,those,boxes,nine,those nine boxes,False,NA,boxes nine those
+22,num_det,those,shirts,ten,those ten shirts,False,NA,shirts ten those
+22,num_det,those,pitchers,six,those six pitchers,False,NA,pitchers six those
+22,num_det,those,scarfs,nine,those nine scarfs,False,NA,scarfs nine those
+23,det,NA,scarfs,NA,these scarfs,NA,these,these scarfs
+23,det,NA,chairs,NA,these chairs,NA,these,chairs these
+23,det,NA,bananas,NA,these bananas,NA,these,bananas these
+23,det,NA,pillows,NA,these pillows,NA,these,pillows these
+23,det,NA,dart,NA,that dart,NA,that,dart that
+23,num,NA,shoes,NA,eight shoes,NA,eight,shoes eight
+23,num,NA,pineapples,NA,four pineapples,NA,four,pineapples four
+23,num,NA,cars,NA,seven cars,NA,seven,cars seven
+23,num,NA,couches,NA,six couches,NA,six,couches six
+23,num,NA,handbags,NA,six handbags,NA,six,handbags six
+23,num,NA,spatulas,NA,five spatulas,NA,five,spatulas five
+23,det,NA,key,NA,that key,NA,that,key that
+23,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+23,num,NA,horses,NA,four horses,NA,four,horses four
+23,det,NA,bowl,NA,this bowl,NA,this,bowl this
+23,num,NA,vases,NA,four vases,NA,four,vases four
+23,num,NA,pillows,NA,ten pillows,NA,ten,pillows ten
+23,det,NA,horses,NA,these horses,NA,these,horses these
+23,det,NA,pitchers,NA,those pitchers,NA,those,pitchers those
+23,det,NA,tray,NA,this tray,NA,this,tray this
+23,num,NA,leaves,NA,nine leaves,NA,nine,leaves nine
+23,det,NA,pigs,NA,those pigs,NA,those,pigs those
+23,num,NA,hats,NA,eight hats,NA,eight,hats eight
+23,det,NA,pear,NA,this pear,NA,this,pear this
+23,num,NA,keys,NA,nine keys,NA,nine,keys nine
+23,det,NA,vases,NA,those vases,NA,those,vases those
+23,num,NA,bananas,NA,eight bananas,NA,eight,bananas eight
+23,num,NA,boxes,NA,four boxes,NA,four,boxes four
+23,det,NA,lamps,NA,those lamps,NA,those,lamps those
+23,num,NA,lamps,NA,ten lamps,NA,ten,lamps ten
+23,num_det,those,horses,seven,those seven horses,False,NA,horses seven those
+23,num_det,those,pears,nine,those nine pears,False,NA,pears nine those
+23,num_det,these,chairs,four,these four chairs,False,NA,chairs four these
+23,det,NA,pillow,this,this pillow,False,NA,this pillow
+23,num_det,these,shirts,four,these four shirts,False,NA,shirts four these
+23,num_det,those,pineapples,five,those five pineapples,False,NA,pineapples five those
+23,num,NA,bowl,one,one bowl,False,NA,bowl one
+23,det,NA,shoe,this,this shoe,False,NA,shoe this
+23,num,NA,horses,nine,nine horses,False,NA,horses nine
+23,det,NA,shovels,those,those shovels,False,NA,shovels those
+23,num_det,these,cows,two,these two cows,False,NA,cows two these
+23,num,NA,cars,two,two cars,False,NA,cars two
+23,num_det,these,trays,five,these five trays,False,NA,trays five these
+23,num,NA,spatulas,two,two spatulas,False,NA,spatulas two
+23,num_det,these,pillows,seven,these seven pillows,False,NA,pillows seven these
+23,num_det,those,shovels,seven,those seven shovels,False,NA,shovels seven those
+23,num_det,this,hat,one,this one hat,False,NA,hat one this
+23,det,NA,trays,these,these trays,False,NA,trays these
+23,num,NA,bananas,five,five bananas,False,NA,bananas five
+23,num_det,these,leaves,nine,these nine leaves,False,NA,leaves nine these
+23,num_det,these,spatulas,five,these five spatulas,False,NA,these five spatulas
+23,num_det,these,bowls,eight,these eight bowls,False,NA,bowls eight these
+23,num,NA,shoes,six,six shoes,False,NA,shoes six
+23,num_det,these,darts,six,these six darts,False,NA,darts six these
+23,det,NA,boxes,these,these boxes,False,NA,boxes these
+23,num_det,those,keys,two,those two keys,False,NA,keys two those
+23,num_det,those,cars,four,those four cars,False,NA,cars four those
+23,num,NA,lamps,five,five lamps,False,NA,lamps five
+23,num_det,those,bananas,six,those six bananas,False,NA,bananas six those
+23,num_det,those,pigs,ten,those ten pigs,False,NA,pigs ten those
+23,det,NA,horses,these,these horses,False,NA,horses these
+23,num_det,that,shoe,one,that one shoe,False,NA,shoe one that
+23,num_det,those,boxes,two,those two boxes,False,NA,boxes two those
+23,det,NA,cows,these,these cows,False,NA,cows these
+23,num_det,these,ducks,four,these four ducks,False,NA,ducks four these
+23,num_det,these,scarfs,five,these five scarfs,False,NA,scarfs five these
+23,num_det,those,pitchers,five,those five pitchers,False,NA,pitchers five those
+23,num,NA,darts,eight,eight darts,False,NA,darts eight
+23,num,NA,pineapple,one,one pineapple,False,NA,pineapple one
+23,num_det,those,handbags,seven,those seven handbags,False,NA,handbags seven those
+23,det,NA,bananas,these,these bananas,False,NA,bananas these
+23,num_det,these,couches,three,these three couches,False,NA,couches three these
+23,det,NA,dart,this,this dart,False,NA,dart this
+23,num_det,those,vases,three,those three vases,False,NA,vases three those
+23,num_det,those,suitcases,two,those two suitcases,False,NA,suitcases two those
+23,num,NA,cows,six,six cows,False,NA,cows six
+23,num_det,these,cherries,nine,these nine cherries,False,NA,cherries nine these
+23,det,NA,shirt,that,that shirt,False,NA,shirt that
+23,num_det,those,ribbons,six,those six ribbons,False,NA,ribbons six those
+23,num_det,these,lamps,three,these three lamps,False,NA,lamps three these
+24,num,NA,shovels,NA,nine shovels,NA,nine,shovels nine
+24,det,NA,cherries,NA,these cherries,NA,these,cherries these
+24,det,NA,dart,NA,that dart,NA,that,dart that
+24,det,NA,suitcase,NA,this suitcase,NA,this,this suitcase
+24,num,NA,trays,NA,four trays,NA,four,trays four
+24,num,NA,couches,NA,six couches,NA,six,couches six
+24,num,NA,scarfs,NA,three scarfs,NA,three,three scarfs
+24,num,NA,spatulas,NA,four spatulas,NA,four,four spatulas
+24,num,NA,shoes,NA,five shoes,NA,five,shoes five
+24,det,NA,cow,NA,that cow,NA,that,cow that
+24,det,NA,shoe,NA,that shoe,NA,that,that shoe
+24,num,NA,pillows,NA,three pillows,NA,three,pillows three
+24,num,NA,pineapples,NA,seven pineapples,NA,seven,pineapples seven
+24,det,NA,shirts,NA,those shirts,NA,those,those shirts
+24,num,NA,ribbon,NA,one ribbon,NA,one,ribbon one
+24,det,NA,pitchers,NA,those pitchers,NA,those,pitchers those
+24,num,NA,box,NA,one box,NA,one,box one
+24,det,NA,chairs,NA,those chairs,NA,those,chairs those
+24,det,NA,car,NA,that car,NA,that,car that
+24,det,NA,boxes,NA,these boxes,NA,these,these boxes
+24,det,NA,ribbons,NA,those ribbons,NA,those,those ribbons
+24,det,NA,hat,NA,this hat,NA,this,this hat
+24,num,NA,cherries,NA,eight cherries,NA,eight,cherries eight
+24,det,NA,bowl,NA,this bowl,NA,this,bowl this
+24,num,NA,banana,NA,one banana,NA,one,banana one
+24,num,NA,suitcases,NA,three suitcases,NA,three,suitcases three
+24,det,NA,vase,NA,that vase,NA,that,that vase
+24,num,NA,pigs,NA,ten pigs,NA,ten,ten pigs
+24,det,NA,duck,NA,this duck,NA,this,duck this
+24,num,NA,duck,NA,one duck,NA,one,duck one
+24,det,NA,shoes,those,those shoes,False,NA,shoes those
+24,det,NA,horse,that,that horse,False,NA,horse that
+24,num,NA,bananas,nine,nine bananas,False,NA,bananas nine
+24,num_det,these,cherries,five,these five cherries,False,NA,cherries these five
+24,det,NA,ducks,those,those ducks,False,NA,ducks those
+24,num_det,these,handbags,five,these five handbags,False,NA,handbags these five
+24,num,NA,scarfs,two,two scarfs,False,NA,two scarfs
+24,num_det,those,shirts,two,those two shirts,False,NA,shirts two those
+24,num_det,those,cows,six,those six cows,False,NA,those six cows
+24,det,NA,lamps,those,those lamps,False,NA,those lamps
+24,num_det,these,shovels,four,these four shovels,False,NA,these four shovels
+24,num_det,these,ducks,three,these three ducks,False,NA,ducks three these
+24,det,NA,scarf,that,that scarf,False,NA,scarf that
+24,num_det,these,pillows,two,these two pillows,False,NA,pillows these two
+24,num_det,those,bowls,seven,those seven bowls,False,NA,bowls those seven
+24,num_det,this,car,one,this one car,False,NA,one this car
+24,num_det,those,couches,eight,those eight couches,False,NA,those eight couches
+24,num_det,these,darts,three,these three darts,False,NA,darts these three
+24,det,NA,darts,these,these darts,False,NA,these darts
+24,num_det,these,pitchers,two,these two pitchers,False,NA,pitchers two these
+24,num_det,this,lamp,one,this one lamp,False,NA,lamp this one
+24,num,NA,boxes,three,three boxes,False,NA,three boxes
+24,num,NA,bowls,three,three bowls,False,NA,bowls three
+24,num_det,these,horses,six,these six horses,False,NA,these six horses
+24,num_det,these,keys,two,these two keys,False,NA,two these keys
+24,det,NA,hats,these,these hats,False,NA,these hats
+24,num_det,these,pears,six,these six pears,False,NA,these six pears
+24,num_det,those,hats,six,those six hats,False,NA,hats six those
+24,num_det,those,chairs,six,those six chairs,False,NA,six those chairs
+24,num_det,these,suitcases,two,these two suitcases,False,NA,two these suitcases
+24,num,NA,trays,seven,seven trays,False,NA,seven trays
+24,num,NA,shoes,three,three shoes,False,NA,three shoes
+24,num,NA,cars,eight,eight cars,False,NA,cars eight
+24,num_det,those,spatulas,eight,those eight spatulas,False,NA,eight those spatulas
+24,det,NA,shovel,this,this shovel,False,NA,this shovel
+24,num_det,these,scarfs,seven,these seven scarfs,False,NA,seven these scarfs
+24,num_det,these,boxes,six,these six boxes,False,NA,boxes six these
+24,num_det,these,pigs,two,these two pigs,False,NA,pigs two these
+24,num_det,these,ribbons,five,these five ribbons,False,NA,ribbons these five
+24,num,NA,leaves,four,four leaves,False,NA,leaves four
+24,num,NA,pineapples,four,four pineapples,False,NA,pineapples four
+24,num_det,these,vases,three,these three vases,False,NA,three these vases
+24,det,NA,bananas,those,those bananas,False,NA,bananas those
+24,num,NA,darts,six,six darts,False,NA,six darts
+24,num_det,that,leaf,one,that one leaf,False,NA,leaf that one
+24,num_det,those,shoes,two,those two shoes,False,NA,shoes those two
+24,num_det,those,trays,seven,those seven trays,False,NA,trays seven those
+24,det,NA,vases,those,those vases,False,NA,vases those
+24,num_det,those,bananas,two,those two bananas,False,NA,bananas two those
+24,num_det,those,pineapples,two,those two pineapples,False,NA,those two pineapples
+25,num,NA,suitcases,NA,six suitcases,NA,six,suitcases six
+25,det,NA,keys,NA,these keys,NA,these,keys these
+25,num,NA,bananas,NA,three bananas,NA,three,bananas three
+25,det,NA,shirt,NA,this shirt,NA,this,shirt this
+25,num,NA,shovels,NA,two shovels,NA,two,shovels two
+25,det,NA,hats,NA,those hats,NA,those,hats those
+25,det,NA,pitchers,NA,these pitchers,NA,these,pitchers these
+25,num,NA,hats,NA,three hats,NA,three,hats three
+25,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+25,num,NA,shirts,NA,three shirts,NA,three,shirts three
+25,num,NA,keys,NA,nine keys,NA,nine,keys nine
+25,det,NA,banana,NA,this banana,NA,this,banana this
+25,det,NA,ribbon,NA,this ribbon,NA,this,ribbon this
+25,num,NA,handbags,NA,four handbags,NA,four,handbags four
+25,num,NA,vases,NA,six vases,NA,six,vases six
+25,det,NA,shoes,NA,these shoes,NA,these,shoes these
+25,num,NA,pillows,NA,nine pillows,NA,nine,pillows nine
+25,det,NA,vase,NA,that vase,NA,that,vase that
+25,det,NA,cows,NA,these cows,NA,these,cows these
+25,num,NA,cherries,NA,eight cherries,NA,eight,cherries eight
+25,det,NA,bowls,NA,those bowls,NA,those,bowls those
+25,num,NA,pitchers,NA,five pitchers,NA,five,pitchers five
+25,det,NA,spatulas,NA,those spatulas,NA,those,spatulas those
+25,det,NA,lamp,NA,this lamp,NA,this,lamp this
+25,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+25,num,NA,bowls,NA,seven bowls,NA,seven,bowls seven
+25,det,NA,scarf,NA,this scarf,NA,this,scarf this
+25,num,NA,shoe,NA,one shoe,NA,one,shoe one
+25,det,NA,ducks,NA,those ducks,NA,those,ducks those
+25,det,NA,cherries,NA,those cherries,NA,those,cherries those
+25,num_det,these,bananas,seven,these seven bananas,False,NA,bananas seven these
+25,num_det,these,pineapples,nine,these nine pineapples,False,NA,pineapples nine these
+25,num_det,these,ducks,ten,these ten ducks,False,NA,ducks ten these
+25,num_det,these,bowls,two,these two bowls,False,NA,bowls two these
+25,det,NA,lamps,those,those lamps,False,NA,lamps those
+25,num_det,that,pitcher,one,that one pitcher,False,NA,pitcher one that
+25,num_det,those,pigs,three,those three pigs,False,NA,pigs three those
+25,num_det,that,pillow,one,that one pillow,False,NA,pillow one that
+25,num_det,this,shoe,one,this one shoe,False,NA,shoe one this
+25,num,NA,ducks,eight,eight ducks,False,NA,ducks eight
+25,num_det,those,boxes,two,those two boxes,False,NA,boxes two those
+25,num_det,those,scarfs,eight,those eight scarfs,False,NA,scarfs eight those
+25,num_det,these,keys,six,these six keys,False,NA,keys six these
+25,num_det,these,chairs,three,these three chairs,False,NA,chairs three these
+25,num_det,those,horses,two,those two horses,False,NA,horses two those
+25,num,NA,bowls,six,six bowls,False,NA,bowls six
+25,num,NA,shoes,three,three shoes,False,NA,shoes three
+25,num,NA,pitchers,eight,eight pitchers,False,NA,pitchers eight
+25,det,NA,cherry,that,that cherry,False,NA,cherry that
+25,num_det,those,suitcases,nine,those nine suitcases,False,NA,suitcases nine those
+25,det,NA,shovels,these,these shovels,False,NA,shovels these
+25,num,NA,ribbons,seven,seven ribbons,False,NA,ribbons seven
+25,num_det,those,handbags,eight,those eight handbags,False,NA,handbags eight those
+25,num,NA,cars,seven,seven cars,False,NA,cars seven
+25,num_det,those,spatulas,eight,those eight spatulas,False,NA,spatulas eight those
+25,num_det,these,cows,three,these three cows,False,NA,cows three these
+25,num_det,those,cars,ten,those ten cars,False,NA,cars ten those
+25,num_det,this,lamp,one,this one lamp,False,NA,lamp one this
+25,num_det,those,shirts,nine,those nine shirts,False,NA,shirts nine those
+25,det,NA,bowls,those,those bowls,False,NA,bowls those
+25,num_det,these,couches,eight,these eight couches,False,NA,couches eight these
+25,num_det,these,pears,two,these two pears,False,NA,pears two these
+25,det,NA,chairs,those,those chairs,False,NA,chairs those
+25,num_det,these,ribbons,ten,these ten ribbons,False,NA,ribbons ten these
+25,det,NA,pitcher,this,this pitcher,False,NA,pitcher this
+25,num_det,these,vases,seven,these seven vases,False,NA,vases seven these
+25,num_det,those,darts,four,those four darts,False,NA,darts four those
+25,det,NA,handbag,this,this handbag,False,NA,handbag this
+25,det,NA,pears,these,these pears,False,NA,pears these
+25,num_det,those,hats,ten,those ten hats,False,NA,hats ten those
+25,det,NA,spatula,this,this spatula,False,NA,spatula this
+25,num_det,those,shovels,ten,those ten shovels,False,NA,those ten shovels
+25,num,NA,suitcases,ten,ten suitcases,False,NA,ten suitcases
+25,num,NA,leaves,nine,nine leaves,False,NA,leaves nine
+25,num_det,that,tray,one,that one tray,False,NA,tray one that
+25,num_det,these,cherries,nine,these nine cherries,False,NA,these nine cherries
+25,num,NA,handbags,two,two handbags,False,NA,handbags two
+25,num_det,those,leaves,eight,those eight leaves,False,NA,leaves eight those
+25,det,NA,pillows,these,these pillows,False,NA,pillows these
+25,num,NA,horses,three,three horses,False,NA,horses three
+26,num,NA,ducks,NA,five ducks,NA,five,ducks five
+26,det,NA,pineapples,NA,these pineapples,NA,these,pineapples these
+26,num,NA,leaves,NA,nine leaves,NA,nine,leaves nine
+26,det,NA,shoe,NA,this shoe,NA,this,shoe this
+26,num,NA,horses,NA,nine horses,NA,nine,horses nine
+26,det,NA,cow,NA,that cow,NA,that,cow that
+26,num,NA,cherries,NA,eight cherries,NA,eight,cherries eight
+26,det,NA,car,NA,this car,NA,this,car this
+26,det,NA,vase,NA,that vase,NA,that,vase that
+26,num,NA,cars,NA,ten cars,NA,ten,cars ten
+26,num,NA,bananas,NA,three bananas,NA,three,bananas three
+26,num,NA,boxes,NA,nine boxes,NA,nine,boxes nine
+26,det,NA,bananas,NA,those bananas,NA,those,bananas those
+26,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+26,num,NA,lamps,NA,eight lamps,NA,eight,lamps eight
+26,det,NA,key,NA,this key,NA,this,key this
+26,num,NA,spatulas,NA,ten spatulas,NA,ten,spatulas ten
+26,num,NA,ribbons,NA,six ribbons,NA,six,ribbons six
+26,det,NA,cherry,NA,this cherry,NA,this,cherry this
+26,det,NA,pear,NA,that pear,NA,that,pear that
+26,num,NA,shoes,NA,six shoes,NA,six,shoes six
+26,num,NA,cow,NA,one cow,NA,one,cow one
+26,num,NA,pigs,NA,six pigs,NA,six,pigs six
+26,det,NA,bowls,NA,those bowls,NA,those,bowls those
+26,det,NA,boxes,NA,these boxes,NA,these,boxes these
+26,det,NA,duck,NA,this duck,NA,this,duck this
+26,det,NA,handbags,NA,these handbags,NA,these,handbags these
+26,num,NA,pineapples,NA,two pineapples,NA,two,pineapples two
+26,det,NA,hat,NA,that hat,NA,that,hat that
+26,num,NA,pears,NA,nine pears,NA,nine,pears nine
+26,num_det,these,spatulas,three,these three spatulas,False,NA,spatulas these three
+26,det,NA,pineapples,these,these pineapples,False,NA,pineapples these
+26,det,NA,tray,that,that tray,False,NA,tray that
+26,det,NA,lamp,this,this lamp,False,NA,lamp this
+26,num_det,these,hats,four,these four hats,False,NA,hats these four
+26,det,NA,shovel,that,that shovel,False,NA,shovel that
+26,num_det,those,pillows,eight,those eight pillows,False,NA,pillows those eight
+26,num_det,those,ducks,seven,those seven ducks,False,NA,ducks those seven
+26,num_det,those,vases,nine,those nine vases,False,NA,vases those nine
+26,det,NA,pigs,those,those pigs,False,NA,pigs those
+26,num_det,these,lamps,seven,these seven lamps,False,NA,lamps these seven
+26,num_det,those,bananas,two,those two bananas,False,NA,bananas those two
+26,num_det,those,pineapples,two,those two pineapples,False,NA,pineapples those two
+26,num_det,those,keys,six,those six keys,False,NA,keys those six
+26,num,NA,darts,six,six darts,False,NA,darts six
+26,num,NA,trays,three,three trays,False,NA,trays three
+26,num_det,those,horses,ten,those ten horses,False,NA,horses those ten
+26,num_det,these,leaves,nine,these nine leaves,False,NA,leaves these nine
+26,num_det,those,suitcases,five,those five suitcases,False,NA,suitcases those five
+26,det,NA,shirt,that,that shirt,False,NA,shirt that
+26,num_det,these,couches,seven,these seven couches,False,NA,couches these seven
+26,num,NA,ducks,two,two ducks,False,NA,ducks two
+26,num_det,these,chairs,two,these two chairs,False,NA,chairs two these
+26,num,NA,handbags,seven,seven handbags,False,NA,handbags seven
+26,num_det,these,shovels,ten,these ten shovels,False,NA,shovels ten these
+26,num_det,this,pear,one,this one pear,False,NA,pear one this
+26,det,NA,pears,those,those pears,False,NA,pears those
+26,num,NA,vases,six,six vases,False,NA,vases six
+26,num_det,those,cows,eight,those eight cows,False,NA,cows eight those
+26,num_det,these,boxes,six,these six boxes,False,NA,boxes six these
+26,num,NA,cherries,ten,ten cherries,False,NA,cherries ten
+26,num,NA,shovels,four,four shovels,False,NA,shovels four
+26,num_det,these,shoes,five,these five shoes,False,NA,shoes five these
+26,num_det,these,trays,four,these four trays,False,NA,trays four these
+26,num_det,that,ribbon,one,that one ribbon,False,NA,ribbon one that
+26,num_det,those,scarfs,eight,those eight scarfs,False,NA,scarfs eight those
+26,num,NA,shirts,four,four shirts,False,NA,shirts four
+26,num_det,these,bowls,nine,these nine bowls,False,NA,bowls nine these
+26,det,NA,hat,this,this hat,False,NA,hat this
+26,num_det,these,pigs,six,these six pigs,False,NA,pigs six these
+26,num_det,these,shirts,four,these four shirts,False,NA,shirts four these
+26,num,NA,boxes,five,five boxes,False,NA,boxes five
+26,num_det,these,cars,nine,these nine cars,False,NA,cars nine these
+26,det,NA,vase,that,that vase,False,NA,vase that
+26,num_det,these,pitchers,six,these six pitchers,False,NA,pitchers six these
+26,num_det,these,darts,nine,these nine darts,False,NA,darts nine these
+26,det,NA,banana,that,that banana,False,NA,banana that
+26,num_det,those,handbags,seven,those seven handbags,False,NA,handbags seven those
+26,num,NA,ribbons,seven,seven ribbons,False,NA,ribbons seven
+26,num_det,that,cherry,one,that one cherry,False,NA,cherry one that
+27,det,NA,pillows,NA,those pillows,NA,those,pillows those
+27,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+27,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+27,det,NA,key,NA,this key,NA,this,key this
+27,det,NA,ducks,NA,these ducks,NA,these,ducks these
+27,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+27,num,NA,keys,NA,nine keys,NA,nine,keys nine
+27,det,NA,couches,NA,those couches,NA,those,couches those
+27,det,NA,car,NA,this car,NA,this,car this
+27,det,NA,shoes,NA,those shoes,NA,those,shoes those
+27,num,NA,couches,NA,ten couches,NA,ten,couches ten
+27,num,NA,suitcases,NA,four suitcases,NA,four,suitcases four
+27,num,NA,chairs,NA,ten chairs,NA,ten,chairs ten
+27,det,NA,hats,NA,those hats,NA,those,hats those
+27,num,NA,trays,NA,six trays,NA,six,trays six
+27,num,NA,shoes,NA,nine shoes,NA,nine,shoes nine
+27,det,NA,vase,NA,this vase,NA,this,vase this
+27,num,NA,boxes,NA,six boxes,NA,six,boxes six
+27,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+27,num,NA,horses,NA,seven horses,NA,seven,horses seven
+27,det,NA,pears,NA,these pears,NA,these,pears these
+27,det,NA,spatulas,NA,these spatulas,NA,these,spatulas these
+27,num,NA,ribbon,NA,one ribbon,NA,one,ribbon one
+27,num,NA,cows,NA,five cows,NA,five,cows five
+27,det,NA,dart,NA,this dart,NA,this,dart this
+27,num,NA,pigs,NA,three pigs,NA,three,pigs three
+27,det,NA,pigs,NA,these pigs,NA,these,pigs these
+27,det,NA,box,NA,this box,NA,this,box this
+27,num,NA,pillows,NA,seven pillows,NA,seven,pillows seven
+27,det,NA,suitcases,NA,those suitcases,NA,those,suitcases those
+27,num_det,those,pitchers,six,those six pitchers,False,NA,pitchers those six
+27,det,NA,scarfs,these,these scarfs,False,NA,scarfs these
+27,det,NA,horse,this,this horse,False,NA,horse this
+27,num_det,these,pigs,seven,these seven pigs,False,NA,pigs these seven
+27,det,NA,dart,that,that dart,False,NA,dart that
+27,det,NA,couch,this,this couch,False,NA,couch this
+27,num_det,these,spatulas,ten,these ten spatulas,False,NA,spatulas these ten
+27,det,NA,car,that,that car,False,NA,car that
+27,num_det,these,pillows,three,these three pillows,False,NA,pillows these three
+27,det,NA,spatulas,those,those spatulas,False,NA,spatulas those
+27,num_det,those,keys,four,those four keys,False,NA,keys those four
+27,num_det,these,vases,two,these two vases,False,NA,vases these two
+27,num,NA,leaf,one,one leaf,False,NA,leaf one
+27,det,NA,keys,those,those keys,False,NA,keys those
+27,num,NA,pear,one,one pear,False,NA,pear one
+27,num_det,these,darts,three,these three darts,False,NA,darts these three
+27,num_det,these,shovels,nine,these nine shovels,False,NA,shovels these nine
+27,num,NA,pigs,four,four pigs,False,NA,pigs four
+27,num_det,those,hats,two,those two hats,False,NA,hats those two
+27,num_det,those,horses,nine,those nine horses,False,NA,horses those nine
+27,num_det,those,cows,four,those four cows,False,NA,cows those four
+27,num,NA,shirts,ten,ten shirts,False,NA,shirts ten
+27,num,NA,shovels,six,six shovels,False,NA,shovels six
+27,num_det,these,cherries,five,these five cherries,False,NA,cherries these five
+27,det,NA,bowl,that,that bowl,False,NA,bowl that
+27,num,NA,handbags,seven,seven handbags,False,NA,handbags seven
+27,num_det,those,pears,three,those three pears,False,NA,pears those three
+27,num_det,those,bananas,eight,those eight bananas,False,NA,bananas those eight
+27,num,NA,cars,four,four cars,False,NA,cars four
+27,num_det,these,leaves,eight,these eight leaves,False,NA,leaves these eight
+27,num_det,these,couches,two,these two couches,False,NA,couches these two
+27,num_det,these,lamps,seven,these seven lamps,False,NA,lamps these seven
+27,num_det,these,boxes,four,these four boxes,False,NA,boxes these four
+27,num_det,these,shoes,seven,these seven shoes,False,NA,shoes these seven
+27,det,NA,pitchers,those,those pitchers,False,NA,pitchers those
+27,num_det,these,suitcases,six,these six suitcases,False,NA,suitcases these six
+27,num_det,those,scarfs,seven,those seven scarfs,False,NA,scarfs those seven
+27,num_det,those,ribbons,two,those two ribbons,False,NA,ribbons those two
+27,num,NA,box,one,one box,False,NA,box one
+27,num_det,those,trays,eight,those eight trays,False,NA,trays those eight
+27,num_det,these,pineapples,three,these three pineapples,False,NA,pineapples these three
+27,num,NA,couches,three,three couches,False,NA,couches three
+27,num,NA,suitcases,eight,eight suitcases,False,NA,suitcases eight
+27,num_det,these,bowls,four,these four bowls,False,NA,bowls these four
+27,num_det,this,handbag,one,this one handbag,False,NA,handbag this one
+27,det,NA,suitcase,that,that suitcase,False,NA,suitcase that
+27,num_det,those,cars,four,those four cars,False,NA,cars those four
+27,num_det,these,shirts,two,these two shirts,False,NA,shirts these two
+27,num_det,those,ducks,nine,those nine ducks,False,NA,ducks those nine
+27,num_det,these,chairs,eight,these eight chairs,False,NA,chairs these eight
+28,det,NA,cherries,NA,these cherries,NA,these,cherries these
+28,num,NA,pineapples,NA,six pineapples,NA,six,pineapples six
+28,num,NA,pears,NA,five pears,NA,five,pears five
+28,num,NA,scarfs,NA,five scarfs,NA,five,scarfs five
+28,det,NA,pillows,NA,those pillows,NA,those,pillows those
+28,det,NA,ducks,NA,those ducks,NA,those,ducks those
+28,num,NA,handbag,NA,one handbag,NA,one,handbag one
+28,num,NA,ducks,NA,nine ducks,NA,nine,ducks nine
+28,num,NA,cows,NA,six cows,NA,six,cows six
+28,det,NA,handbags,NA,these handbags,NA,these,handbags these
+28,det,NA,horse,NA,that horse,NA,that,horse that
+28,det,NA,cows,NA,those cows,NA,those,cows those
+28,num,NA,boxes,NA,eight boxes,NA,eight,boxes eight
+28,det,NA,leaf,NA,this leaf,NA,this,leaf this
+28,det,NA,banana,NA,that banana,NA,that,banana that
+28,det,NA,couches,NA,these couches,NA,these,couches these
+28,num,NA,shirt,NA,one shirt,NA,one,shirt one
+28,num,NA,pillows,NA,four pillows,NA,four,pillows four
+28,num,NA,vases,NA,eight vases,NA,eight,vases eight
+28,num,NA,pigs,NA,five pigs,NA,five,pigs five
+28,num,NA,bananas,NA,eight bananas,NA,eight,bananas eight
+28,det,NA,ribbon,NA,this ribbon,NA,this,ribbon this
+28,det,NA,bowl,NA,this bowl,NA,this,bowl this
+28,det,NA,pigs,NA,these pigs,NA,these,pigs these
+28,num,NA,bowls,NA,seven bowls,NA,seven,bowls seven
+28,num,NA,leaves,NA,eight leaves,NA,eight,leaves eight
+28,det,NA,pineapples,NA,these pineapples,NA,these,pineapples these
+28,det,NA,suitcase,NA,that suitcase,NA,that,suitcase that
+28,det,NA,lamps,NA,those lamps,NA,those,lamps those
+28,num,NA,chairs,NA,eight chairs,NA,eight,chairs eight
+28,num_det,these,keys,three,these three keys,False,NA,keys three these
+28,num_det,these,pigs,seven,these seven pigs,False,NA,pigs seven these
+28,det,NA,bananas,these,these bananas,False,NA,bananas these
+28,num_det,those,pillows,four,those four pillows,False,NA,pillows four those
+28,num_det,that,horse,one,that one horse,False,NA,horse that one
+28,num_det,these,trays,five,these five trays,False,NA,trays five these
+28,num_det,that,duck,one,that one duck,False,NA,duck that one
+28,num_det,that,pitcher,one,that one pitcher,False,NA,pitcher that one
+28,num,NA,hats,two,two hats,False,NA,hats two
+28,num_det,those,couches,three,those three couches,False,NA,couches three those
+28,num,NA,car,one,one car,False,NA,car one
+28,num,NA,keys,ten,ten keys,False,NA,keys ten
+28,num_det,those,shirts,six,those six shirts,False,NA,shirts those six
+28,num_det,those,shoes,six,those six shoes,False,NA,shoes those six
+28,num_det,these,leaves,nine,these nine leaves,False,NA,leaves these nine
+28,num,NA,horses,two,two horses,False,NA,horses two
+28,num,NA,shirts,eight,eight shirts,False,NA,shirts eight
+28,num,NA,cows,three,three cows,False,NA,cows three
+28,num_det,those,boxes,eight,those eight boxes,False,NA,boxes eight those
+28,det,NA,cherries,those,those cherries,False,NA,cherries those
+28,num_det,these,scarfs,four,these four scarfs,False,NA,scarfs four these
+28,num_det,these,cherries,nine,these nine cherries,False,NA,cherries these nine
+28,det,NA,shoes,these,these shoes,False,NA,shoes these
+28,num_det,these,darts,six,these six darts,False,NA,darts these six
+28,num_det,these,bananas,six,these six bananas,False,NA,bananas these six
+28,num,NA,pillows,ten,ten pillows,False,NA,pillows ten
+28,num_det,those,lamps,two,those two lamps,False,NA,lamps those two
+28,det,NA,boxes,those,those boxes,False,NA,boxes those
+28,num_det,that,car,one,that one car,False,NA,car that one
+28,num_det,those,pears,two,those two pears,False,NA,pears those two
+28,num_det,these,shovels,six,these six shovels,False,NA,shovels these six
+28,det,NA,horse,that,that horse,False,NA,horse that
+28,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+28,num_det,this,vase,one,this one vase,False,NA,vase this one
+28,num_det,those,hats,ten,those ten hats,False,NA,hats those ten
+28,num_det,those,chairs,seven,those seven chairs,False,NA,chairs those seven
+28,num_det,these,cows,seven,these seven cows,False,NA,cows these seven
+28,det,NA,pillow,this,this pillow,False,NA,pillow this
+28,det,NA,leaf,that,that leaf,False,NA,leaf that
+28,num_det,these,spatulas,five,these five spatulas,False,NA,spatulas these five
+28,det,NA,pear,this,this pear,False,NA,pear this
+28,det,NA,keys,these,these keys,False,NA,keys these
+28,num,NA,bowls,four,four bowls,False,NA,bowls four
+28,det,NA,spatulas,those,those spatulas,False,NA,spatulas those
+28,num,NA,chairs,two,two chairs,False,NA,chairs two
+28,num_det,those,pineapples,ten,those ten pineapples,False,NA,pineapples those ten
+28,num_det,these,handbags,four,these four handbags,False,NA,handbags these four
+28,num_det,those,bowls,five,those five bowls,False,NA,bowls those five
+28,num_det,those,ribbons,six,those six ribbons,False,NA,ribbons those six
+28,num_det,these,suitcases,eight,these eight suitcases,False,NA,suitcases these eight
+29,det,NA,pillow,NA,this pillow,NA,this,pillow this
+29,det,NA,keys,NA,these keys,NA,these,keys these
+29,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+29,det,NA,bananas,NA,these bananas,NA,these,bananas these
+29,det,NA,scarf,NA,that scarf,NA,that,scarf that
+29,num,NA,darts,NA,two darts,NA,two,darts two
+29,num,NA,vases,NA,eight vases,NA,eight,vases eight
+29,num,NA,trays,NA,two trays,NA,two,two trays
+29,num,NA,cars,NA,nine cars,NA,nine,cars nine
+29,num,NA,pear,NA,one pear,NA,one,pear one
+29,num,NA,bowls,NA,seven bowls,NA,seven,bowls seven
+29,det,NA,boxes,NA,those boxes,NA,those,boxes those
+29,det,NA,handbags,NA,these handbags,NA,these,handbags these
+29,num,NA,pitchers,NA,six pitchers,NA,six,pitchers six
+29,det,NA,duck,NA,this duck,NA,this,duck this
+29,num,NA,pigs,NA,six pigs,NA,six,pigs six
+29,num,NA,shoes,NA,two shoes,NA,two,shoes two
+29,det,NA,vase,NA,that vase,NA,that,vase that
+29,det,NA,ribbon,NA,that ribbon,NA,that,ribbon that
+29,num,NA,hats,NA,nine hats,NA,nine,hats nine
+29,num,NA,pillows,NA,five pillows,NA,five,pillows five
+29,det,NA,bowl,NA,this bowl,NA,this,bowl this
+29,det,NA,lamp,NA,this lamp,NA,this,lamp this
+29,num,NA,handbags,NA,seven handbags,NA,seven,handbags seven
+29,det,NA,dart,NA,this dart,NA,this,dart this
+29,num,NA,scarfs,NA,seven scarfs,NA,seven,scarfs seven
+29,det,NA,hat,NA,this hat,NA,this,hat this
+29,det,NA,shirts,NA,those shirts,NA,those,shirts those
+29,det,NA,tray,NA,this tray,NA,this,tray this
+29,num,NA,boxes,NA,two boxes,NA,two,boxes two
+29,num_det,these,cows,nine,these nine cows,False,NA,cows nine these
+29,num_det,those,pitchers,five,those five pitchers,False,NA,pitchers five those
+29,num,NA,darts,eight,eight darts,False,NA,darts eight
+29,num_det,these,couches,five,these five couches,False,NA,couches five these
+29,num_det,these,ribbons,two,these two ribbons,False,NA,ribbons two these
+29,num_det,those,horses,two,those two horses,False,NA,horses two those
+29,num_det,these,lamps,three,these three lamps,False,NA,these three lamps
+29,num,NA,pears,two,two pears,False,NA,pears two
+29,det,NA,boxes,those,those boxes,False,NA,boxes those
+29,det,NA,leaf,that,that leaf,False,NA,leaf that
+29,det,NA,key,that,that key,False,NA,key that
+29,num_det,these,hats,two,these two hats,False,NA,hats two these
+29,num,NA,suitcases,five,five suitcases,False,NA,suitcases five
+29,num_det,those,keys,four,those four keys,False,NA,keys four those
+29,num_det,these,shovels,seven,these seven shovels,False,NA,shovels seven these
+29,num_det,this,bowl,one,this one bowl,False,NA,bowl one this
+29,num,NA,boxes,nine,nine boxes,False,NA,boxes nine
+29,num,NA,trays,seven,seven trays,False,NA,trays seven
+29,num_det,those,chairs,three,those three chairs,False,NA,chairs three those
+29,num_det,those,bananas,nine,those nine bananas,False,NA,bananas nine those
+29,num,NA,bowl,one,one bowl,False,NA,bowl one
+29,num_det,those,cherries,ten,those ten cherries,False,NA,cherries ten those
+29,det,NA,hat,that,that hat,False,NA,hat that
+29,num_det,those,boxes,nine,those nine boxes,False,NA,boxes nine those
+29,det,NA,ribbon,this,this ribbon,False,NA,ribbon this
+29,det,NA,pig,this,this pig,False,NA,this pig
+29,num_det,these,shirts,nine,these nine shirts,False,NA,shirts nine these
+29,num_det,those,pineapples,three,those three pineapples,False,NA,pineapples three those
+29,num_det,those,ducks,four,those four ducks,False,NA,ducks four those
+29,num_det,those,vases,seven,those seven vases,False,NA,vases those seven
+29,num_det,those,trays,five,those five trays,False,NA,trays those five
+29,num_det,those,handbags,two,those two handbags,False,NA,handbags two those
+29,num,NA,pineapples,three,three pineapples,False,NA,pineapples three
+29,num_det,those,spatulas,three,those three spatulas,False,NA,spatulas three those
+29,num,NA,horses,eight,eight horses,False,NA,horses eight
+29,num_det,those,suitcases,ten,those ten suitcases,False,NA,suitcases ten those
+29,num,NA,shirts,nine,nine shirts,False,NA,shirts nine
+29,num_det,these,darts,nine,these nine darts,False,NA,darts these nine
+29,det,NA,shovels,those,those shovels,False,NA,shovels those
+29,det,NA,pear,that,that pear,False,NA,pear that
+29,num_det,those,scarfs,three,those three scarfs,False,NA,scarfs those three
+29,num_det,these,pillows,two,these two pillows,False,NA,these two pillows
+29,num_det,these,leaves,six,these six leaves,False,NA,leaves six these
+29,num_det,those,cars,five,those five cars,False,NA,cars five those
+29,det,NA,trays,those,those trays,False,NA,those trays
+29,det,NA,spatulas,those,those spatulas,False,NA,those spatulas
+29,num_det,those,pears,six,those six pears,False,NA,pears six those
+29,num_det,these,shoes,three,these three shoes,False,NA,shoes three these
+29,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+29,num_det,these,pigs,nine,these nine pigs,False,NA,pigs nine these
+30,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+30,num,NA,ribbons,NA,three ribbons,NA,three,ribbons three
+30,det,NA,shoes,NA,these shoes,NA,these,shoes these
+30,num,NA,hats,NA,five hats,NA,five,hats five
+30,num,NA,shirts,NA,three shirts,NA,three,shirts three
+30,det,NA,spatula,NA,this spatula,NA,this,spatula this
+30,det,NA,car,NA,that car,NA,that,car that
+30,det,NA,shovels,NA,those shovels,NA,those,shovels those
+30,num,NA,shoes,NA,ten shoes,NA,ten,shoes ten
+30,num,NA,cars,NA,two cars,NA,two,cars two
+30,det,NA,horse,NA,that horse,NA,that,horse that
+30,num,NA,pitcher,NA,one pitcher,NA,one,pitcher one
+30,det,NA,pigs,NA,those pigs,NA,those,pigs those
+30,det,NA,suitcase,NA,this suitcase,NA,this,suitcase this
+30,num,NA,darts,NA,five darts,NA,five,darts five
+30,num,NA,cows,NA,eight cows,NA,eight,cows eight
+30,num,NA,pillows,NA,seven pillows,NA,seven,pillows seven
+30,det,NA,lamps,NA,those lamps,NA,those,those lamps
+30,det,NA,box,NA,that box,NA,that,box that
+30,num,NA,leaves,NA,two leaves,NA,two,leaves two
+30,det,NA,chairs,NA,those chairs,NA,those,chairs those
+30,det,NA,bowl,NA,this bowl,NA,this,bowl this
+30,det,NA,pitcher,NA,that pitcher,NA,that,pitcher that
+30,num,NA,lamps,NA,five lamps,NA,five,lamps five
+30,num,NA,spatulas,NA,three spatulas,NA,three,spatulas three
+30,det,NA,cherry,NA,that cherry,NA,that,cherry that
+30,det,NA,tray,NA,that tray,NA,that,tray that
+30,num,NA,pineapples,NA,six pineapples,NA,six,pineapples six
+30,num,NA,shovels,NA,six shovels,NA,six,shovels six
+30,det,NA,leaf,NA,this leaf,NA,this,leaf this
+30,num_det,these,scarfs,four,these four scarfs,False,NA,scarfs these four
+30,det,NA,key,this,this key,False,NA,key this
+30,num_det,those,shirts,four,those four shirts,False,NA,shirts four those
+30,num_det,these,lamps,seven,these seven lamps,False,NA,lamps seven these
+30,num_det,these,cows,nine,these nine cows,False,NA,cows nine these
+30,num_det,these,bananas,nine,these nine bananas,False,NA,bananas nine these
+30,num_det,these,cherries,nine,these nine cherries,False,NA,cherries nine these
+30,num_det,these,chairs,nine,these nine chairs,False,NA,chairs nine these
+30,num_det,those,bowls,eight,those eight bowls,False,NA,bowls eight those
+30,det,NA,lamps,these,these lamps,False,NA,lamps these
+30,num,NA,horses,eight,eight horses,False,NA,horses eight
+30,num_det,those,shovels,five,those five shovels,False,NA,shovels five those
+30,num_det,these,cars,ten,these ten cars,False,NA,cars ten these
+30,num_det,that,duck,one,that one duck,False,NA,duck that one
+30,num_det,those,pineapples,three,those three pineapples,False,NA,pineapples three those
+30,num_det,those,shoes,five,those five shoes,False,NA,shoes those five
+30,num_det,these,keys,six,these six keys,False,NA,keys six these
+30,num_det,those,pitchers,four,those four pitchers,False,NA,pitchers four those
+30,num,NA,bowls,two,two bowls,False,NA,bowls two
+30,num_det,these,vases,four,these four vases,False,NA,vases four these
+30,num_det,those,trays,five,those five trays,False,NA,trays five those
+30,num,NA,bananas,five,five bananas,False,NA,bananas five
+30,num,NA,keys,three,three keys,False,NA,keys three
+30,det,NA,leaf,this,this leaf,False,NA,leaf this
+30,det,NA,box,that,that box,False,NA,box that
+30,det,NA,ducks,those,those ducks,False,NA,ducks those
+30,num_det,these,darts,four,these four darts,False,NA,darts four these
+30,det,NA,spatula,this,this spatula,False,NA,spatula this
+30,num_det,these,horses,eight,these eight horses,False,NA,horses eight these
+30,num_det,those,pillows,eight,those eight pillows,False,NA,pillows eight those
+30,num_det,those,handbags,six,those six handbags,False,NA,handbags six those
+30,num,NA,ribbons,ten,ten ribbons,False,NA,ribbons ten
+30,det,NA,car,that,that car,False,NA,car that
+30,num_det,these,leaves,five,these five leaves,False,NA,leaves five these
+30,num_det,those,ribbons,three,those three ribbons,False,NA,ribbons three those
+30,num,NA,pig,one,one pig,False,NA,pig one
+30,det,NA,bowl,that,that bowl,False,NA,bowl that
+30,det,NA,pears,those,those pears,False,NA,pears those
+30,num_det,those,pears,four,those four pears,False,NA,pears four those
+30,det,NA,pillow,that,that pillow,False,NA,pillow that
+30,num,NA,spatulas,five,five spatulas,False,NA,spatulas five
+30,num,NA,vases,four,four vases,False,NA,vases four
+30,num_det,those,pigs,four,those four pigs,False,NA,four those pigs
+30,num_det,those,boxes,five,those five boxes,False,NA,boxes five those
+30,num_det,that,suitcase,one,that one suitcase,False,NA,suitcase that one
+30,num_det,this,spatula,one,this one spatula,False,NA,spatula this one
+30,num_det,these,couches,five,these five couches,False,NA,these five couches
+30,num,NA,pineapples,nine,nine pineapples,False,NA,pineapples nine
+30,num,NA,leaves,two,two leaves,False,NA,two leaves
+30,num_det,these,hats,four,these four hats,False,NA,hats four these
+31,num,NA,leaves,NA,two leaves,NA,two,leaves two
+31,det,NA,tray,NA,that tray,NA,that,tray that
+31,det,NA,bowls,NA,these bowls,NA,these,bowls these
+31,det,NA,shirt,NA,this shirt,NA,this,shirt this
+31,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+31,det,NA,vases,NA,these vases,NA,these,vases these
+31,det,NA,cars,NA,those cars,NA,those,cars those
+31,det,NA,shoes,NA,those shoes,NA,those,shoes those
+31,det,NA,couch,NA,this couch,NA,this,couch this
+31,num,NA,bananas,NA,two bananas,NA,two,bananas two
+31,num,NA,keys,NA,six keys,NA,six,keys six
+31,det,NA,pigs,NA,those pigs,NA,those,pigs those
+31,num,NA,hats,NA,six hats,NA,six,hats six
+31,num,NA,suitcases,NA,ten suitcases,NA,ten,suitcases ten
+31,det,NA,cow,NA,that cow,NA,that,cow that
+31,det,NA,lamps,NA,those lamps,NA,those,lamps those
+31,num,NA,shoes,NA,seven shoes,NA,seven,shoes seven
+31,det,NA,dart,NA,that dart,NA,that,dart that
+31,num,NA,boxes,NA,seven boxes,NA,seven,boxes seven
+31,num,NA,cars,NA,ten cars,NA,ten,cars ten
+31,det,NA,scarfs,NA,those scarfs,NA,those,scarfs those
+31,num,NA,tray,NA,one tray,NA,one,tray one
+31,num,NA,shovels,NA,four shovels,NA,four,shovels four
+31,num,NA,darts,NA,five darts,NA,five,darts five
+31,det,NA,chairs,NA,these chairs,NA,these,chairs these
+31,num,NA,cherry,NA,one cherry,NA,one,cherry one
+31,num,NA,shirts,NA,four shirts,NA,four,shirts four
+31,num,NA,lamps,NA,two lamps,NA,two,lamps two
+31,det,NA,cherries,NA,those cherries,NA,those,cherries those
+31,det,NA,shovels,NA,these shovels,NA,these,shovels these
+31,num_det,those,shovels,nine,those nine shovels,False,NA,shovels nine those
+31,num_det,this,tray,one,this one tray,False,NA,tray one this
+31,num_det,these,pineapples,two,these two pineapples,False,NA,pineapples two these
+31,num_det,those,hats,seven,those seven hats,False,NA,hats seven those
+31,num,NA,pineapples,three,three pineapples,False,NA,pineapples three
+31,num,NA,shirts,nine,nine shirts,False,NA,shirts nine
+31,num_det,those,cars,four,those four cars,False,NA,cars four those
+31,det,NA,cows,these,these cows,False,NA,cows these
+31,num,NA,hats,two,two hats,False,NA,hats two
+31,num_det,these,couches,five,these five couches,False,NA,couches five these
+31,num,NA,trays,seven,seven trays,False,NA,trays seven
+31,num_det,those,bananas,nine,those nine bananas,False,NA,bananas nine those
+31,det,NA,pineapples,these,these pineapples,False,NA,pineapples these
+31,num_det,those,shirts,three,those three shirts,False,NA,shirts three those
+31,det,NA,banana,that,that banana,False,NA,banana that
+31,det,NA,bowl,that,that bowl,False,NA,bowl that
+31,det,NA,pear,this,this pear,False,NA,pear this
+31,num_det,those,pears,seven,those seven pears,False,NA,pears seven those
+31,num,NA,scarfs,nine,nine scarfs,False,NA,scarfs nine
+31,num_det,that,leaf,one,that one leaf,False,NA,leaf one that
+31,det,NA,suitcase,that,that suitcase,False,NA,suitcase that
+31,num_det,that,cow,one,that one cow,False,NA,cow one that
+31,num_det,these,ducks,nine,these nine ducks,False,NA,ducks nine these
+31,num_det,those,bowls,four,those four bowls,False,NA,bowls four those
+31,num_det,those,keys,ten,those ten keys,False,NA,keys ten those
+31,num,NA,shovels,eight,eight shovels,False,NA,shovels eight
+31,num_det,these,shoes,ten,these ten shoes,False,NA,shoes ten these
+31,num_det,that,cherry,one,that one cherry,False,NA,cherry one that
+31,num_det,these,chairs,two,these two chairs,False,NA,chairs two these
+31,num,NA,shoes,nine,nine shoes,False,NA,shoes nine
+31,num_det,these,lamps,six,these six lamps,False,NA,lamps six these
+31,num_det,that,scarf,one,that one scarf,False,NA,scarf one that
+31,num_det,these,boxes,two,these two boxes,False,NA,boxes two these
+31,det,NA,hats,those,those hats,False,NA,hats those
+31,num,NA,pigs,seven,seven pigs,False,NA,pigs seven
+31,num_det,those,pillows,six,those six pillows,False,NA,pillows six those
+31,num,NA,horses,ten,ten horses,False,NA,horses ten
+31,num_det,this,spatula,one,this one spatula,False,NA,spatula one this
+31,det,NA,car,this,this car,False,NA,this car
+31,num_det,those,darts,nine,those nine darts,False,NA,darts nine those
+31,num_det,those,pitchers,seven,those seven pitchers,False,NA,pitchers seven those
+31,num,NA,darts,six,six darts,False,NA,darts six
+31,det,NA,box,this,this box,False,NA,box this
+31,num_det,those,vases,nine,those nine vases,False,NA,vases nine those
+31,det,NA,lamp,this,this lamp,False,NA,lamp this
+31,num_det,that,handbag,one,that one handbag,False,NA,handbag one that
+31,num_det,that,horse,one,that one horse,False,NA,horse one that
+31,num_det,those,pigs,five,those five pigs,False,NA,pigs five those
+31,num_det,these,suitcases,four,these four suitcases,False,NA,suitcases four these
+31,num_det,those,ribbons,three,those three ribbons,False,NA,ribbons three those

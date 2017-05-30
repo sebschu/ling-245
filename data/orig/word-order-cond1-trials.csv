@@ -1,0 +1,2401 @@
+workerid,trial_type,modifier2,noun,modifier1,stimulus,train,modifier,response
+0,num,NA,cars,NA,nine cars,NA,nine,cars nine
+0,num,NA,hats,NA,two hats,NA,two,hats two
+0,adj,NA,hat,NA,purple hat,NA,purple,hat purple
+0,adj,NA,banana,NA,stone banana,NA,stone,banana stone
+0,adj,NA,bowl,NA,stone bowl,NA,stone,bowl stone
+0,num,NA,darts,NA,four darts,NA,four,darts four
+0,adj,NA,box,NA,blue box,NA,blue,box blue
+0,adj,NA,key,NA,striped key,NA,striped,key striped
+0,num,NA,pineapple,NA,one pineapple,NA,one,pineapple one
+0,adj,NA,pig,NA,wooden pig,NA,wooden,pig wooden
+0,adj,NA,shoe,NA,orange shoe,NA,orange,shoe orange
+0,adj,NA,duck,NA,orange duck,NA,orange,duck orange
+0,num,NA,vases,NA,six vases,NA,six,vases six
+0,adj,NA,shovel,NA,stone shovel,NA,stone,shovel stone
+0,num,NA,cherries,NA,five cherries,NA,five,cherries five
+0,num,NA,leaves,NA,eight leaves,NA,eight,leaves eight
+0,num,NA,couches,NA,three couches,NA,three,couches three
+0,num,NA,spatulas,NA,nine spatulas,NA,nine,spatulas nine
+0,adj,NA,shirt,NA,purple shirt,NA,purple,shirt purple
+0,adj,NA,tray,NA,striped tray,NA,striped,tray striped
+0,adj,NA,handbag,NA,blue handbag,NA,blue,handbag blue
+0,adj,NA,ribbon,NA,furry ribbon,NA,furry,ribbon furry
+0,adj,NA,car,NA,striped car,NA,striped,car striped
+0,num,NA,lamps,NA,six lamps,NA,six,lamps six
+0,num,NA,pillows,NA,four pillows,NA,four,pillows four
+0,adj,NA,cow,NA,furry cow,NA,furry,cow furry
+0,num,NA,pitchers,NA,eight pitchers,NA,eight,pitchers eight
+0,num,NA,shirts,NA,seven shirts,NA,seven,shirts seven
+0,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+0,num,NA,handbags,NA,ten handbags,NA,ten,handbags ten
+0,adj_num,five,leaves,stone,five stone leaves,False,NA,leaves stone five
+0,adj_num,two,ribbons,green,two green ribbons,False,NA,ribbons green two
+0,adj_num,eight,scarfs,orange,eight orange scarfs,False,NA,scarfs orange eight
+0,num,NA,keys,three,three keys,False,NA,keys three
+0,adj,NA,car,wooden,wooden car,False,NA,car wooden
+0,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+0,adj_num,two,hats,dirty,two dirty hats,False,NA,hats dirty two
+0,adj_num,two,shoes,furry,two furry shoes,False,NA,shoes furry two
+0,num,NA,couches,seven,seven couches,False,NA,couches seven
+0,adj_num,seven,vases,spotted,seven spotted vases,False,NA,vases spotted seven
+0,adj_num,two,shovels,spotted,two spotted shovels,False,NA,shovels spotted two
+0,adj_num,two,pitchers,dirty,two dirty pitchers,False,NA,pitchers dirty two
+0,adj,NA,duck,striped,striped duck,False,NA,duck striped
+0,num,NA,cherries,seven,seven cherries,False,NA,cherries seven
+0,adj_num,seven,cars,stone,seven stone cars,False,NA,cars stone seven
+0,adj_num,one,shirt,dirty,one dirty shirt,False,NA,shirt dirty one
+0,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+0,adj_num,nine,boxes,spotted,nine spotted boxes,False,NA,boxes spotted nine
+0,adj_num,six,keys,striped,six striped keys,False,NA,keys striped six
+0,adj,NA,horse,stone,stone horse,False,NA,stone horse
+0,adj_num,nine,trays,striped,nine striped trays,False,NA,trays striped nine
+0,adj_num,eight,suitcases,wooden,eight wooden suitcases,False,NA,suitcases wooden eight
+0,adj,NA,shovel,spotted,spotted shovel,False,NA,shovel spotted
+0,adj,NA,dart,purple,purple dart,False,NA,dart purple
+0,adj_num,three,bowls,purple,three purple bowls,False,NA,bowls purple three
+0,adj_num,one,horse,dirty,one dirty horse,False,NA,horse dirty one
+0,adj_num,six,bananas,spotted,six spotted bananas,False,NA,bananas spotted six
+0,adj_num,five,pineapples,spotted,five spotted pineapples,False,NA,pineapples spotted five
+0,adj_num,nine,cherries,spotted,nine spotted cherries,False,NA,cherries spotted nine
+0,adj_num,one,cow,furry,one furry cow,False,NA,cow furry one
+0,num,NA,vases,three,three vases,False,NA,three vases
+0,num,NA,darts,nine,nine darts,False,NA,darts nine
+0,adj,NA,vase,green,green vase,False,NA,vase green
+0,num,NA,cows,five,five cows,False,NA,cows five
+0,adj_num,nine,ducks,spotted,nine spotted ducks,False,NA,ducks spotted nine
+0,num,NA,pillows,ten,ten pillows,False,NA,pillows ten
+0,adj_num,four,darts,wooden,four wooden darts,False,NA,darts wooden four
+0,adj_num,four,pears,green,four green pears,False,NA,pears green four
+0,adj_num,three,lamps,wooden,three wooden lamps,False,NA,lamps wooden three
+0,adj,NA,pig,wooden,wooden pig,False,NA,pig wooden
+0,adj_num,six,couches,orange,six orange couches,False,NA,couches orange six
+0,adj_num,four,handbags,blue,four blue handbags,False,NA,handbags blue four
+0,num,NA,chairs,eight,eight chairs,False,NA,chairs eight
+0,adj,NA,key,striped,striped key,False,NA,key striped
+0,adj,NA,bowl,dirty,dirty bowl,False,NA,bowl dirty
+0,adj_num,seven,spatulas,blue,seven blue spatulas,False,NA,spatulas blue seven
+0,adj_num,ten,pigs,dirty,ten dirty pigs,False,NA,pigs dirty ten
+0,adj_num,two,chairs,orange,two orange chairs,False,NA,chairs orange two
+0,adj_num,seven,pillows,blue,seven blue pillows,False,NA,pillows blue seven
+0,num,NA,boxes,ten,ten boxes,False,NA,boxes ten
+1,num,NA,pitchers,NA,five pitchers,NA,five,pitchers five
+1,num,NA,pears,NA,three pears,NA,three,pears three
+1,adj,NA,box,NA,orange box,NA,orange,box orange
+1,num,NA,chairs,NA,five chairs,NA,five,chairs five
+1,adj,NA,couch,NA,striped couch,NA,striped,couch striped
+1,num,NA,boxes,NA,four boxes,NA,four,boxes four
+1,adj,NA,lamp,NA,dirty lamp,NA,dirty,lamp dirty
+1,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+1,adj,NA,pineapple,NA,stone pineapple,NA,stone,pineapple stone
+1,adj,NA,pear,NA,green pear,NA,green,pear green
+1,num,NA,shoes,NA,eight shoes,NA,eight,shoes eight
+1,adj,NA,chair,NA,dirty chair,NA,dirty,chair dirty
+1,adj,NA,spatula,NA,spotted spatula,NA,spotted,spatula spotted
+1,num,NA,darts,NA,four darts,NA,four,darts four
+1,num,NA,cars,NA,eight cars,NA,eight,cars eight
+1,num,NA,keys,NA,two keys,NA,two,keys two
+1,adj,NA,suitcase,NA,wooden suitcase,NA,wooden,suitcase wooden
+1,adj,NA,shoe,NA,spotted shoe,NA,spotted,shoe spotted
+1,num,NA,cows,NA,nine cows,NA,nine,cows nine
+1,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+1,num,NA,pillows,NA,nine pillows,NA,nine,pillows nine
+1,num,NA,lamp,NA,one lamp,NA,one,lamp one
+1,num,NA,leaf,NA,one leaf,NA,one,leaf one
+1,adj,NA,hat,NA,purple hat,NA,purple,hat purple
+1,adj,NA,key,NA,purple key,NA,purple,key purple
+1,adj,NA,shirt,NA,striped shirt,NA,striped,shirt striped
+1,adj,NA,banana,NA,dirty banana,NA,dirty,banana dirty
+1,adj,NA,car,NA,wooden car,NA,wooden,car wooden
+1,num,NA,couches,NA,four couches,NA,four,couches four
+1,adj,NA,duck,NA,wooden duck,NA,wooden,duck wooden
+1,adj_num,seven,darts,blue,seven blue darts,False,NA,darts blue seven
+1,adj_num,ten,keys,striped,ten striped keys,False,NA,keys striped ten
+1,adj,NA,tray,blue,blue tray,False,NA,tray blue
+1,adj_num,ten,pillows,purple,ten purple pillows,False,NA,pillows purple ten
+1,adj,NA,dart,spotted,spotted dart,False,NA,dart spotted
+1,adj_num,five,cows,wooden,five wooden cows,False,NA,cows wooden five
+1,adj_num,ten,pitchers,orange,ten orange pitchers,False,NA,pitchers orange ten
+1,adj_num,nine,ribbons,purple,nine purple ribbons,False,NA,ribbons purple nine
+1,adj_num,five,couches,striped,five striped couches,False,NA,couches striped five
+1,adj,NA,pig,stone,stone pig,False,NA,pig stone
+1,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+1,adj_num,four,horses,dirty,four dirty horses,False,NA,horses dirty four
+1,num,NA,bananas,seven,seven bananas,False,NA,bananas seven
+1,num,NA,horses,three,three horses,False,NA,horses three
+1,adj_num,ten,pears,wooden,ten wooden pears,False,NA,pears wooden ten
+1,adj_num,ten,ducks,spotted,ten spotted ducks,False,NA,ducks spotted ten
+1,adj_num,ten,leaves,stone,ten stone leaves,False,NA,leaves stone ten
+1,adj_num,two,trays,purple,two purple trays,False,NA,trays purple two
+1,adj,NA,pineapple,dirty,dirty pineapple,False,NA,pineapple dirty
+1,num,NA,pears,ten,ten pears,False,NA,pears ten
+1,num,NA,pillows,eight,eight pillows,False,NA,pillows eight
+1,num,NA,shoes,three,three shoes,False,NA,shoes three
+1,adj_num,eight,hats,striped,eight striped hats,False,NA,hats striped eight
+1,adj_num,six,bowls,striped,six striped bowls,False,NA,bowls striped six
+1,adj_num,seven,lamps,purple,seven purple lamps,False,NA,purple seven lamps
+1,adj,NA,suitcase,blue,blue suitcase,False,NA,suitcase blue
+1,adj_num,four,pineapples,spotted,four spotted pineapples,False,NA,pineapples spotted four
+1,num,NA,handbags,six,six handbags,False,NA,handbags six
+1,adj_num,eight,chairs,green,eight green chairs,False,NA,chairs green eight
+1,adj_num,nine,cherries,wooden,nine wooden cherries,False,NA,cherries wooden nine
+1,adj_num,six,shovels,orange,six orange shovels,False,NA,shovels orange six
+1,num,NA,pitchers,six,six pitchers,False,NA,pitchers six
+1,adj_num,one,shirt,dirty,one dirty shirt,False,NA,shirt dirty one
+1,num,NA,cherries,two,two cherries,False,NA,cherries two
+1,adj_num,ten,boxes,wooden,ten wooden boxes,False,NA,boxes wooden ten
+1,adj,NA,banana,dirty,dirty banana,False,NA,banana dirty
+1,adj_num,nine,shoes,furry,nine furry shoes,False,NA,shoes furry nine
+1,adj,NA,handbag,purple,purple handbag,False,NA,handbag purple
+1,adj,NA,car,dirty,dirty car,False,NA,car dirty
+1,num,NA,pig,one,one pig,False,NA,pig one
+1,adj,NA,vase,striped,striped vase,False,NA,vase striped
+1,num,NA,boxes,ten,ten boxes,False,NA,boxes ten
+1,adj_num,ten,bananas,spotted,ten spotted bananas,False,NA,bananas spotted ten
+1,adj_num,one,pig,wooden,one wooden pig,False,NA,pig wooden one
+1,adj_num,seven,scarfs,striped,seven striped scarfs,False,NA,scarfs striped seven
+1,adj_num,six,handbags,furry,six furry handbags,False,NA,handbags furry six
+1,adj_num,three,suitcases,striped,three striped suitcases,False,NA,suitcases striped three
+1,adj_num,three,vases,spotted,three spotted vases,False,NA,vases spotted three
+1,adj_num,six,spatulas,green,six green spatulas,False,NA,spatulas green six
+1,adj_num,eight,cars,spotted,eight spotted cars,False,NA,cars spotted eight
+2,num,NA,lamps,NA,ten lamps,NA,ten,ten lamps
+2,adj,NA,duck,NA,wooden duck,NA,wooden,wooden duck
+2,num,NA,pears,NA,eight pears,NA,eight,eight pears
+2,adj,NA,key,NA,green key,NA,green,green key
+2,num,NA,shovels,NA,four shovels,NA,four,four shovels
+2,adj,NA,shovel,NA,dirty shovel,NA,dirty,dirty shovel
+2,num,NA,couches,NA,ten couches,NA,ten,ten couches
+2,adj,NA,lamp,NA,blue lamp,NA,blue,blue lamp
+2,adj,NA,hat,NA,green hat,NA,green,green hat
+2,num,NA,shoe,NA,one shoe,NA,one,one shoe
+2,num,NA,cars,NA,six cars,NA,six,six cars
+2,adj,NA,pig,NA,striped pig,NA,striped,striped pig
+2,adj,NA,shirt,NA,dirty shirt,NA,dirty,dirty shirt
+2,num,NA,chairs,NA,eight chairs,NA,eight,eight chairs
+2,adj,NA,vase,NA,spotted vase,NA,spotted,spotted vase
+2,num,NA,darts,NA,five darts,NA,five,five darts
+2,adj,NA,spatula,NA,blue spatula,NA,blue,blue spatula
+2,num,NA,suitcases,NA,eight suitcases,NA,eight,eight suitcases
+2,num,NA,keys,NA,nine keys,NA,nine,nine keys
+2,num,NA,boxes,NA,five boxes,NA,five,five boxes
+2,num,NA,cow,NA,one cow,NA,one,one cow
+2,num,NA,spatula,NA,one spatula,NA,one,one spatula
+2,adj,NA,pillow,NA,striped pillow,NA,striped,striped pillow
+2,adj,NA,leaf,NA,green leaf,NA,green,green leaf
+2,adj,NA,shoe,NA,wooden shoe,NA,wooden,wooden shoe
+2,adj,NA,horse,NA,striped horse,NA,striped,striped horse
+2,adj,NA,couch,NA,green couch,NA,green,green couch
+2,num,NA,pineapples,NA,nine pineapples,NA,nine,nine pineapples
+2,adj,NA,cherry,NA,wooden cherry,NA,wooden,wooden cherry
+2,num,NA,bananas,NA,five bananas,NA,five,five bananas
+2,adj,NA,key,green,green key,False,NA,key green
+2,num,NA,pears,two,two pears,False,NA,pears two
+2,adj_num,five,boxes,blue,five blue boxes,False,NA,boxes blue five
+2,num,NA,pineapples,two,two pineapples,False,NA,pineapples two
+2,adj,NA,shirt,furry,furry shirt,False,NA,shirt furry
+2,adj_num,five,pears,spotted,five spotted pears,False,NA,pears spotted five
+2,adj_num,two,hats,furry,two furry hats,False,NA,furry two hats
+2,adj,NA,shovel,blue,blue shovel,False,NA,shovel blue
+2,adj_num,one,ribbon,orange,one orange ribbon,False,NA,ribbon orange one
+2,num,NA,scarfs,three,three scarfs,False,NA,scarfs three
+2,num,NA,ducks,ten,ten ducks,False,NA,ducks ten
+2,adj_num,ten,bananas,green,ten green bananas,False,NA,bananas green ten
+2,num,NA,boxes,five,five boxes,False,NA,boxes five
+2,adj_num,four,chairs,purple,four purple chairs,False,NA,chairs purple four
+2,adj_num,four,shirts,striped,four striped shirts,False,NA,shirts striped four
+2,adj_num,seven,couches,dirty,seven dirty couches,False,NA,couches dirty seven
+2,num,NA,spatulas,four,four spatulas,False,NA,spatulas four
+2,adj_num,one,pig,dirty,one dirty pig,False,NA,pig dirty one
+2,adj_num,five,cherries,green,five green cherries,False,NA,cherries green five
+2,adj_num,four,bowls,spotted,four spotted bowls,False,NA,bowls spotted four
+2,num,NA,cars,ten,ten cars,False,NA,cars ten
+2,adj_num,two,scarfs,spotted,two spotted scarfs,False,NA,scarfs spotted two
+2,adj_num,six,spatulas,purple,six purple spatulas,False,NA,spatulas purple six
+2,num,NA,bananas,two,two bananas,False,NA,bananas two
+2,adj_num,one,suitcase,dirty,one dirty suitcase,False,NA,suitcase dirty one
+2,adj_num,ten,horses,stone,ten stone horses,False,NA,horses stone ten
+2,adj_num,two,shovels,orange,two orange shovels,False,NA,shovels orange two
+2,adj,NA,bowl,dirty,dirty bowl,False,NA,bowl dirty
+2,adj_num,one,car,orange,one orange car,False,NA,car orange one
+2,adj_num,six,cows,spotted,six spotted cows,False,NA,cows spotted six
+2,adj_num,one,tray,stone,one stone tray,False,NA,tray stone one
+2,adj_num,four,darts,furry,four furry darts,False,NA,darts furry four
+2,adj,NA,suitcase,blue,blue suitcase,False,NA,suitcase blue
+2,adj_num,seven,pitchers,stone,seven stone pitchers,False,NA,pitchers stone seven
+2,num,NA,key,one,one key,False,NA,key one
+2,adj_num,six,pineapples,stone,six stone pineapples,False,NA,pineapples stone six
+2,adj_num,three,pillows,striped,three striped pillows,False,NA,pillows striped three
+2,num,NA,chairs,two,two chairs,False,NA,two chairs
+2,adj,NA,banana,dirty,dirty banana,False,NA,banana dirty
+2,adj_num,four,vases,stone,four stone vases,False,NA,vases stone four
+2,adj,NA,vase,spotted,spotted vase,False,NA,vase spotted
+2,adj,NA,pitcher,purple,purple pitcher,False,NA,pitcher purple
+2,adj_num,one,handbag,purple,one purple handbag,False,NA,handbag purple one
+2,adj_num,one,key,striped,one striped key,False,NA,key striped one
+2,adj,NA,hat,green,green hat,False,NA,hat green
+2,adj_num,five,leaves,striped,five striped leaves,False,NA,leaves striped five
+2,adj_num,three,shoes,wooden,three wooden shoes,False,NA,shoes wooden three
+2,adj_num,five,lamps,wooden,five wooden lamps,False,NA,lamps wooden five
+2,adj,NA,cherry,stone,stone cherry,False,NA,cherry stone
+2,adj_num,six,ducks,dirty,six dirty ducks,False,NA,ducks dirty six
+3,num,NA,boxes,NA,four boxes,NA,four,boxes four
+3,adj,NA,ribbon,NA,striped ribbon,NA,striped,ribbon striped
+3,num,NA,pears,NA,four pears,NA,four,pears four
+3,num,NA,shoes,NA,eight shoes,NA,eight,shoes eight
+3,num,NA,darts,NA,two darts,NA,two,darts two
+3,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+3,adj,NA,shoe,NA,stone shoe,NA,stone,shoe stone
+3,adj,NA,vase,NA,dirty vase,NA,dirty,vase dirty
+3,adj,NA,pillow,NA,orange pillow,NA,orange,pillow orange
+3,adj,NA,spatula,NA,blue spatula,NA,blue,spatula blue
+3,adj,NA,pig,NA,spotted pig,NA,spotted,pig spotted
+3,adj,NA,dart,NA,wooden dart,NA,wooden,dart wooden
+3,adj,NA,tray,NA,wooden tray,NA,wooden,tray wooden
+3,num,NA,suitcases,NA,eight suitcases,NA,eight,suitcases eight
+3,num,NA,leaves,NA,three leaves,NA,three,leaves three
+3,adj,NA,cow,NA,dirty cow,NA,dirty,cow dirty
+3,num,NA,vases,NA,seven vases,NA,seven,vases seven
+3,adj,NA,shirt,NA,striped shirt,NA,striped,shirt striped
+3,num,NA,cows,NA,eight cows,NA,eight,cows eight
+3,adj,NA,key,NA,blue key,NA,blue,key blue
+3,adj,NA,couch,NA,blue couch,NA,blue,couch blue
+3,num,NA,shirts,NA,four shirts,NA,four,shirts four
+3,num,NA,spatulas,NA,seven spatulas,NA,seven,spatulas seven
+3,num,NA,bowls,NA,four bowls,NA,four,bowls four
+3,num,NA,scarfs,NA,ten scarfs,NA,ten,scarfs ten
+3,num,NA,handbags,NA,nine handbags,NA,nine,handbags nine
+3,adj,NA,pitcher,NA,wooden pitcher,NA,wooden,pitcher wooden
+3,adj,NA,hat,NA,furry hat,NA,furry,hat furry
+3,num,NA,trays,NA,five trays,NA,five,trays five
+3,num,NA,cherries,NA,five cherries,NA,five,cherries five
+3,adj_num,seven,horses,dirty,seven dirty horses,False,NA,dirty seven horses
+3,adj_num,five,scarfs,purple,five purple scarfs,False,NA,scarfs purple five
+3,num,NA,spatulas,three,three spatulas,False,NA,spatulas three
+3,adj_num,eight,pitchers,spotted,eight spotted pitchers,False,NA,pitchers eight spotted
+3,adj_num,eight,suitcases,spotted,eight spotted suitcases,False,NA,suitcases eight spotted
+3,adj_num,four,couches,orange,four orange couches,False,NA,orange four couches
+3,num,NA,bowls,four,four bowls,False,NA,bowls four
+3,num,NA,hats,four,four hats,False,NA,hats four
+3,adj_num,three,ducks,orange,three orange ducks,False,NA,ducks orange three
+3,adj_num,nine,pears,spotted,nine spotted pears,False,NA,spotted nine pears
+3,adj_num,four,cherries,green,four green cherries,False,NA,green four cherries
+3,num,NA,vases,ten,ten vases,False,NA,vases ten
+3,adj,NA,pillow,blue,blue pillow,False,NA,pillow blue
+3,adj_num,one,vase,striped,one striped vase,False,NA,striped one vase
+3,adj_num,six,cars,striped,six striped cars,False,NA,striped six cars
+3,adj,NA,key,striped,striped key,False,NA,key striped
+3,adj_num,ten,shoes,striped,ten striped shoes,False,NA,shoes striped ten
+3,adj_num,four,lamps,stone,four stone lamps,False,NA,lamps stone four
+3,adj_num,two,shovels,blue,two blue shovels,False,NA,shovels blue two
+3,adj_num,three,keys,purple,three purple keys,False,NA,keys purple three
+3,adj_num,seven,shirts,stone,seven stone shirts,False,NA,shirts stone seven
+3,num,NA,shoe,one,one shoe,False,NA,shoe one
+3,adj_num,five,leaves,wooden,five wooden leaves,False,NA,leaves wooden five
+3,adj_num,seven,handbags,furry,seven furry handbags,False,NA,handbags furry seven
+3,adj_num,eight,bowls,spotted,eight spotted bowls,False,NA,bowls spotted eight
+3,adj,NA,dart,orange,orange dart,False,NA,dart orange
+3,num,NA,keys,three,three keys,False,NA,keys three
+3,adj_num,eight,trays,orange,eight orange trays,False,NA,trays orange eight
+3,num,NA,pears,six,six pears,False,NA,pears six
+3,adj_num,two,hats,dirty,two dirty hats,False,NA,hats dirty two
+3,adj,NA,handbag,dirty,dirty handbag,False,NA,handbag dirty
+3,adj,NA,ribbon,orange,orange ribbon,False,NA,ribbon orange
+3,adj_num,nine,chairs,wooden,nine wooden chairs,False,NA,chairs wooden nine
+3,num,NA,cars,three,three cars,False,NA,cars three
+3,adj_num,two,bananas,dirty,two dirty bananas,False,NA,bananas dirty two
+3,adj,NA,bowl,spotted,spotted bowl,False,NA,bowl spotted
+3,adj_num,two,pillows,striped,two striped pillows,False,NA,pillows striped two
+3,adj_num,two,ribbons,orange,two orange ribbons,False,NA,ribbons orange two
+3,adj_num,seven,cows,spotted,seven spotted cows,False,NA,cows spotted seven
+3,adj,NA,cherry,green,green cherry,False,NA,cherry green
+3,adj,NA,spatula,wooden,wooden spatula,False,NA,spatula wooden
+3,adj,NA,scarf,dirty,dirty scarf,False,NA,scarf dirty
+3,num,NA,ducks,eight,eight ducks,False,NA,ducks eight
+3,adj_num,six,darts,purple,six purple darts,False,NA,darts purple six
+3,adj_num,two,spatulas,stone,two stone spatulas,False,NA,spatulas stone two
+3,num,NA,cow,one,one cow,False,NA,cow one
+3,adj_num,six,pineapples,spotted,six spotted pineapples,False,NA,pineapples spotted six
+3,adj,NA,pitcher,stone,stone pitcher,False,NA,pitcher stone
+3,adj_num,two,boxes,dirty,two dirty boxes,False,NA,boxes dirty two
+3,adj_num,four,pigs,furry,four furry pigs,False,NA,pigs furry four
+4,adj,NA,dart,NA,furry dart,NA,furry,dart furry
+4,adj,NA,bowl,NA,striped bowl,NA,striped,bowl striped
+4,adj,NA,key,NA,striped key,NA,striped,key striped
+4,num,NA,pitchers,NA,seven pitchers,NA,seven,pitchers seven
+4,adj,NA,suitcase,NA,orange suitcase,NA,orange,suitcase orange
+4,adj,NA,ribbon,NA,orange ribbon,NA,orange,ribbon orange
+4,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+4,adj,NA,pig,NA,wooden pig,NA,wooden,pig wooden
+4,adj,NA,spatula,NA,orange spatula,NA,orange,spatula orange
+4,num,NA,trays,NA,five trays,NA,five,trays five
+4,num,NA,suitcases,NA,eight suitcases,NA,eight,suitcases eight
+4,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+4,adj,NA,banana,NA,wooden banana,NA,wooden,banana wooden
+4,adj,NA,leaf,NA,purple leaf,NA,purple,leaf purple
+4,adj,NA,scarf,NA,orange scarf,NA,orange,scarf orange
+4,num,NA,spatulas,NA,two spatulas,NA,two,spatulas two
+4,adj,NA,couch,NA,blue couch,NA,blue,couch blue
+4,adj,NA,chair,NA,green chair,NA,green,chair green
+4,num,NA,shirts,NA,three shirts,NA,three,shirts three
+4,num,NA,cows,NA,ten cows,NA,ten,cows ten
+4,num,NA,pillows,NA,two pillows,NA,two,pillows two
+4,num,NA,chairs,NA,nine chairs,NA,nine,chairs nine
+4,num,NA,ducks,NA,nine ducks,NA,nine,ducks nine
+4,num,NA,horses,NA,ten horses,NA,ten,horses ten
+4,num,NA,keys,NA,six keys,NA,six,keys six
+4,adj,NA,hat,NA,wooden hat,NA,wooden,hat wooden
+4,num,NA,scarfs,NA,five scarfs,NA,five,scarfs five
+4,adj,NA,duck,NA,spotted duck,NA,spotted,duck spotted
+4,num,NA,hats,NA,three hats,NA,three,hats three
+4,adj,NA,car,NA,spotted car,NA,spotted,car spotted
+4,adj_num,two,spatulas,green,two green spatulas,False,NA,spatulas two green
+4,adj_num,one,horse,furry,one furry horse,False,NA,horse one furry
+4,num,NA,horse,one,one horse,False,NA,horse one
+4,adj_num,three,bowls,spotted,three spotted bowls,False,NA,bowls spotted three
+4,num,NA,box,one,one box,False,NA,box one
+4,adj,NA,scarf,purple,purple scarf,False,NA,scarf purple
+4,adj_num,one,pineapple,wooden,one wooden pineapple,False,NA,pineapple wooden one
+4,adj,NA,shoe,wooden,wooden shoe,False,NA,shoe wooden
+4,adj_num,nine,suitcases,orange,nine orange suitcases,False,NA,suitcases orange nine
+4,adj_num,one,shirt,green,one green shirt,False,NA,shirt green one
+4,num,NA,scarfs,seven,seven scarfs,False,NA,scarfs seven
+4,adj_num,three,cars,spotted,three spotted cars,False,NA,cars spotted three
+4,adj_num,three,pitchers,striped,three striped pitchers,False,NA,pitchers striped three
+4,num,NA,cars,three,three cars,False,NA,cars three
+4,adj,NA,key,dirty,dirty key,False,NA,key dirty
+4,num,NA,hats,ten,ten hats,False,NA,hats ten
+4,adj_num,six,pillows,furry,six furry pillows,False,NA,pillows furry six
+4,num,NA,shoes,seven,seven shoes,False,NA,shoes seven
+4,adj_num,six,ducks,dirty,six dirty ducks,False,NA,ducks dirty six
+4,adj_num,five,pears,green,five green pears,False,NA,pears green five
+4,adj,NA,shirt,purple,purple shirt,False,NA,shirt purple
+4,num,NA,couches,three,three couches,False,NA,couches three
+4,adj,NA,pear,spotted,spotted pear,False,NA,pear spotted
+4,adj_num,two,scarfs,dirty,two dirty scarfs,False,NA,scarfs dirty two
+4,adj_num,two,hats,furry,two furry hats,False,NA,hats furry two
+4,adj_num,seven,boxes,wooden,seven wooden boxes,False,NA,boxes wooden seven
+4,adj_num,six,shoes,spotted,six spotted shoes,False,NA,shoes spotted six
+4,adj_num,five,trays,orange,five orange trays,False,NA,trays orange five
+4,adj_num,eight,lamps,green,eight green lamps,False,NA,lamps green eight
+4,num,NA,tray,one,one tray,False,NA,tray one
+4,num,NA,cows,ten,ten cows,False,NA,cows ten
+4,adj_num,nine,darts,furry,nine furry darts,False,NA,darts furry nine
+4,adj_num,eight,cherries,wooden,eight wooden cherries,False,NA,cherries wooden eight
+4,adj_num,ten,bananas,wooden,ten wooden bananas,False,NA,bananas wooden ten
+4,adj,NA,hat,purple,purple hat,False,NA,hat purple
+4,adj_num,five,vases,dirty,five dirty vases,False,NA,vases dirty five
+4,adj_num,three,shovels,blue,three blue shovels,False,NA,shovels blue three
+4,adj_num,ten,chairs,purple,ten purple chairs,False,NA,chairs purple ten
+4,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+4,adj_num,three,couches,furry,three furry couches,False,NA,couches furry three
+4,adj_num,ten,cows,stone,ten stone cows,False,NA,cows stone ten
+4,adj_num,eight,handbags,green,eight green handbags,False,NA,handbags green eight
+4,adj_num,eight,ribbons,wooden,eight wooden ribbons,False,NA,ribbons wooden eight
+4,adj,NA,horse,spotted,spotted horse,False,NA,horse spotted
+4,num,NA,pears,ten,ten pears,False,NA,pears ten
+4,adj_num,four,pigs,striped,four striped pigs,False,NA,pigs striped four
+4,adj,NA,bowl,purple,purple bowl,False,NA,bowl purple
+4,adj_num,eight,keys,striped,eight striped keys,False,NA,keys striped eight
+4,adj_num,two,leaves,spotted,two spotted leaves,False,NA,leaves spotted two
+4,adj,NA,pitcher,striped,striped pitcher,False,NA,pitcher striped
+5,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+5,num,NA,lamps,NA,eight lamps,NA,eight,lamps eight
+5,num,NA,pigs,NA,eight pigs,NA,eight,pigs eight
+5,num,NA,horses,NA,three horses,NA,three,horses three
+5,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+5,num,NA,vases,NA,six vases,NA,six,vases six
+5,num,NA,darts,NA,four darts,NA,four,darts four
+5,num,NA,bowl,NA,one bowl,NA,one,bowl one
+5,adj,NA,hat,NA,orange hat,NA,orange,hat orange
+5,adj,NA,shovel,NA,purple shovel,NA,purple,shovel purple
+5,adj,NA,lamp,NA,spotted lamp,NA,spotted,lamp spotted
+5,num,NA,ribbons,NA,nine ribbons,NA,nine,ribbons nine
+5,adj,NA,suitcase,NA,spotted suitcase,NA,spotted,suitcase spotted
+5,adj,NA,chair,NA,green chair,NA,green,chair green
+5,num,NA,boxes,NA,ten boxes,NA,ten,boxes ten
+5,adj,NA,box,NA,spotted box,NA,spotted,box spotted
+5,adj,NA,pineapple,NA,wooden pineapple,NA,wooden,pineapple wooden
+5,num,NA,pillows,NA,seven pillows,NA,seven,pillows seven
+5,num,NA,pitchers,NA,eight pitchers,NA,eight,pitchers eight
+5,num,NA,cars,NA,nine cars,NA,nine,cars nine
+5,num,NA,cows,NA,eight cows,NA,eight,cows eight
+5,num,NA,chairs,NA,seven chairs,NA,seven,chairs seven
+5,adj,NA,vase,NA,spotted vase,NA,spotted,vase spotted
+5,adj,NA,pitcher,NA,green pitcher,NA,green,pitcher green
+5,adj,NA,handbag,NA,blue handbag,NA,blue,handbag blue
+5,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+5,adj,NA,banana,NA,dirty banana,NA,dirty,banana dirty
+5,num,NA,trays,NA,ten trays,NA,ten,trays ten
+5,adj,NA,duck,NA,stone duck,NA,stone,duck stone
+5,adj,NA,shirt,NA,blue shirt,NA,blue,shirt blue
+5,adj_num,three,darts,purple,three purple darts,False,NA,darts three purple
+5,adj,NA,shirt,green,green shirt,False,NA,shirt green
+5,num,NA,ducks,two,two ducks,False,NA,ducks two
+5,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+5,num,NA,cherries,three,three cherries,False,NA,cherries three
+5,adj_num,four,ducks,stone,four stone ducks,False,NA,ducks stone four
+5,adj_num,six,shoes,furry,six furry shoes,False,NA,shoes furry six
+5,adj,NA,cow,dirty,dirty cow,False,NA,cow dirty
+5,num,NA,bananas,four,four bananas,False,NA,bananas four
+5,adj_num,seven,couches,striped,seven striped couches,False,NA,couches striped seven
+5,adj_num,eight,hats,orange,eight orange hats,False,NA,hats orange eight
+5,adj_num,five,spatulas,purple,five purple spatulas,False,NA,spatulas purple five
+5,adj_num,six,cows,dirty,six dirty cows,False,NA,cows dirty six
+5,adj_num,three,vases,green,three green vases,False,NA,vases green three
+5,adj_num,four,scarfs,striped,four striped scarfs,False,NA,scarfs striped four
+5,adj,NA,ribbon,stone,stone ribbon,False,NA,ribbon stone
+5,adj,NA,pig,striped,striped pig,False,NA,pig striped
+5,adj,NA,tray,striped,striped tray,False,NA,tray striped
+5,adj_num,seven,cars,striped,seven striped cars,False,NA,cars striped seven
+5,num,NA,boxes,ten,ten boxes,False,NA,boxes ten
+5,adj_num,six,horses,wooden,six wooden horses,False,NA,horses wooden six
+5,adj_num,three,pillows,striped,three striped pillows,False,NA,pillows three striped
+5,adj_num,six,keys,wooden,six wooden keys,False,NA,keys wooden six
+5,adj_num,seven,bowls,purple,seven purple bowls,False,NA,bowls purple seven
+5,adj_num,five,pears,stone,five stone pears,False,NA,pears stone five
+5,adj_num,three,leaves,spotted,three spotted leaves,False,NA,leaves spotted three
+5,adj_num,nine,suitcases,purple,nine purple suitcases,False,NA,suitcases purple nine
+5,adj_num,two,boxes,purple,two purple boxes,False,NA,boxes purple two
+5,num,NA,trays,ten,ten trays,False,NA,trays ten
+5,adj_num,nine,bananas,wooden,nine wooden bananas,False,NA,bananas wooden nine
+5,adj_num,eight,cherries,stone,eight stone cherries,False,NA,cherries stone eight
+5,adj,NA,couch,dirty,dirty couch,False,NA,couch dirty
+5,adj_num,ten,ribbons,orange,ten orange ribbons,False,NA,ribbons orange ten
+5,num,NA,couch,one,one couch,False,NA,couch one
+5,num,NA,handbags,seven,seven handbags,False,NA,handbags seven
+5,adj,NA,shovel,spotted,spotted shovel,False,NA,shovel spotted
+5,num,NA,pears,six,six pears,False,NA,pears six
+5,adj,NA,shoe,blue,blue shoe,False,NA,shoe blue
+5,adj_num,two,trays,blue,two blue trays,False,NA,trays blue two
+5,adj_num,four,lamps,wooden,four wooden lamps,False,NA,lamps wooden four
+5,adj_num,three,pineapples,stone,three stone pineapples,False,NA,pineapples stone three
+5,adj_num,five,shovels,stone,five stone shovels,False,NA,shovels stone five
+5,adj_num,ten,handbags,green,ten green handbags,False,NA,handbags green ten
+5,num,NA,cows,three,three cows,False,NA,cows three
+5,adj_num,ten,pitchers,purple,ten purple pitchers,False,NA,pitchers purple ten
+5,adj_num,seven,pigs,stone,seven stone pigs,False,NA,pigs stone seven
+5,adj_num,seven,shirts,spotted,seven spotted shirts,False,NA,shirts spotted seven
+5,adj_num,four,chairs,wooden,four wooden chairs,False,NA,chairs wooden four
+5,adj,NA,car,orange,orange car,False,NA,car orange
+5,num,NA,pitchers,three,three pitchers,False,NA,pitchers three
+6,adj,NA,hat,NA,striped hat,NA,striped,hat striped
+6,adj,NA,tray,NA,purple tray,NA,purple,tray purple
+6,num,NA,shovels,NA,six shovels,NA,six,shovels six
+6,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+6,adj,NA,scarf,NA,orange scarf,NA,orange,scarf orange
+6,num,NA,tray,NA,one tray,NA,one,tray one
+6,num,NA,horses,NA,four horses,NA,four,horses four
+6,num,NA,pigs,NA,six pigs,NA,six,pigs six
+6,num,NA,boxes,NA,two boxes,NA,two,boxes two
+6,adj,NA,key,NA,wooden key,NA,wooden,key wooden
+6,num,NA,shirts,NA,five shirts,NA,five,shirts five
+6,adj,NA,handbag,NA,striped handbag,NA,striped,handbag striped
+6,num,NA,couches,NA,six couches,NA,six,couches six
+6,adj,NA,shovel,NA,wooden shovel,NA,wooden,shovel wooden
+6,adj,NA,spatula,NA,purple spatula,NA,purple,spatula purple
+6,adj,NA,chair,NA,wooden chair,NA,wooden,wooden chair
+6,num,NA,ribbon,NA,one ribbon,NA,one,ribbon one
+6,adj,NA,couch,NA,green couch,NA,green,couch green
+6,adj,NA,pillow,NA,orange pillow,NA,orange,pillow orange
+6,num,NA,darts,NA,five darts,NA,five,darts five
+6,num,NA,cows,NA,ten cows,NA,ten,cows ten
+6,adj,NA,bowl,NA,blue bowl,NA,blue,bowl blue
+6,adj,NA,duck,NA,dirty duck,NA,dirty,duck dirty
+6,num,NA,pears,NA,nine pears,NA,nine,pears nine
+6,adj,NA,cow,NA,dirty cow,NA,dirty,cow dirty
+6,num,NA,pineapples,NA,six pineapples,NA,six,pineapples six
+6,num,NA,hats,NA,four hats,NA,four,hats four
+6,adj,NA,pig,NA,dirty pig,NA,dirty,pig dirty
+6,num,NA,shoes,NA,five shoes,NA,five,shoes five
+6,adj,NA,cherry,NA,green cherry,NA,green,cherry green
+6,adj_num,three,spatulas,striped,three striped spatulas,False,NA,spatulas striped three
+6,adj_num,two,ribbons,orange,two orange ribbons,False,NA,ribbons orange two
+6,adj_num,eight,horses,striped,eight striped horses,False,NA,horses striped eight
+6,adj_num,two,keys,purple,two purple keys,False,NA,keys purple two
+6,adj_num,seven,cows,dirty,seven dirty cows,False,NA,cows dirty seven
+6,num,NA,handbags,three,three handbags,False,NA,handbags three
+6,adj_num,nine,lamps,wooden,nine wooden lamps,False,NA,nine wooden lamps
+6,adj_num,nine,couches,striped,nine striped couches,False,NA,couches striped nine
+6,adj_num,eight,cars,wooden,eight wooden cars,False,NA,cars wooden eight
+6,adj_num,ten,pillows,dirty,ten dirty pillows,False,NA,pillows dirty ten
+6,adj_num,three,leaves,green,three green leaves,False,NA,leaves green three
+6,num,NA,cows,nine,nine cows,False,NA,cows nine
+6,adj,NA,bowl,spotted,spotted bowl,False,NA,bowl spotted
+6,adj_num,four,pineapples,wooden,four wooden pineapples,False,NA,pineapples wooden four
+6,adj_num,six,trays,spotted,six spotted trays,False,NA,trays spotted six
+6,num,NA,ducks,six,six ducks,False,NA,ducks six
+6,adj_num,ten,darts,stone,ten stone darts,False,NA,darts stone ten
+6,adj_num,two,shovels,striped,two striped shovels,False,NA,shovels striped two
+6,adj_num,ten,shirts,blue,ten blue shirts,False,NA,shirts blue ten
+6,adj_num,six,handbags,dirty,six dirty handbags,False,NA,handbags dirty six
+6,adj_num,two,shoes,purple,two purple shoes,False,NA,shoes purple two
+6,num,NA,shovels,three,three shovels,False,NA,shovels three
+6,adj,NA,pineapple,dirty,dirty pineapple,False,NA,pineapple dirty
+6,adj_num,one,duck,wooden,one wooden duck,False,NA,duck wooden one
+6,adj,NA,leaf,wooden,wooden leaf,False,NA,leaf wooden
+6,adj_num,six,bananas,wooden,six wooden bananas,False,NA,bananas wooden six
+6,adj_num,eight,hats,orange,eight orange hats,False,NA,hats orange eight
+6,adj,NA,horse,spotted,spotted horse,False,NA,horse spotted
+6,adj_num,ten,pears,wooden,ten wooden pears,False,NA,pears wooden ten
+6,adj_num,three,scarfs,green,three green scarfs,False,NA,scarfs green three
+6,adj_num,six,boxes,dirty,six dirty boxes,False,NA,boxes dirty six
+6,adj_num,two,vases,wooden,two wooden vases,False,NA,vases wooden two
+6,adj_num,two,chairs,wooden,two wooden chairs,False,NA,chairs wooden two
+6,adj,NA,cherry,wooden,wooden cherry,False,NA,cherry wooden
+6,num,NA,pillows,ten,ten pillows,False,NA,pillows ten
+6,adj,NA,car,spotted,spotted car,False,NA,car spotted
+6,adj,NA,tray,striped,striped tray,False,NA,tray striped
+6,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+6,adj,NA,spatula,dirty,dirty spatula,False,NA,spatula dirty
+6,num,NA,horses,ten,ten horses,False,NA,horses ten
+6,adj_num,two,pitchers,blue,two blue pitchers,False,NA,pitchers blue two
+6,adj_num,ten,cherries,dirty,ten dirty cherries,False,NA,cherries dirty ten
+6,adj_num,nine,bowls,dirty,nine dirty bowls,False,NA,bowls dirty nine
+6,num,NA,pigs,five,five pigs,False,NA,pigs five
+6,num,NA,trays,six,six trays,False,NA,trays six
+6,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+6,adj_num,five,suitcases,wooden,five wooden suitcases,False,NA,suitcases wooden five
+6,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+6,adj_num,eight,pigs,spotted,eight spotted pigs,False,NA,pigs spotted eight
+6,num,NA,lamps,four,four lamps,False,NA,lamps four
+7,num,NA,pillows,NA,five pillows,NA,five,pillows five
+7,num,NA,trays,NA,three trays,NA,three,three trays
+7,adj,NA,ribbon,NA,striped ribbon,NA,striped,ribbon striped
+7,adj,NA,couch,NA,green couch,NA,green,couch green
+7,adj,NA,key,NA,orange key,NA,orange,key orange
+7,num,NA,lamps,NA,ten lamps,NA,ten,lamps ten
+7,num,NA,ducks,NA,five ducks,NA,five,ducks five
+7,adj,NA,hat,NA,purple hat,NA,purple,hat purple
+7,num,NA,cars,NA,six cars,NA,six,cars six
+7,adj,NA,pitcher,NA,striped pitcher,NA,striped,pitcher striped
+7,num,NA,pigs,NA,eight pigs,NA,eight,pigs eight
+7,num,NA,darts,NA,six darts,NA,six,darts six
+7,adj,NA,pig,NA,furry pig,NA,furry,pig furry
+7,num,NA,suitcases,NA,ten suitcases,NA,ten,suitcases ten
+7,num,NA,handbags,NA,ten handbags,NA,ten,handbags ten
+7,adj,NA,box,NA,orange box,NA,orange,box orange
+7,num,NA,pitchers,NA,ten pitchers,NA,ten,pitchers ten
+7,num,NA,shovels,NA,five shovels,NA,five,shovels five
+7,adj,NA,dart,NA,wooden dart,NA,wooden,dart wooden
+7,num,NA,shirts,NA,ten shirts,NA,ten,shirts ten
+7,adj,NA,duck,NA,stone duck,NA,stone,duck stone
+7,adj,NA,spatula,NA,striped spatula,NA,striped,spatula striped
+7,adj,NA,pineapple,NA,spotted pineapple,NA,spotted,pineapple spotted
+7,adj,NA,horse,NA,spotted horse,NA,spotted,horse spotted
+7,adj,NA,shoe,NA,green shoe,NA,green,shoe green
+7,num,NA,pineapple,NA,one pineapple,NA,one,pineapple one
+7,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+7,adj,NA,leaf,NA,stone leaf,NA,stone,leaf stone
+7,num,NA,horses,NA,two horses,NA,two,horses two
+7,num,NA,spatulas,NA,six spatulas,NA,six,spatulas six
+7,adj_num,one,handbag,green,one green handbag,False,NA,handbag green one
+7,num,NA,pitchers,ten,ten pitchers,False,NA,pitchers ten
+7,adj_num,one,pitcher,striped,one striped pitcher,False,NA,pitcher striped one
+7,adj,NA,shoe,purple,purple shoe,False,NA,shoe purple
+7,adj_num,three,couches,furry,three furry couches,False,NA,couches furry three
+7,adj,NA,leaf,spotted,spotted leaf,False,NA,spotted leaf
+7,adj_num,eight,cherries,stone,eight stone cherries,False,NA,cherries stone eight
+7,adj_num,five,shirts,purple,five purple shirts,False,NA,shirts purple five
+7,adj,NA,pitcher,blue,blue pitcher,False,NA,pitcher blue
+7,adj_num,seven,hats,green,seven green hats,False,NA,hats green seven
+7,num,NA,cars,seven,seven cars,False,NA,cars seven
+7,num,NA,box,one,one box,False,NA,box one
+7,adj_num,one,pig,wooden,one wooden pig,False,NA,pig wooden one
+7,num,NA,couches,ten,ten couches,False,NA,couches ten
+7,adj_num,seven,pears,spotted,seven spotted pears,False,NA,pears spotted seven
+7,adj_num,five,boxes,striped,five striped boxes,False,NA,boxes striped five
+7,adj_num,seven,bowls,purple,seven purple bowls,False,NA,bowls purple seven
+7,adj_num,seven,vases,purple,seven purple vases,False,NA,vases purple seven
+7,adj_num,eight,ribbons,dirty,eight dirty ribbons,False,NA,ribbons dirty eight
+7,adj,NA,suitcase,spotted,spotted suitcase,False,NA,suitcase spotted
+7,adj,NA,ribbon,wooden,wooden ribbon,False,NA,ribbon wooden
+7,adj_num,five,scarfs,purple,five purple scarfs,False,NA,scarfs purple five
+7,adj_num,eight,trays,wooden,eight wooden trays,False,NA,trays wooden eight
+7,adj_num,seven,horses,wooden,seven wooden horses,False,NA,horses wooden seven
+7,num,NA,pears,eight,eight pears,False,NA,pears eight
+7,adj,NA,horse,stone,stone horse,False,NA,horse stone
+7,num,NA,keys,seven,seven keys,False,NA,keys seven
+7,adj,NA,spatula,wooden,wooden spatula,False,NA,spatula wooden
+7,adj_num,three,keys,striped,three striped keys,False,NA,keys striped three
+7,adj_num,eight,cars,spotted,eight spotted cars,False,NA,cars spotted eight
+7,adj,NA,banana,wooden,wooden banana,False,NA,banana wooden
+7,adj,NA,pig,spotted,spotted pig,False,NA,pig spotted
+7,adj_num,one,shoe,orange,one orange shoe,False,NA,shoe orange one
+7,adj_num,six,darts,blue,six blue darts,False,NA,darts blue six
+7,num,NA,scarfs,five,five scarfs,False,NA,scarfs five
+7,num,NA,ducks,ten,ten ducks,False,NA,ducks ten
+7,adj_num,five,lamps,orange,five orange lamps,False,NA,lamps orange five
+7,adj_num,five,shovels,stone,five stone shovels,False,NA,shovels stone five
+7,adj_num,one,chair,blue,one blue chair,False,NA,chair blue one
+7,adj_num,eight,pineapples,dirty,eight dirty pineapples,False,NA,pineapples dirty eight
+7,adj_num,two,suitcases,dirty,two dirty suitcases,False,NA,suitcases dirty two
+7,adj_num,four,cows,furry,four furry cows,False,NA,cows furry four
+7,adj_num,six,spatulas,wooden,six wooden spatulas,False,NA,spatulas wooden six
+7,adj_num,nine,pillows,orange,nine orange pillows,False,NA,pillows orange nine
+7,adj_num,eight,leaves,spotted,eight spotted leaves,False,NA,leaves spotted eight
+7,adj_num,three,bananas,dirty,three dirty bananas,False,NA,bananas dirty three
+7,adj,NA,tray,purple,purple tray,False,NA,tray purple
+7,num,NA,pineapples,three,three pineapples,False,NA,pineapples three
+7,adj_num,eight,ducks,spotted,eight spotted ducks,False,NA,ducks spotted eight
+7,num,NA,suitcases,two,two suitcases,False,NA,suitcases two
+8,num,NA,darts,NA,four darts,NA,four,darts four
+8,num,NA,bananas,NA,three bananas,NA,three,bananas three
+8,num,NA,hats,NA,eight hats,NA,eight,hats eight
+8,num,NA,horses,NA,eight horses,NA,eight,horses eight
+8,adj,NA,hat,NA,spotted hat,NA,spotted,hat spotted
+8,adj,NA,scarf,NA,green scarf,NA,green,scarf green
+8,num,NA,scarfs,NA,eight scarfs,NA,eight,scarfs eight
+8,adj,NA,shoe,NA,furry shoe,NA,furry,shoe furry
+8,adj,NA,lamp,NA,orange lamp,NA,orange,lamp orange
+8,num,NA,ribbons,NA,five ribbons,NA,five,ribbons five
+8,num,NA,pillows,NA,ten pillows,NA,ten,pillows ten
+8,adj,NA,chair,NA,stone chair,NA,stone,chair stone
+8,num,NA,cars,NA,ten cars,NA,ten,cars ten
+8,adj,NA,shirt,NA,furry shirt,NA,furry,shirt furry
+8,adj,NA,dart,NA,blue dart,NA,blue,dart blue
+8,num,NA,lamps,NA,eight lamps,NA,eight,lamps eight
+8,num,NA,ducks,NA,ten ducks,NA,ten,ducks ten
+8,num,NA,key,NA,one key,NA,one,key one
+8,num,NA,shoes,NA,seven shoes,NA,seven,shoes seven
+8,adj,NA,ribbon,NA,wooden ribbon,NA,wooden,ribbon wooden
+8,adj,NA,pitcher,NA,dirty pitcher,NA,dirty,pitcher dirty
+8,num,NA,cherries,NA,eight cherries,NA,eight,cherries eight
+8,num,NA,spatulas,NA,six spatulas,NA,six,spatulas six
+8,adj,NA,spatula,NA,wooden spatula,NA,wooden,spatula wooden
+8,num,NA,pineapples,NA,four pineapples,NA,four,pineapples four
+8,adj,NA,shovel,NA,stone shovel,NA,stone,shovel stone
+8,adj,NA,cow,NA,dirty cow,NA,dirty,cow dirty
+8,adj,NA,pineapple,NA,spotted pineapple,NA,spotted,pineapple spotted
+8,adj,NA,handbag,NA,furry handbag,NA,furry,handbag furry
+8,adj,NA,horse,NA,wooden horse,NA,wooden,horse wooden
+8,adj_num,two,scarfs,orange,two orange scarfs,False,NA,scarfs two orange
+8,adj_num,three,trays,blue,three blue trays,False,NA,trays three blue
+8,adj,NA,lamp,wooden,wooden lamp,False,NA,lamp wooden
+8,adj_num,two,vases,stone,two stone vases,False,NA,vases two stone
+8,adj_num,seven,cars,wooden,seven wooden cars,False,NA,cars seven wooden
+8,adj_num,seven,handbags,striped,seven striped handbags,False,NA,handbags seven striped
+8,adj,NA,bowl,stone,stone bowl,False,NA,bowl stone
+8,adj_num,ten,hats,dirty,ten dirty hats,False,NA,hats ten dirty
+8,adj_num,five,couches,green,five green couches,False,NA,couches five green
+8,adj_num,eight,ducks,dirty,eight dirty ducks,False,NA,ducks eight dirty
+8,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+8,adj_num,ten,pears,dirty,ten dirty pears,False,NA,pears ten dirty
+8,adj_num,four,lamps,wooden,four wooden lamps,False,NA,lamps four wooden
+8,num,NA,handbags,two,two handbags,False,NA,handbags two
+8,adj_num,nine,shirts,furry,nine furry shirts,False,NA,shirts nine furry
+8,adj_num,eight,darts,wooden,eight wooden darts,False,NA,darts eight wooden
+8,adj,NA,cow,dirty,dirty cow,False,NA,cow dirty
+8,num,NA,cars,ten,ten cars,False,NA,cars ten
+8,adj_num,five,bananas,wooden,five wooden bananas,False,NA,bananas five wooden
+8,num,NA,ribbon,one,one ribbon,False,NA,ribbon one
+8,adj_num,two,cherries,stone,two stone cherries,False,NA,cherries two stone
+8,num,NA,cherries,nine,nine cherries,False,NA,cherries nine
+8,adj_num,one,cow,stone,one stone cow,False,NA,cow one stone
+8,adj_num,five,pitchers,wooden,five wooden pitchers,False,NA,pitchers five wooden
+8,num,NA,pig,one,one pig,False,NA,pig one
+8,adj,NA,vase,purple,purple vase,False,NA,vase purple
+8,num,NA,shoes,eight,eight shoes,False,NA,shoes eight
+8,num,NA,keys,ten,ten keys,False,NA,keys ten
+8,adj_num,three,pineapples,stone,three stone pineapples,False,NA,pineapples three stone
+8,adj_num,five,spatulas,orange,five orange spatulas,False,NA,spatulas five orange
+8,adj,NA,chair,orange,orange chair,False,NA,chair orange
+8,adj_num,ten,shoes,orange,ten orange shoes,False,NA,shoes ten orange
+8,adj_num,four,ribbons,dirty,four dirty ribbons,False,NA,ribbons four dirty
+8,adj_num,ten,shovels,orange,ten orange shovels,False,NA,shovels ten orange
+8,adj_num,four,chairs,spotted,four spotted chairs,False,NA,chairs four spotted
+8,num,NA,lamps,three,three lamps,False,NA,lamps three
+8,num,NA,cows,eight,eight cows,False,NA,cows eight
+8,adj,NA,cherry,green,green cherry,False,NA,cherry green
+8,adj_num,five,horses,wooden,five wooden horses,False,NA,horses five wooden
+8,adj_num,five,keys,striped,five striped keys,False,NA,keys five striped
+8,adj,NA,dart,wooden,wooden dart,False,NA,dart wooden
+8,adj,NA,car,dirty,dirty car,False,NA,car dirty
+8,adj_num,nine,boxes,blue,nine blue boxes,False,NA,boxes nine blue
+8,num,NA,leaves,four,four leaves,False,NA,leaves four
+8,adj_num,three,leaves,spotted,three spotted leaves,False,NA,leaves three spotted
+8,adj,NA,suitcase,purple,purple suitcase,False,NA,suitcase purple
+8,adj_num,two,suitcases,purple,two purple suitcases,False,NA,suitcases two purple
+8,adj_num,seven,pigs,striped,seven striped pigs,False,NA,pigs seven striped
+8,adj_num,six,bowls,wooden,six wooden bowls,False,NA,bowls six wooden
+8,adj_num,one,pillow,purple,one purple pillow,False,NA,pillow one purple
+9,num,NA,darts,NA,five darts,NA,five,darts five
+9,num,NA,scarfs,NA,eight scarfs,NA,eight,scarfs eight
+9,adj,NA,key,NA,blue key,NA,blue,key blue
+9,adj,NA,bowl,NA,blue bowl,NA,blue,bowl blue
+9,num,NA,bowls,NA,nine bowls,NA,nine,bowls nine
+9,num,NA,pigs,NA,three pigs,NA,three,pigs three
+9,adj,NA,lamp,NA,wooden lamp,NA,wooden,lamp wooden
+9,adj,NA,horse,NA,spotted horse,NA,spotted,horse spotted
+9,adj,NA,duck,NA,striped duck,NA,striped,duck striped
+9,adj,NA,pig,NA,furry pig,NA,furry,pig furry
+9,num,NA,trays,NA,seven trays,NA,seven,trays seven
+9,num,NA,pitchers,NA,seven pitchers,NA,seven,pitchers seven
+9,adj,NA,hat,NA,purple hat,NA,purple,hat purple
+9,adj,NA,pitcher,NA,green pitcher,NA,green,pitcher green
+9,num,NA,horses,NA,seven horses,NA,seven,horses seven
+9,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+9,num,NA,pineapples,NA,five pineapples,NA,five,pineapples five
+9,adj,NA,tray,NA,orange tray,NA,orange,tray orange
+9,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+9,num,NA,suitcases,NA,seven suitcases,NA,seven,suitcases seven
+9,num,NA,boxes,NA,three boxes,NA,three,three boxes
+9,num,NA,couches,NA,eight couches,NA,eight,couches eight
+9,num,NA,cherries,NA,ten cherries,NA,ten,cherries ten
+9,adj,NA,scarf,NA,spotted scarf,NA,spotted,scarf spotted
+9,adj,NA,couch,NA,furry couch,NA,furry,couch furry
+9,adj,NA,suitcase,NA,blue suitcase,NA,blue,suitcase blue
+9,adj,NA,pillow,NA,spotted pillow,NA,spotted,pillow spotted
+9,num,NA,shoes,NA,five shoes,NA,five,shoes five
+9,adj,NA,shoe,NA,green shoe,NA,green,shoe green
+9,num,NA,bananas,NA,seven bananas,NA,seven,bananas seven
+9,adj_num,nine,scarfs,striped,nine striped scarfs,False,NA,scarfs striped nine
+9,num,NA,darts,seven,seven darts,False,NA,darts seven
+9,adj_num,one,banana,stone,one stone banana,False,NA,banana one stone
+9,num,NA,cows,nine,nine cows,False,NA,nine cows
+9,num,NA,shirts,ten,ten shirts,False,NA,shirts ten
+9,adj_num,seven,boxes,stone,seven stone boxes,False,NA,seven stone boxes
+9,adj_num,seven,bowls,wooden,seven wooden bowls,False,NA,wooden seven bowls
+9,num,NA,bowls,ten,ten bowls,False,NA,bowls ten
+9,num,NA,leaves,two,two leaves,False,NA,two leaves
+9,adj_num,three,darts,striped,three striped darts,False,NA,darts three striped
+9,adj_num,four,ducks,green,four green ducks,False,NA,four green ducks
+9,adj,NA,bowl,striped,striped bowl,False,NA,striped bowl
+9,adj_num,three,chairs,dirty,three dirty chairs,False,NA,chairs three dirty
+9,adj,NA,pig,wooden,wooden pig,False,NA,wooden pig
+9,adj,NA,box,orange,orange box,False,NA,orange box
+9,adj_num,four,lamps,spotted,four spotted lamps,False,NA,lamps four spotted
+9,adj,NA,pear,green,green pear,False,NA,green pear
+9,adj_num,three,couches,green,three green couches,False,NA,three green couches
+9,adj,NA,handbag,blue,blue handbag,False,NA,handbag blue
+9,num,NA,shovels,two,two shovels,False,NA,shovels two
+9,adj_num,three,trays,spotted,three spotted trays,False,NA,three spotted trays
+9,adj_num,ten,suitcases,striped,ten striped suitcases,False,NA,striped ten suitcases
+9,adj_num,three,cows,wooden,three wooden cows,False,NA,wooden three cows
+9,adj_num,three,ribbons,blue,three blue ribbons,False,NA,ribbons blue three
+9,adj_num,four,vases,stone,four stone vases,False,NA,four stone vases
+9,adj_num,ten,leaves,stone,ten stone leaves,False,NA,stone ten leaves
+9,adj_num,three,handbags,green,three green handbags,False,NA,three green handbags
+9,num,NA,suitcase,one,one suitcase,False,NA,suitcase one
+9,num,NA,horses,six,six horses,False,NA,six horses
+9,adj_num,five,spatulas,stone,five stone spatulas,False,NA,spatulas stone five
+9,adj_num,seven,shovels,dirty,seven dirty shovels,False,NA,seven dirty shovels
+9,adj,NA,cow,stone,stone cow,False,NA,stone cow
+9,adj_num,three,shoes,orange,three orange shoes,False,NA,shoes three orange
+9,adj_num,one,cherry,dirty,one dirty cherry,False,NA,dirty one cherry
+9,num,NA,pitchers,two,two pitchers,False,NA,two pitchers
+9,adj,NA,car,spotted,spotted car,False,NA,spotted car
+9,adj_num,eight,pineapples,wooden,eight wooden pineapples,False,NA,wooden eight pineapples
+9,adj_num,two,pears,dirty,two dirty pears,False,NA,two dirty pears
+9,adj_num,nine,keys,wooden,nine wooden keys,False,NA,wooden nine keys
+9,num,NA,ducks,eight,eight ducks,False,NA,eight ducks
+9,adj_num,three,pillows,green,three green pillows,False,NA,pillows green three
+9,adj,NA,shovel,stone,stone shovel,False,NA,shovel stone
+9,adj_num,eight,horses,spotted,eight spotted horses,False,NA,horses eight spotted
+9,adj,NA,spatula,striped,striped spatula,False,NA,striped spatula
+9,adj_num,ten,pitchers,purple,ten purple pitchers,False,NA,pitchers purple ten
+9,adj,NA,cherry,dirty,dirty cherry,False,NA,cherry dirty
+9,adj_num,six,hats,wooden,six wooden hats,False,NA,hats wooden six
+9,adj_num,ten,pigs,wooden,ten wooden pigs,False,NA,pigs wooden ten
+9,adj_num,nine,cars,dirty,nine dirty cars,False,NA,nine dirty cars
+9,adj_num,seven,shirts,furry,seven furry shirts,False,NA,shirts seven furry
+10,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+10,num,NA,cherries,NA,six cherries,NA,six,cherries six
+10,adj,NA,spatula,NA,striped spatula,NA,striped,spatula striped
+10,adj,NA,key,NA,orange key,NA,orange,key orange
+10,num,NA,cars,NA,five cars,NA,five,cars five
+10,adj,NA,cow,NA,furry cow,NA,furry,cow furry
+10,num,NA,handbags,NA,three handbags,NA,three,handbags three
+10,adj,NA,horse,NA,stone horse,NA,stone,horse stone
+10,num,NA,boxes,NA,four boxes,NA,four,boxes four
+10,num,NA,chairs,NA,four chairs,NA,four,chairs four
+10,adj,NA,dart,NA,orange dart,NA,orange,dart orange
+10,adj,NA,scarf,NA,purple scarf,NA,purple,scarf purple
+10,num,NA,spatulas,NA,nine spatulas,NA,nine,spatulas nine
+10,num,NA,keys,NA,three keys,NA,three,keys three
+10,adj,NA,suitcase,NA,dirty suitcase,NA,dirty,suitcase dirty
+10,num,NA,shirts,NA,two shirts,NA,two,shirts two
+10,num,NA,shoes,NA,five shoes,NA,five,shoes five
+10,num,NA,pitchers,NA,ten pitchers,NA,ten,pitchers ten
+10,adj,NA,car,NA,blue car,NA,blue,car blue
+10,num,NA,scarfs,NA,three scarfs,NA,three,scarfs three
+10,adj,NA,ribbon,NA,orange ribbon,NA,orange,ribbon orange
+10,num,NA,ducks,NA,two ducks,NA,two,ducks two
+10,num,NA,pears,NA,ten pears,NA,ten,pears ten
+10,adj,NA,shirt,NA,dirty shirt,NA,dirty,shirt dirty
+10,adj,NA,bowl,NA,purple bowl,NA,purple,bowl purple
+10,adj,NA,shoe,NA,spotted shoe,NA,spotted,shoe spotted
+10,adj,NA,banana,NA,stone banana,NA,stone,banana stone
+10,adj,NA,couch,NA,striped couch,NA,striped,couch striped
+10,adj,NA,tray,NA,stone tray,NA,stone,tray stone
+10,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+10,num,NA,shirts,six,six shirts,False,NA,shirts six
+10,adj_num,two,cows,striped,two striped cows,False,NA,striped two cows
+10,adj_num,five,shirts,stone,five stone shirts,False,NA,shirts five stone
+10,adj,NA,handbag,blue,blue handbag,False,NA,handbag blue
+10,num,NA,pigs,ten,ten pigs,False,NA,pigs ten
+10,adj_num,five,handbags,blue,five blue handbags,False,NA,handbags blue five
+10,adj,NA,hat,blue,blue hat,False,NA,hat blue
+10,adj_num,six,trays,stone,six stone trays,False,NA,trays stone six
+10,adj_num,eight,ribbons,furry,eight furry ribbons,False,NA,ribbons furry eight
+10,adj_num,nine,bananas,spotted,nine spotted bananas,False,NA,bananas spotted nine
+10,adj_num,nine,leaves,green,nine green leaves,False,NA,leaves green nine
+10,num,NA,ducks,three,three ducks,False,NA,ducks three
+10,adj_num,six,suitcases,purple,six purple suitcases,False,NA,suitcases purple six
+10,adj_num,ten,cars,blue,ten blue cars,False,NA,cars blue ten
+10,adj_num,two,pillows,green,two green pillows,False,NA,pillows green two
+10,adj_num,four,vases,blue,four blue vases,False,NA,vases blue four
+10,num,NA,cows,two,two cows,False,NA,cows two
+10,adj_num,one,horse,striped,one striped horse,False,NA,horse striped one
+10,adj,NA,spatula,blue,blue spatula,False,NA,spatula blue
+10,adj,NA,scarf,furry,furry scarf,False,NA,scarf furry
+10,adj_num,nine,pigs,dirty,nine dirty pigs,False,NA,pigs dirty nine
+10,adj_num,one,box,wooden,one wooden box,False,NA,box wooden one
+10,adj,NA,shirt,blue,blue shirt,False,NA,shirt blue
+10,adj,NA,bowl,wooden,wooden bowl,False,NA,bowl wooden
+10,adj,NA,pear,stone,stone pear,False,NA,pear stone
+10,adj,NA,lamp,purple,purple lamp,False,NA,lamp purple
+10,num,NA,shoes,seven,seven shoes,False,NA,shoes seven
+10,adj_num,five,pineapples,wooden,five wooden pineapples,False,NA,pineapples wooden five
+10,adj_num,four,hats,spotted,four spotted hats,False,NA,hats spotted four
+10,adj_num,nine,darts,orange,nine orange darts,False,NA,darts orange nine
+10,num,NA,couches,six,six couches,False,NA,couches six
+10,num,NA,suitcases,ten,ten suitcases,False,NA,suitcases ten
+10,num,NA,hats,seven,seven hats,False,NA,hats seven
+10,adj_num,nine,shoes,dirty,nine dirty shoes,False,NA,shoes dirty nine
+10,adj,NA,ribbon,stone,stone ribbon,False,NA,ribbon stone
+10,adj_num,two,chairs,stone,two stone chairs,False,NA,chairs stone two
+10,num,NA,keys,five,five keys,False,NA,keys five
+10,adj,NA,box,wooden,wooden box,False,NA,box wooden
+10,adj_num,nine,pears,spotted,nine spotted pears,False,NA,pears spotted nine
+10,adj_num,one,duck,orange,one orange duck,False,NA,duck orange one
+10,adj_num,nine,pitchers,wooden,nine wooden pitchers,False,NA,pitchers wooden nine
+10,adj_num,four,lamps,wooden,four wooden lamps,False,NA,lamps wooden four
+10,adj_num,seven,keys,purple,seven purple keys,False,NA,keys purple seven
+10,adj_num,five,couches,dirty,five dirty couches,False,NA,couches dirty five
+10,adj_num,two,scarfs,furry,two furry scarfs,False,NA,scarfs furry two
+10,num,NA,cherries,six,six cherries,False,NA,cherries six
+10,adj_num,three,cherries,wooden,three wooden cherries,False,NA,cherries wooden three
+10,adj_num,six,spatulas,stone,six stone spatulas,False,NA,spatulas stone six
+10,adj_num,seven,shovels,dirty,seven dirty shovels,False,NA,shovels dirty seven
+10,adj_num,seven,bowls,blue,seven blue bowls,False,NA,bowls blue seven
+11,adj,NA,lamp,NA,purple lamp,NA,purple,lamp purple
+11,num,NA,lamps,NA,four lamps,NA,four,lamps four
+11,num,NA,trays,NA,nine trays,NA,nine,trays nine
+11,num,NA,bananas,NA,five bananas,NA,five,bananas five
+11,adj,NA,pineapple,NA,stone pineapple,NA,stone,pineapple stone
+11,num,NA,spatulas,NA,seven spatulas,NA,seven,spatulas seven
+11,num,NA,suitcases,NA,eight suitcases,NA,eight,suitcases eight
+11,adj,NA,shirt,NA,blue shirt,NA,blue,shirt blue
+11,adj,NA,chair,NA,striped chair,NA,striped,chair striped
+11,num,NA,boxes,NA,ten boxes,NA,ten,boxes ten
+11,num,NA,pitchers,NA,five pitchers,NA,five,pitchers five
+11,num,NA,pineapples,NA,five pineapples,NA,five,pineapples five
+11,num,NA,leaves,NA,ten leaves,NA,ten,leaves ten
+11,adj,NA,shoe,NA,stone shoe,NA,stone,shoe stone
+11,adj,NA,duck,NA,striped duck,NA,striped,duck striped
+11,adj,NA,tray,NA,wooden tray,NA,wooden,tray wooden
+11,num,NA,shoe,NA,one shoe,NA,one,shoe one
+11,num,NA,scarfs,NA,ten scarfs,NA,ten,scarfs ten
+11,num,NA,shovels,NA,six shovels,NA,six,shovels six
+11,adj,NA,couch,NA,blue couch,NA,blue,couch blue
+11,adj,NA,leaf,NA,green leaf,NA,green,leaf green
+11,adj,NA,box,NA,wooden box,NA,wooden,box wooden
+11,num,NA,cows,NA,eight cows,NA,eight,cows eight
+11,adj,NA,ribbon,NA,wooden ribbon,NA,wooden,ribbon wooden
+11,adj,NA,handbag,NA,spotted handbag,NA,spotted,handbag spotted
+11,adj,NA,pillow,NA,orange pillow,NA,orange,pillow orange
+11,adj,NA,car,NA,green car,NA,green,car green
+11,num,NA,vases,NA,nine vases,NA,nine,vases nine
+11,adj,NA,shovel,NA,stone shovel,NA,stone,shovel stone
+11,num,NA,handbags,NA,eight handbags,NA,eight,handbags eight
+11,adj_num,four,scarfs,spotted,four spotted scarfs,False,NA,scarfs spotted four
+11,adj_num,four,vases,dirty,four dirty vases,False,NA,vases dirty four
+11,adj_num,seven,leaves,orange,seven orange leaves,False,NA,leaves orange seven
+11,num,NA,shovels,two,two shovels,False,NA,shovels two
+11,adj,NA,duck,green,green duck,False,NA,duck green
+11,adj_num,two,lamps,spotted,two spotted lamps,False,NA,lamps spotted two
+11,num,NA,cows,eight,eight cows,False,NA,cows eight
+11,adj_num,seven,shovels,spotted,seven spotted shovels,False,NA,shovels spotted seven
+11,adj_num,five,cherries,spotted,five spotted cherries,False,NA,cherries spotted five
+11,adj_num,one,banana,green,one green banana,False,NA,banana green one
+11,adj,NA,suitcase,dirty,dirty suitcase,False,NA,suitcase dirty
+11,adj,NA,hat,orange,orange hat,False,NA,hat orange
+11,adj_num,four,ribbons,purple,four purple ribbons,False,NA,ribbons purple four
+11,adj_num,five,pitchers,spotted,five spotted pitchers,False,NA,pitchers spotted five
+11,adj_num,nine,shirts,green,nine green shirts,False,NA,shirts green nine
+11,adj,NA,chair,spotted,spotted chair,False,NA,chair spotted
+11,adj_num,two,suitcases,blue,two blue suitcases,False,NA,suitcases blue two
+11,adj,NA,pitcher,purple,purple pitcher,False,NA,pitcher purple
+11,adj_num,two,couches,green,two green couches,False,NA,couches green two
+11,num,NA,hats,six,six hats,False,NA,hats six
+11,adj,NA,pillow,purple,purple pillow,False,NA,pillow purple
+11,adj_num,seven,pillows,spotted,seven spotted pillows,False,NA,pillows spotted seven
+11,adj_num,one,dart,wooden,one wooden dart,False,NA,dart wooden one
+11,adj_num,eight,handbags,dirty,eight dirty handbags,False,NA,handbags dirty eight
+11,adj_num,eight,ducks,stone,eight stone ducks,False,NA,ducks stone eight
+11,num,NA,lamps,six,six lamps,False,NA,lamps six
+11,adj_num,ten,trays,spotted,ten spotted trays,False,NA,trays spotted ten
+11,adj_num,two,shoes,green,two green shoes,False,NA,shoes green two
+11,adj_num,seven,spatulas,blue,seven blue spatulas,False,NA,spatulas blue seven
+11,adj_num,two,boxes,furry,two furry boxes,False,NA,boxes furry two
+11,adj,NA,dart,furry,furry dart,False,NA,dart furry
+11,num,NA,handbags,three,three handbags,False,NA,handbags three
+11,num,NA,shirts,seven,seven shirts,False,NA,shirts seven
+11,adj_num,three,pigs,striped,three striped pigs,False,NA,pigs striped three
+11,adj_num,three,keys,green,three green keys,False,NA,keys green three
+11,adj,NA,shovel,purple,purple shovel,False,NA,shovel purple
+11,adj_num,three,chairs,orange,three orange chairs,False,NA,chairs orange three
+11,adj_num,seven,hats,orange,seven orange hats,False,NA,hats orange seven
+11,adj_num,two,bowls,stone,two stone bowls,False,NA,bowls stone two
+11,adj_num,four,pears,wooden,four wooden pears,False,NA,pears wooden four
+11,num,NA,cherries,eight,eight cherries,False,NA,cherries eight
+11,num,NA,couches,two,two couches,False,NA,couches two
+11,adj_num,three,cows,furry,three furry cows,False,NA,cows furry three
+11,adj,NA,cherry,wooden,wooden cherry,False,NA,cherry wooden
+11,num,NA,pineapples,eight,eight pineapples,False,NA,pineapples eight
+11,adj_num,nine,horses,stone,nine stone horses,False,NA,horses stone nine
+11,adj_num,five,cars,striped,five striped cars,False,NA,cars striped five
+11,num,NA,trays,four,four trays,False,NA,trays four
+11,adj,NA,horse,stone,stone horse,False,NA,horse stone
+11,adj_num,four,pineapples,spotted,four spotted pineapples,False,NA,pineapples spotted four
+12,num,NA,ribbons,NA,four ribbons,NA,four,ribbons four
+12,num,NA,vases,NA,three vases,NA,three,three vases
+12,num,NA,shovels,NA,six shovels,NA,six,six shovels
+12,adj,NA,shovel,NA,striped shovel,NA,striped,shovel striped
+12,num,NA,keys,NA,four keys,NA,four,four keys
+12,num,NA,cars,NA,four cars,NA,four,four cars
+12,num,NA,chairs,NA,three chairs,NA,three,three chairs
+12,adj,NA,bowl,NA,spotted bowl,NA,spotted,spotted bowl
+12,num,NA,pears,NA,eight pears,NA,eight,eight pears
+12,adj,NA,chair,NA,purple chair,NA,purple,chair purple
+12,adj,NA,spatula,NA,striped spatula,NA,striped,striped spatula
+12,adj,NA,hat,NA,wooden hat,NA,wooden,wooden hat
+12,num,NA,leaves,NA,nine leaves,NA,nine,leaves nine
+12,num,NA,shoes,NA,seven shoes,NA,seven,shoes seven
+12,num,NA,darts,NA,five darts,NA,five,darts five
+12,adj,NA,lamp,NA,wooden lamp,NA,wooden,lamp wooden
+12,adj,NA,handbag,NA,purple handbag,NA,purple,purple handbag
+12,num,NA,pigs,NA,four pigs,NA,four,four pigs
+12,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+12,num,NA,couches,NA,two couches,NA,two,couches two
+12,adj,NA,car,NA,green car,NA,green,car green
+12,adj,NA,shoe,NA,furry shoe,NA,furry,furry shoe
+12,num,NA,pillows,NA,five pillows,NA,five,five pillows
+12,adj,NA,shirt,NA,spotted shirt,NA,spotted,spotted shirt
+12,num,NA,spatula,NA,one spatula,NA,one,spatula one
+12,adj,NA,ribbon,NA,purple ribbon,NA,purple,purple ribbon
+12,adj,NA,banana,NA,wooden banana,NA,wooden,wooden banana
+12,adj,NA,cherry,NA,spotted cherry,NA,spotted,cherry spotted
+12,num,NA,pitchers,NA,nine pitchers,NA,nine,nine pitchers
+12,adj,NA,pineapple,NA,dirty pineapple,NA,dirty,dirty pineapple
+12,adj,NA,handbag,furry,furry handbag,False,NA,furry handbag
+12,adj_num,ten,handbags,purple,ten purple handbags,False,NA,handbags purple ten
+12,num,NA,suitcases,six,six suitcases,False,NA,suitcases six
+12,adj_num,three,scarfs,orange,three orange scarfs,False,NA,three orange scarfs
+12,num,NA,vases,three,three vases,False,NA,vases three
+12,adj_num,six,cows,stone,six stone cows,False,NA,cows stone six
+12,adj_num,two,suitcases,orange,two orange suitcases,False,NA,suitcases two orange
+12,adj,NA,pineapple,spotted,spotted pineapple,False,NA,spotted pineapple
+12,num,NA,spatulas,two,two spatulas,False,NA,two spatulas
+12,num,NA,keys,six,six keys,False,NA,six keys
+12,adj_num,seven,spatulas,purple,seven purple spatulas,False,NA,spatulas purple seven
+12,adj_num,six,vases,green,six green vases,False,NA,vases six green
+12,num,NA,ducks,four,four ducks,False,NA,four ducks
+12,adj_num,four,ribbons,spotted,four spotted ribbons,False,NA,ribbons spotted four
+12,adj,NA,shoe,dirty,dirty shoe,False,NA,shoe dirty
+12,adj_num,five,ducks,wooden,five wooden ducks,False,NA,five wooden ducks
+12,adj_num,ten,horses,wooden,ten wooden horses,False,NA,horses ten wooden
+12,adj_num,five,lamps,wooden,five wooden lamps,False,NA,lamps wooden five
+12,adj_num,three,leaves,stone,three stone leaves,False,NA,three stone leaves
+12,num,NA,banana,one,one banana,False,NA,one banana
+12,adj_num,four,pears,spotted,four spotted pears,False,NA,four spotted pears
+12,adj_num,two,shirts,dirty,two dirty shirts,False,NA,dirty two shirts
+12,adj_num,three,boxes,blue,three blue boxes,False,NA,three blue boxes
+12,adj_num,three,bowls,orange,three orange bowls,False,NA,bowls orange three
+12,adj_num,seven,pillows,purple,seven purple pillows,False,NA,pillows purple seven
+12,num,NA,pitchers,nine,nine pitchers,False,NA,nine pitchers
+12,adj,NA,tray,spotted,spotted tray,False,NA,spotted tray
+12,adj_num,three,keys,blue,three blue keys,False,NA,blue three keys
+12,num,NA,ribbon,one,one ribbon,False,NA,ribbon one
+12,adj_num,nine,hats,orange,nine orange hats,False,NA,hats orange nine
+12,adj_num,three,chairs,dirty,three dirty chairs,False,NA,chairs three dirty
+12,adj_num,two,trays,dirty,two dirty trays,False,NA,trays two dirty
+12,adj,NA,ribbon,wooden,wooden ribbon,False,NA,wooden ribbon
+12,adj_num,eight,couches,wooden,eight wooden couches,False,NA,couches eight wooden
+12,adj,NA,lamp,wooden,wooden lamp,False,NA,wooden lamp
+12,num,NA,shirts,two,two shirts,False,NA,two shirts
+12,adj_num,two,pineapples,wooden,two wooden pineapples,False,NA,wooden two pineapples
+12,num,NA,chairs,two,two chairs,False,NA,two chairs
+12,adj,NA,couch,striped,striped couch,False,NA,striped couch
+12,adj,NA,pillow,furry,furry pillow,False,NA,pillow furry
+12,adj_num,three,shoes,dirty,three dirty shoes,False,NA,three dirty shoes
+12,adj,NA,spatula,green,green spatula,False,NA,green spatula
+12,adj,NA,duck,stone,stone duck,False,NA,duck stone
+12,adj_num,eight,pigs,striped,eight striped pigs,False,NA,pigs eight striped
+12,adj_num,three,cherries,stone,three stone cherries,False,NA,stone three cherries
+12,adj_num,six,cars,wooden,six wooden cars,False,NA,six wooden cars
+12,adj_num,ten,darts,furry,ten furry darts,False,NA,ten furry darts
+12,adj_num,six,pitchers,stone,six stone pitchers,False,NA,pitchers stone six
+12,adj_num,three,bananas,spotted,three spotted bananas,False,NA,bananas three spotted
+12,adj_num,nine,shovels,dirty,nine dirty shovels,False,NA,dirty nine shovels
+13,adj,NA,car,NA,orange car,NA,orange,car orange
+13,num,NA,duck,NA,one duck,NA,one,duck one
+13,adj,NA,hat,NA,orange hat,NA,orange,hat orange
+13,num,NA,hats,NA,four hats,NA,four,hats four
+13,num,NA,cars,NA,eight cars,NA,eight,cars eight
+13,adj,NA,box,NA,stone box,NA,stone,box stone
+13,adj,NA,spatula,NA,green spatula,NA,green,spatula green
+13,adj,NA,cherry,NA,wooden cherry,NA,wooden,cherry wooden
+13,num,NA,key,NA,one key,NA,one,key one
+13,num,NA,shovels,NA,three shovels,NA,three,shovels three
+13,num,NA,pitchers,NA,three pitchers,NA,three,pitchers three
+13,num,NA,horses,NA,two horses,NA,two,horses two
+13,adj,NA,pig,NA,stone pig,NA,stone,pig stone
+13,adj,NA,vase,NA,dirty vase,NA,dirty,vase dirty
+13,num,NA,bananas,NA,three bananas,NA,three,bananas three
+13,num,NA,lamps,NA,six lamps,NA,six,lamps six
+13,adj,NA,handbag,NA,spotted handbag,NA,spotted,handbag spotted
+13,num,NA,suitcases,NA,four suitcases,NA,four,suitcases four
+13,num,NA,shirts,NA,nine shirts,NA,nine,shirts nine
+13,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+13,adj,NA,chair,NA,dirty chair,NA,dirty,chair dirty
+13,num,NA,darts,NA,nine darts,NA,nine,darts nine
+13,adj,NA,pitcher,NA,orange pitcher,NA,orange,pitcher orange
+13,num,NA,cows,NA,seven cows,NA,seven,cows seven
+13,adj,NA,shoe,NA,wooden shoe,NA,wooden,shoe wooden
+13,adj,NA,couch,NA,furry couch,NA,furry,couch furry
+13,adj,NA,lamp,NA,dirty lamp,NA,dirty,lamp dirty
+13,num,NA,pillows,NA,three pillows,NA,three,pillows three
+13,adj,NA,pear,NA,green pear,NA,green,pear green
+13,num,NA,trays,NA,ten trays,NA,ten,trays ten
+13,num,NA,cherry,one,one cherry,False,NA,cherry one
+13,num,NA,spatulas,two,two spatulas,False,NA,spatulas two
+13,adj_num,three,spatulas,striped,three striped spatulas,False,NA,spatulas striped three
+13,adj_num,eight,pigs,furry,eight furry pigs,False,NA,pigs furry eight
+13,adj,NA,cow,stone,stone cow,False,NA,cow stone
+13,adj,NA,dart,stone,stone dart,False,NA,dart stone
+13,adj,NA,suitcase,purple,purple suitcase,False,NA,suitcase purple
+13,adj_num,seven,shoes,green,seven green shoes,False,NA,shoes green seven
+13,adj_num,one,shovel,blue,one blue shovel,False,NA,shovel blue one
+13,num,NA,chairs,four,four chairs,False,NA,chairs four
+13,num,NA,horses,six,six horses,False,NA,horses six
+13,adj_num,three,pineapples,spotted,three spotted pineapples,False,NA,pineapples spotted three
+13,num,NA,bananas,nine,nine bananas,False,NA,bananas nine
+13,adj,NA,pitcher,purple,purple pitcher,False,NA,pitcher purple
+13,adj_num,seven,pears,spotted,seven spotted pears,False,NA,pears spotted seven
+13,adj_num,seven,leaves,stone,seven stone leaves,False,NA,leaves stone seven
+13,adj,NA,lamp,stone,stone lamp,False,NA,lamp stone
+13,adj_num,six,keys,blue,six blue keys,False,NA,keys blue six
+13,adj,NA,key,dirty,dirty key,False,NA,key dirty
+13,adj_num,five,boxes,striped,five striped boxes,False,NA,boxes striped five
+13,adj,NA,handbag,orange,orange handbag,False,NA,handbag orange
+13,num,NA,vases,four,four vases,False,NA,vases four
+13,adj_num,five,pillows,dirty,five dirty pillows,False,NA,pillows dirty five
+13,num,NA,darts,three,three darts,False,NA,darts three
+13,adj_num,eight,scarfs,green,eight green scarfs,False,NA,scarfs green eight
+13,adj_num,eight,ducks,striped,eight striped ducks,False,NA,ducks striped eight
+13,adj_num,six,cars,spotted,six spotted cars,False,NA,cars spotted six
+13,adj,NA,car,spotted,spotted car,False,NA,car spotted
+13,adj_num,four,cows,furry,four furry cows,False,NA,cows furry four
+13,adj,NA,shirt,green,green shirt,False,NA,shirt green
+13,adj_num,four,chairs,purple,four purple chairs,False,NA,chairs purple four
+13,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+13,adj_num,two,vases,dirty,two dirty vases,False,NA,vases dirty two
+13,adj_num,eight,cherries,stone,eight stone cherries,False,NA,cherries stone eight
+13,adj_num,seven,lamps,green,seven green lamps,False,NA,lamps green seven
+13,adj_num,one,ribbon,wooden,one wooden ribbon,False,NA,one wooden ribbon
+13,adj_num,one,shirt,dirty,one dirty shirt,False,NA,shirt dirty one
+13,num,NA,handbags,six,six handbags,False,NA,handbags six
+13,adj_num,three,bananas,stone,three stone bananas,False,NA,bananas stone three
+13,adj_num,eight,bowls,blue,eight blue bowls,False,NA,bowls blue eight
+13,adj_num,six,couches,green,six green couches,False,NA,couches green six
+13,adj_num,two,handbags,orange,two orange handbags,False,NA,handbags orange two
+13,adj_num,five,suitcases,orange,five orange suitcases,False,NA,suitcases orange five
+13,adj_num,four,trays,purple,four purple trays,False,NA,trays purple four
+13,adj_num,six,horses,spotted,six spotted horses,False,NA,horses spotted six
+13,num,NA,lamps,two,two lamps,False,NA,lamps two
+13,adj_num,seven,pitchers,orange,seven orange pitchers,False,NA,pitchers orange seven
+13,num,NA,trays,ten,ten trays,False,NA,trays ten
+13,adj_num,nine,darts,spotted,nine spotted darts,False,NA,darts spotted nine
+13,adj_num,eight,hats,wooden,eight wooden hats,False,NA,hats wooden eight
+14,adj,NA,key,NA,orange key,NA,orange,key orange
+14,adj,NA,duck,NA,green duck,NA,green,duck green
+14,num,NA,chair,NA,one chair,NA,one,chair one
+14,num,NA,bowls,NA,two bowls,NA,two,bowls two
+14,num,NA,lamps,NA,ten lamps,NA,ten,lamps ten
+14,adj,NA,lamp,NA,purple lamp,NA,purple,lamp purple
+14,adj,NA,shovel,NA,blue shovel,NA,blue,shovel blue
+14,adj,NA,tray,NA,blue tray,NA,blue,tray blue
+14,num,NA,pitchers,NA,three pitchers,NA,three,pitchers three
+14,adj,NA,chair,NA,furry chair,NA,furry,chair furry
+14,num,NA,handbags,NA,seven handbags,NA,seven,handbags seven
+14,adj,NA,bowl,NA,green bowl,NA,green,bowl green
+14,num,NA,pillows,NA,two pillows,NA,two,pillows two
+14,num,NA,pears,NA,five pears,NA,five,pears five
+14,adj,NA,cow,NA,spotted cow,NA,spotted,cow spotted
+14,adj,NA,ribbon,NA,green ribbon,NA,green,ribbon green
+14,num,NA,vases,NA,ten vases,NA,ten,vases ten
+14,adj,NA,hat,NA,furry hat,NA,furry,hat furry
+14,num,NA,pineapples,NA,four pineapples,NA,four,pineapples four
+14,adj,NA,leaf,NA,spotted leaf,NA,spotted,leaf spotted
+14,adj,NA,shoe,NA,purple shoe,NA,purple,shoe purple
+14,num,NA,ribbons,NA,eight ribbons,NA,eight,ribbons eight
+14,num,NA,hats,NA,nine hats,NA,nine,hats nine
+14,adj,NA,car,NA,orange car,NA,orange,car orange
+14,adj,NA,couch,NA,orange couch,NA,orange,couch orange
+14,num,NA,key,NA,one key,NA,one,key one
+14,num,NA,spatula,NA,one spatula,NA,one,spatula one
+14,num,NA,shoes,NA,ten shoes,NA,ten,shoes ten
+14,adj,NA,suitcase,NA,green suitcase,NA,green,suitcase green
+14,num,NA,boxes,NA,five boxes,NA,five,boxes five
+14,adj_num,three,scarfs,spotted,three spotted scarfs,False,NA,scarfs three spotted
+14,adj,NA,leaf,dirty,dirty leaf,False,NA,leaf dirty
+14,adj_num,two,pigs,striped,two striped pigs,False,NA,pigs striped two
+14,adj_num,nine,pillows,purple,nine purple pillows,False,NA,pillows purple nine
+14,adj_num,ten,boxes,spotted,ten spotted boxes,False,NA,spotted ten boxes
+14,adj_num,three,lamps,dirty,three dirty lamps,False,NA,lamps dirty three
+14,adj,NA,chair,green,green chair,False,NA,chair green
+14,adj_num,three,pitchers,spotted,three spotted pitchers,False,NA,pitchers spotted three
+14,num,NA,hats,five,five hats,False,NA,hats five
+14,adj_num,seven,horses,furry,seven furry horses,False,NA,horses furry seven
+14,adj,NA,box,stone,stone box,False,NA,box stone
+14,adj,NA,shirt,striped,striped shirt,False,NA,shirt striped
+14,adj_num,two,ribbons,striped,two striped ribbons,False,NA,ribbons striped two
+14,adj_num,two,keys,blue,two blue keys,False,NA,keys blue two
+14,adj_num,one,cherry,dirty,one dirty cherry,False,NA,cherry dirty one
+14,adj_num,six,trays,dirty,six dirty trays,False,NA,trays dirty six
+14,num,NA,pitchers,two,two pitchers,False,NA,pitchers two
+14,adj_num,six,pears,spotted,six spotted pears,False,NA,pears spotted six
+14,adj_num,eight,leaves,purple,eight purple leaves,False,NA,leaves purple eight
+14,adj_num,three,hats,striped,three striped hats,False,NA,hats striped three
+14,num,NA,ducks,ten,ten ducks,False,NA,ducks ten
+14,adj,NA,shovel,stone,stone shovel,False,NA,shovel stone
+14,adj,NA,pitcher,wooden,wooden pitcher,False,NA,pitcher wooden
+14,adj,NA,pillow,purple,purple pillow,False,NA,pillow purple
+14,adj_num,ten,cows,spotted,ten spotted cows,False,NA,cows spotted ten
+14,adj_num,five,chairs,green,five green chairs,False,NA,chairs green five
+14,adj,NA,pig,spotted,spotted pig,False,NA,pig spotted
+14,num,NA,bowls,three,three bowls,False,NA,bowls three
+14,adj_num,one,shovel,purple,one purple shovel,False,NA,shovel one purple
+14,adj_num,ten,shirts,stone,ten stone shirts,False,NA,shirts stone ten
+14,num,NA,cherries,three,three cherries,False,NA,cherries three
+14,adj_num,six,handbags,spotted,six spotted handbags,False,NA,handbags spotted six
+14,num,NA,chairs,two,two chairs,False,NA,chairs two
+14,num,NA,couches,eight,eight couches,False,NA,couches eight
+14,adj_num,four,bowls,orange,four orange bowls,False,NA,bowls orange four
+14,adj_num,three,suitcases,purple,three purple suitcases,False,NA,suitcases purple three
+14,adj_num,seven,ducks,striped,seven striped ducks,False,NA,ducks striped seven
+14,num,NA,cows,five,five cows,False,NA,cows five
+14,num,NA,spatulas,two,two spatulas,False,NA,spatulas two
+14,adj,NA,key,green,green key,False,NA,key green
+14,adj_num,six,cars,blue,six blue cars,False,NA,cars blue six
+14,adj_num,one,vase,blue,one blue vase,False,NA,vase blue one
+14,adj_num,ten,couches,spotted,ten spotted couches,False,NA,couches spotted ten
+14,adj_num,ten,spatulas,wooden,ten wooden spatulas,False,NA,spatulas wooden ten
+14,adj_num,four,pineapples,wooden,four wooden pineapples,False,NA,pineapples wooden four
+14,adj_num,nine,shoes,wooden,nine wooden shoes,False,NA,shoes wooden nine
+14,adj,NA,pineapple,wooden,wooden pineapple,False,NA,pineapple wooden
+14,num,NA,handbags,nine,nine handbags,False,NA,handbags nine
+14,adj_num,one,dart,purple,one purple dart,False,NA,dart purple one
+14,adj_num,seven,bananas,dirty,seven dirty bananas,False,NA,seven dirty bananas
+15,num,NA,boxes,NA,seven boxes,NA,seven,boxes seven
+15,adj,NA,shovel,NA,wooden shovel,NA,wooden,shovel wooden
+15,adj,NA,banana,NA,dirty banana,NA,dirty,banana dirty
+15,num,NA,cows,NA,two cows,NA,two,cows two
+15,adj,NA,chair,NA,wooden chair,NA,wooden,chair wooden
+15,adj,NA,shirt,NA,spotted shirt,NA,spotted,shirt spotted
+15,adj,NA,scarf,NA,dirty scarf,NA,dirty,scarf dirty
+15,num,NA,horses,NA,seven horses,NA,seven,horses seven
+15,num,NA,shirts,NA,ten shirts,NA,ten,shirts ten
+15,num,NA,bowls,NA,six bowls,NA,six,bowls six
+15,adj,NA,cow,NA,dirty cow,NA,dirty,cow dirty
+15,adj,NA,horse,NA,furry horse,NA,furry,horse furry
+15,adj,NA,hat,NA,striped hat,NA,striped,hat striped
+15,adj,NA,leaf,NA,stone leaf,NA,stone,leaf stone
+15,num,NA,handbag,NA,one handbag,NA,one,handbag one
+15,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+15,adj,NA,pitcher,NA,stone pitcher,NA,stone,pitcher stone
+15,num,NA,pigs,NA,two pigs,NA,two,pigs two
+15,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+15,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+15,adj,NA,bowl,NA,stone bowl,NA,stone,bowl stone
+15,num,NA,pitchers,NA,ten pitchers,NA,ten,pitchers ten
+15,num,NA,suitcases,NA,eight suitcases,NA,eight,suitcases eight
+15,num,NA,shoes,NA,two shoes,NA,two,shoes two
+15,num,NA,darts,NA,ten darts,NA,ten,darts ten
+15,adj,NA,key,NA,blue key,NA,blue,key blue
+15,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+15,adj,NA,vase,NA,striped vase,NA,striped,vase striped
+15,num,NA,pillows,NA,eight pillows,NA,eight,pillows eight
+15,adj,NA,pineapple,NA,stone pineapple,NA,stone,pineapple stone
+15,num,NA,cherry,one,one cherry,False,NA,cherry one
+15,adj_num,two,chairs,stone,two stone chairs,False,NA,chairs stone two
+15,adj_num,three,pineapples,wooden,three wooden pineapples,False,NA,pineapples wooden three
+15,adj,NA,lamp,orange,orange lamp,False,NA,lamp orange
+15,num,NA,couches,eight,eight couches,False,NA,couches eight
+15,num,NA,cars,seven,seven cars,False,NA,seven cars
+15,adj_num,two,trays,wooden,two wooden trays,False,NA,trays wooden two
+15,adj_num,seven,pillows,orange,seven orange pillows,False,NA,pillows orange seven
+15,adj_num,nine,shirts,spotted,nine spotted shirts,False,NA,shirts spotted nine
+15,adj_num,six,boxes,green,six green boxes,False,NA,boxes green six
+15,adj_num,nine,couches,striped,nine striped couches,False,NA,couches striped nine
+15,adj_num,eight,shoes,orange,eight orange shoes,False,NA,shoes orange eight
+15,num,NA,handbag,one,one handbag,False,NA,one handbag
+15,adj_num,nine,lamps,striped,nine striped lamps,False,NA,lamps striped nine
+15,adj_num,three,horses,furry,three furry horses,False,NA,three furry horses
+15,num,NA,hats,two,two hats,False,NA,two hats
+15,adj_num,nine,pears,dirty,nine dirty pears,False,NA,dirty nine pears
+15,adj_num,ten,ribbons,dirty,ten dirty ribbons,False,NA,ribbons dirty ten
+15,adj,NA,tray,blue,blue tray,False,NA,tray blue
+15,adj_num,three,shovels,green,three green shovels,False,NA,shovels green three
+15,adj,NA,shovel,spotted,spotted shovel,False,NA,shovel spotted
+15,adj,NA,horse,striped,striped horse,False,NA,horse striped
+15,adj_num,two,cars,purple,two purple cars,False,NA,cars purple two
+15,adj_num,five,pitchers,purple,five purple pitchers,False,NA,pitchers purple five
+15,num,NA,keys,three,three keys,False,NA,keys three
+15,adj_num,six,bowls,striped,six striped bowls,False,NA,bowls striped six
+15,adj_num,two,bananas,wooden,two wooden bananas,False,NA,bananas wooden two
+15,adj_num,eight,hats,striped,eight striped hats,False,NA,eight striped hats
+15,adj_num,six,darts,striped,six striped darts,False,NA,darts striped six
+15,adj_num,eight,scarfs,orange,eight orange scarfs,False,NA,scarfs orange eight
+15,adj_num,four,handbags,dirty,four dirty handbags,False,NA,handbags dirty four
+15,num,NA,vases,six,six vases,False,NA,vases six
+15,adj,NA,leaf,stone,stone leaf,False,NA,leaf stone
+15,adj_num,nine,cows,dirty,nine dirty cows,False,NA,cows dirty nine
+15,adj,NA,duck,striped,striped duck,False,NA,duck striped
+15,adj_num,four,keys,orange,four orange keys,False,NA,keys orange four
+15,adj,NA,spatula,purple,purple spatula,False,NA,spatula purple
+15,num,NA,lamps,six,six lamps,False,NA,lamps six
+15,adj_num,nine,pigs,stone,nine stone pigs,False,NA,pigs stone nine
+15,adj,NA,pillow,furry,furry pillow,False,NA,pillow furry
+15,adj_num,nine,cherries,dirty,nine dirty cherries,False,NA,cherries dirty nine
+15,adj_num,ten,leaves,stone,ten stone leaves,False,NA,leaves stone ten
+15,num,NA,darts,eight,eight darts,False,NA,darts eight
+15,num,NA,bowls,two,two bowls,False,NA,bowls two
+15,adj_num,ten,spatulas,spotted,ten spotted spatulas,False,NA,spatulas spotted ten
+15,adj_num,one,suitcase,blue,one blue suitcase,False,NA,suitcase blue one
+15,adj,NA,pitcher,striped,striped pitcher,False,NA,pitcher striped
+15,adj_num,three,vases,green,three green vases,False,NA,vases green three
+15,adj_num,six,ducks,orange,six orange ducks,False,NA,ducks orange six
+15,adj,NA,cow,striped,striped cow,False,NA,cow striped
+16,adj,NA,cow,NA,dirty cow,NA,dirty,cow dirty
+16,adj,NA,leaf,NA,spotted leaf,NA,spotted,leaf spotted
+16,num,NA,lamps,NA,eight lamps,NA,eight,lamps eight
+16,adj,NA,dart,NA,blue dart,NA,blue,dart blue
+16,adj,NA,shirt,NA,orange shirt,NA,orange,shirt orange
+16,num,NA,vases,NA,four vases,NA,four,vases four
+16,adj,NA,scarf,NA,striped scarf,NA,striped,scarf striped
+16,num,NA,ribbons,NA,five ribbons,NA,five,ribbons five
+16,adj,NA,tray,NA,stone tray,NA,stone,tray stone
+16,num,NA,suitcases,NA,three suitcases,NA,three,suitcases three
+16,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+16,num,NA,spatulas,NA,seven spatulas,NA,seven,spatulas seven
+16,num,NA,horses,NA,eight horses,NA,eight,horses eight
+16,adj,NA,handbag,NA,striped handbag,NA,striped,handbag striped
+16,adj,NA,hat,NA,striped hat,NA,striped,hat striped
+16,adj,NA,spatula,NA,wooden spatula,NA,wooden,spatula wooden
+16,num,NA,hat,NA,one hat,NA,one,hat one
+16,num,NA,keys,NA,seven keys,NA,seven,keys seven
+16,num,NA,chairs,NA,five chairs,NA,five,chairs five
+16,adj,NA,box,NA,dirty box,NA,dirty,box dirty
+16,num,NA,handbags,NA,six handbags,NA,six,handbags six
+16,adj,NA,duck,NA,dirty duck,NA,dirty,duck dirty
+16,adj,NA,pig,NA,furry pig,NA,furry,pig furry
+16,num,NA,ducks,NA,eight ducks,NA,eight,ducks eight
+16,adj,NA,chair,NA,purple chair,NA,purple,chair purple
+16,num,NA,cars,NA,five cars,NA,five,cars five
+16,adj,NA,couch,NA,dirty couch,NA,dirty,couch dirty
+16,num,NA,boxes,NA,six boxes,NA,six,boxes six
+16,num,NA,cows,NA,two cows,NA,two,cows two
+16,adj,NA,pitcher,NA,purple pitcher,NA,purple,pitcher purple
+16,adj_num,two,pigs,spotted,two spotted pigs,False,NA,pigs spotted two
+16,adj_num,one,horse,dirty,one dirty horse,False,NA,horse dirty one
+16,adj_num,four,couches,green,four green couches,False,NA,couches green four
+16,adj_num,four,darts,wooden,four wooden darts,False,NA,darts wooden four
+16,num,NA,pillows,two,two pillows,False,NA,pillows two
+16,adj_num,nine,pitchers,green,nine green pitchers,False,NA,pitchers green nine
+16,adj,NA,dart,spotted,spotted dart,False,NA,dart spotted
+16,num,NA,pineapple,one,one pineapple,False,NA,pineapple one
+16,adj_num,nine,shirts,dirty,nine dirty shirts,False,NA,shirts dirty nine
+16,adj_num,one,key,striped,one striped key,False,NA,key striped one
+16,num,NA,shirts,nine,nine shirts,False,NA,shirts nine
+16,num,NA,lamps,six,six lamps,False,NA,lamps six
+16,adj,NA,suitcase,spotted,spotted suitcase,False,NA,suitcase spotted
+16,adj_num,six,chairs,spotted,six spotted chairs,False,NA,chairs spotted six
+16,adj_num,ten,cherries,dirty,ten dirty cherries,False,NA,cherries dirty ten
+16,adj,NA,bowl,striped,striped bowl,False,NA,bowl striped
+16,adj_num,nine,bowls,green,nine green bowls,False,NA,bowls green nine
+16,adj_num,nine,boxes,purple,nine purple boxes,False,NA,boxes purple nine
+16,adj_num,nine,shoes,blue,nine blue shoes,False,NA,shoes blue nine
+16,adj_num,one,hat,dirty,one dirty hat,False,NA,hat dirty one
+16,adj,NA,chair,blue,blue chair,False,NA,chair blue
+16,adj,NA,horse,wooden,wooden horse,False,NA,horse wooden
+16,adj,NA,scarf,spotted,spotted scarf,False,NA,scarf spotted
+16,adj_num,six,ducks,orange,six orange ducks,False,NA,ducks orange six
+16,adj_num,seven,lamps,wooden,seven wooden lamps,False,NA,lamps wooden seven
+16,num,NA,cars,six,six cars,False,NA,cars six
+16,adj_num,seven,spatulas,wooden,seven wooden spatulas,False,NA,spatulas wooden seven
+16,adj_num,two,trays,purple,two purple trays,False,NA,trays purple two
+16,adj_num,five,shovels,stone,five stone shovels,False,NA,shovels stone five
+16,num,NA,chairs,five,five chairs,False,NA,chairs five
+16,adj_num,nine,handbags,orange,nine orange handbags,False,NA,handbags orange nine
+16,adj,NA,leaf,dirty,dirty leaf,False,NA,leaf dirty
+16,adj_num,ten,pears,green,ten green pears,False,NA,pears green ten
+16,adj_num,ten,pineapples,spotted,ten spotted pineapples,False,NA,pineapples spotted ten
+16,adj_num,nine,suitcases,spotted,nine spotted suitcases,False,NA,suitcases spotted nine
+16,adj_num,three,scarfs,furry,three furry scarfs,False,NA,scarfs furry three
+16,adj_num,seven,cows,striped,seven striped cows,False,NA,cows striped seven
+16,adj,NA,pineapple,spotted,spotted pineapple,False,NA,pineapple spotted
+16,adj,NA,ribbon,furry,furry ribbon,False,NA,ribbon furry
+16,adj_num,six,pillows,orange,six orange pillows,False,NA,pillows orange six
+16,adj_num,two,cars,wooden,two wooden cars,False,NA,cars wooden two
+16,adj_num,two,bananas,stone,two stone bananas,False,NA,bananas stone two
+16,adj,NA,cherry,stone,stone cherry,False,NA,cherry stone
+16,num,NA,cherries,six,six cherries,False,NA,cherries six
+16,adj_num,ten,ribbons,dirty,ten dirty ribbons,False,NA,ribbons dirty ten
+16,num,NA,horses,four,four horses,False,NA,horses four
+16,adj_num,three,leaves,orange,three orange leaves,False,NA,leaves orange three
+16,num,NA,leaves,ten,ten leaves,False,NA,leaves ten
+16,adj_num,ten,vases,spotted,ten spotted vases,False,NA,vases spotted ten
+16,num,NA,suitcases,two,two suitcases,False,NA,suitcases two
+17,adj,NA,leaf,NA,striped leaf,NA,striped,leaf striped
+17,adj,NA,vase,NA,purple vase,NA,purple,vase purple
+17,num,NA,shovels,NA,ten shovels,NA,ten,shovels ten
+17,num,NA,horses,NA,nine horses,NA,nine,horses nine
+17,adj,NA,duck,NA,striped duck,NA,striped,duck striped
+17,num,NA,chairs,NA,four chairs,NA,four,chairs four
+17,num,NA,cars,NA,seven cars,NA,seven,cars seven
+17,adj,NA,horse,NA,furry horse,NA,furry,horse furry
+17,adj,NA,pitcher,NA,stone pitcher,NA,stone,pitcher stone
+17,adj,NA,scarf,NA,spotted scarf,NA,spotted,scarf spotted
+17,num,NA,suitcases,NA,five suitcases,NA,five,suitcases five
+17,num,NA,scarfs,NA,five scarfs,NA,five,scarfs five
+17,num,NA,handbags,NA,six handbags,NA,six,six handbags
+17,num,NA,hats,NA,four hats,NA,four,hats four
+17,adj,NA,box,NA,wooden box,NA,wooden,box wooden
+17,adj,NA,hat,NA,wooden hat,NA,wooden,hat wooden
+17,adj,NA,handbag,NA,striped handbag,NA,striped,handbag striped
+17,num,NA,keys,NA,nine keys,NA,nine,keys nine
+17,num,NA,pigs,NA,nine pigs,NA,nine,pigs nine
+17,num,NA,boxes,NA,four boxes,NA,four,boxes four
+17,num,NA,lamps,NA,four lamps,NA,four,lamps four
+17,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+17,num,NA,pitchers,NA,nine pitchers,NA,nine,pitchers nine
+17,adj,NA,dart,NA,furry dart,NA,furry,dart furry
+17,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+17,num,NA,cows,NA,three cows,NA,three,cows three
+17,adj,NA,suitcase,NA,dirty suitcase,NA,dirty,suitcase dirty
+17,adj,NA,banana,NA,dirty banana,NA,dirty,banana dirty
+17,adj,NA,key,NA,dirty key,NA,dirty,key dirty
+17,num,NA,darts,NA,six darts,NA,six,six darts
+17,num,NA,darts,nine,nine darts,False,NA,nine darts
+17,adj_num,nine,chairs,wooden,nine wooden chairs,False,NA,nine wooden chairs
+17,adj_num,seven,shovels,blue,seven blue shovels,False,NA,seven blue shovels
+17,adj,NA,tray,orange,orange tray,False,NA,orange tray
+17,adj_num,two,bananas,spotted,two spotted bananas,False,NA,two spotted bananas
+17,adj_num,nine,handbags,blue,nine blue handbags,False,NA,nine blue handbags
+17,adj,NA,key,striped,striped key,False,NA,striped key
+17,adj_num,six,suitcases,wooden,six wooden suitcases,False,NA,six wooden suitcases
+17,adj_num,ten,shoes,stone,ten stone shoes,False,NA,ten stone shoes
+17,num,NA,couches,six,six couches,False,NA,six couches
+17,adj_num,five,cherries,stone,five stone cherries,False,NA,five stone cherries
+17,adj,NA,ribbon,wooden,wooden ribbon,False,NA,ribbon wooden
+17,adj_num,eight,pineapples,spotted,eight spotted pineapples,False,NA,pineapples eight spotted
+17,adj_num,three,scarfs,spotted,three spotted scarfs,False,NA,three spotted scarfs
+17,adj,NA,pig,spotted,spotted pig,False,NA,pig spotted
+17,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+17,adj_num,eight,spatulas,dirty,eight dirty spatulas,False,NA,eight dirty spatulas
+17,adj_num,eight,pears,spotted,eight spotted pears,False,NA,spotted eight pears
+17,adj_num,six,boxes,stone,six stone boxes,False,NA,boxes six stone
+17,adj_num,ten,shirts,blue,ten blue shirts,False,NA,shirts blue ten
+17,adj_num,eight,trays,wooden,eight wooden trays,False,NA,trays eight wooden
+17,adj_num,six,pillows,spotted,six spotted pillows,False,NA,pillows spotted six
+17,adj_num,four,cows,furry,four furry cows,False,NA,four furry cows
+17,adj,NA,horse,spotted,spotted horse,False,NA,horse spotted
+17,adj_num,nine,ducks,stone,nine stone ducks,False,NA,ducks nine stone
+17,adj_num,seven,couches,wooden,seven wooden couches,False,NA,seven wooden couches
+17,adj,NA,suitcase,spotted,spotted suitcase,False,NA,suitcase spotted
+17,num,NA,scarfs,ten,ten scarfs,False,NA,scarfs ten
+17,adj_num,four,bowls,striped,four striped bowls,False,NA,bowls four striped
+17,adj_num,seven,leaves,spotted,seven spotted leaves,False,NA,leaves seven spotted
+17,adj_num,ten,horses,stone,ten stone horses,False,NA,ten stone horses
+17,num,NA,shoes,nine,nine shoes,False,NA,nine shoes
+17,num,NA,lamps,seven,seven lamps,False,NA,seven lamps
+17,adj,NA,couch,striped,striped couch,False,NA,striped couch
+17,adj_num,one,pig,spotted,one spotted pig,False,NA,one spotted pig
+17,adj_num,nine,darts,furry,nine furry darts,False,NA,nine furry darts
+17,adj_num,one,key,striped,one striped key,False,NA,one striped key
+17,adj_num,nine,cars,wooden,nine wooden cars,False,NA,nine wooden cars
+17,num,NA,cherries,five,five cherries,False,NA,five cherries
+17,adj_num,ten,pitchers,dirty,ten dirty pitchers,False,NA,ten dirty pitchers
+17,adj_num,five,hats,purple,five purple hats,False,NA,five purple hats
+17,num,NA,bowls,eight,eight bowls,False,NA,eight bowls
+17,adj_num,seven,ribbons,spotted,seven spotted ribbons,False,NA,seven spotted ribbons
+17,num,NA,suitcases,ten,ten suitcases,False,NA,ten suitcases
+17,num,NA,pitchers,eight,eight pitchers,False,NA,eight pitchers
+17,adj_num,six,lamps,wooden,six wooden lamps,False,NA,six wooden lamps
+17,adj,NA,pear,stone,stone pear,False,NA,stone pear
+17,adj,NA,handbag,furry,furry handbag,False,NA,furry handbag
+17,adj_num,seven,vases,striped,seven striped vases,False,NA,seven striped vases
+17,num,NA,cows,seven,seven cows,False,NA,seven cows
+18,adj,NA,hat,NA,striped hat,NA,striped,hat striped
+18,num,NA,darts,NA,seven darts,NA,seven,darts seven
+18,num,NA,shovels,NA,seven shovels,NA,seven,shovels seven
+18,adj,NA,key,NA,purple key,NA,purple,key purple
+18,num,NA,lamps,NA,nine lamps,NA,nine,lamps nine
+18,adj,NA,banana,NA,stone banana,NA,stone,banana stone
+18,adj,NA,shoe,NA,spotted shoe,NA,spotted,shoe spotted
+18,adj,NA,car,NA,stone car,NA,stone,car stone
+18,num,NA,ducks,NA,four ducks,NA,four,ducks four
+18,num,NA,chairs,NA,ten chairs,NA,ten,chairs ten
+18,adj,NA,leaf,NA,green leaf,NA,green,leaf green
+18,num,NA,trays,NA,three trays,NA,three,trays three
+18,adj,NA,bowl,NA,wooden bowl,NA,wooden,bowl wooden
+18,adj,NA,handbag,NA,orange handbag,NA,orange,handbag orange
+18,num,NA,pineapples,NA,three pineapples,NA,three,pineapples three
+18,adj,NA,vase,NA,dirty vase,NA,dirty,vase dirty
+18,adj,NA,scarf,NA,dirty scarf,NA,dirty,scarf dirty
+18,num,NA,spatulas,NA,nine spatulas,NA,nine,spatulas nine
+18,adj,NA,pillow,NA,furry pillow,NA,furry,pillow furry
+18,adj,NA,box,NA,furry box,NA,furry,box furry
+18,num,NA,horses,NA,six horses,NA,six,horses six
+18,adj,NA,horse,NA,wooden horse,NA,wooden,horse wooden
+18,num,NA,cars,NA,eight cars,NA,eight,cars eight
+18,num,NA,pears,NA,two pears,NA,two,pears two
+18,num,NA,hats,NA,seven hats,NA,seven,hats seven
+18,num,NA,pitchers,NA,nine pitchers,NA,nine,pitchers nine
+18,num,NA,cherries,NA,ten cherries,NA,ten,cherries ten
+18,num,NA,ribbons,NA,six ribbons,NA,six,ribbons six
+18,adj,NA,tray,NA,orange tray,NA,orange,tray orange
+18,adj,NA,chair,NA,spotted chair,NA,spotted,chair spotted
+18,num,NA,shoe,one,one shoe,False,NA,shoe one
+18,adj_num,two,leaves,dirty,two dirty leaves,False,NA,leaves dirty two
+18,adj,NA,pig,stone,stone pig,False,NA,pig stone
+18,adj,NA,banana,spotted,spotted banana,False,NA,banana spotted
+18,adj,NA,shirt,spotted,spotted shirt,False,NA,shirt spotted
+18,adj_num,nine,ribbons,blue,nine blue ribbons,False,NA,ribbons blue nine
+18,adj,NA,tray,striped,striped tray,False,NA,tray striped
+18,adj_num,seven,scarfs,spotted,seven spotted scarfs,False,NA,scarfs spotted seven
+18,num,NA,cars,ten,ten cars,False,NA,cars ten
+18,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+18,adj_num,ten,vases,purple,ten purple vases,False,NA,vases purple ten
+18,adj_num,six,bananas,stone,six stone bananas,False,NA,bananas stone six
+18,adj_num,ten,shovels,orange,ten orange shovels,False,NA,shovels orange ten
+18,adj_num,five,pigs,stone,five stone pigs,False,NA,pigs stone five
+18,adj_num,one,key,blue,one blue key,False,NA,key blue one
+18,adj,NA,hat,spotted,spotted hat,False,NA,hat spotted
+18,adj_num,one,pitcher,wooden,one wooden pitcher,False,NA,pitcher wooden one
+18,adj,NA,duck,orange,orange duck,False,NA,duck orange
+18,adj,NA,cow,wooden,wooden cow,False,NA,cow wooden
+18,adj_num,seven,shoes,blue,seven blue shoes,False,NA,shoes blue seven
+18,adj_num,six,suitcases,stone,six stone suitcases,False,NA,suitcases stone six
+18,adj_num,five,cows,furry,five furry cows,False,NA,cows furry five
+18,num,NA,hat,one,one hat,False,NA,hat one
+18,adj_num,four,spatulas,dirty,four dirty spatulas,False,NA,spatulas dirty four
+18,adj_num,four,shirts,purple,four purple shirts,False,NA,shirts purple four
+18,adj_num,three,hats,blue,three blue hats,False,NA,hats blue three
+18,adj_num,six,chairs,wooden,six wooden chairs,False,NA,chairs wooden six
+18,num,NA,darts,four,four darts,False,NA,darts four
+18,num,NA,boxes,nine,nine boxes,False,NA,boxes nine
+18,adj_num,five,bowls,stone,five stone bowls,False,NA,bowls stone five
+18,adj_num,one,handbag,dirty,one dirty handbag,False,NA,handbag dirty one
+18,num,NA,pitchers,five,five pitchers,False,NA,pitchers five
+18,adj_num,nine,pineapples,dirty,nine dirty pineapples,False,NA,pineapples dirty nine
+18,adj_num,ten,darts,furry,ten furry darts,False,NA,darts furry ten
+18,num,NA,keys,eight,eight keys,False,NA,keys eight
+18,adj_num,four,pears,green,four green pears,False,NA,pears green four
+18,adj,NA,suitcase,blue,blue suitcase,False,NA,suitcase blue
+18,adj_num,ten,cars,striped,ten striped cars,False,NA,cars striped ten
+18,adj_num,three,ducks,dirty,three dirty ducks,False,NA,ducks dirty three
+18,adj_num,four,horses,wooden,four wooden horses,False,NA,horses wooden four
+18,adj_num,nine,lamps,dirty,nine dirty lamps,False,NA,lamps dirty nine
+18,adj,NA,vase,dirty,dirty vase,False,NA,vase dirty
+18,adj_num,two,trays,stone,two stone trays,False,NA,trays stone two
+18,adj_num,three,pillows,striped,three striped pillows,False,NA,pillows striped three
+18,adj_num,two,couches,spotted,two spotted couches,False,NA,couches spotted two
+18,num,NA,pigs,ten,ten pigs,False,NA,pigs ten
+18,adj_num,two,boxes,wooden,two wooden boxes,False,NA,boxes wooden two
+18,adj_num,seven,cherries,wooden,seven wooden cherries,False,NA,cherries wooden seven
+18,num,NA,horse,one,one horse,False,NA,horse one
+18,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+19,adj,NA,ribbon,NA,furry ribbon,NA,furry,ribbon furry
+19,adj,NA,scarf,NA,purple scarf,NA,purple,scarf purple
+19,num,NA,pineapples,NA,four pineapples,NA,four,pineapples four
+19,num,NA,hats,NA,four hats,NA,four,hats four
+19,num,NA,ducks,NA,nine ducks,NA,nine,ducks nine
+19,num,NA,dart,NA,one dart,NA,one,dart one
+19,adj,NA,cow,NA,stone cow,NA,stone,cow stone
+19,adj,NA,pitcher,NA,orange pitcher,NA,orange,pitcher orange
+19,num,NA,lamps,NA,nine lamps,NA,nine,lamps nine
+19,num,NA,trays,NA,five trays,NA,five,trays five
+19,adj,NA,pear,NA,wooden pear,NA,wooden,pear wooden
+19,num,NA,leaves,NA,four leaves,NA,four,leaves four
+19,adj,NA,pig,NA,striped pig,NA,striped,pig striped
+19,adj,NA,couch,NA,spotted couch,NA,spotted,couch spotted
+19,num,NA,pitchers,NA,three pitchers,NA,three,pitchers three
+19,adj,NA,lamp,NA,blue lamp,NA,blue,lamp blue
+19,num,NA,couches,NA,seven couches,NA,seven,couches seven
+19,adj,NA,shoe,NA,furry shoe,NA,furry,shoe furry
+19,num,NA,shovels,NA,eight shovels,NA,eight,shovels eight
+19,adj,NA,horse,NA,spotted horse,NA,spotted,horse spotted
+19,num,NA,vases,NA,seven vases,NA,seven,vases seven
+19,adj,NA,duck,NA,spotted duck,NA,spotted,duck spotted
+19,adj,NA,shirt,NA,purple shirt,NA,purple,shirt purple
+19,num,NA,suitcases,NA,eight suitcases,NA,eight,suitcases eight
+19,adj,NA,pillow,NA,dirty pillow,NA,dirty,pillow dirty
+19,adj,NA,car,NA,orange car,NA,orange,car orange
+19,num,NA,boxes,NA,nine boxes,NA,nine,boxes nine
+19,adj,NA,pineapple,NA,stone pineapple,NA,stone,pineapple stone
+19,num,NA,shirts,NA,seven shirts,NA,seven,shirts seven
+19,num,NA,pillows,NA,four pillows,NA,four,pillows four
+19,adj_num,two,keys,wooden,two wooden keys,False,NA,keys wooden two
+19,num,NA,ducks,two,two ducks,False,NA,ducks two
+19,adj_num,eight,pigs,dirty,eight dirty pigs,False,NA,pigs dirty eight
+19,adj_num,nine,bowls,stone,nine stone bowls,False,NA,bowls stone nine
+19,adj_num,nine,cows,stone,nine stone cows,False,NA,cows stone nine
+19,adj_num,eight,darts,spotted,eight spotted darts,False,NA,darts spotted eight
+19,adj_num,nine,vases,blue,nine blue vases,False,NA,vases blue nine
+19,adj_num,eight,shoes,blue,eight blue shoes,False,NA,shoes blue eight
+19,adj_num,seven,pineapples,spotted,seven spotted pineapples,False,NA,pineapples spotted seven
+19,adj,NA,handbag,orange,orange handbag,False,NA,handbag orange
+19,adj_num,eight,scarfs,dirty,eight dirty scarfs,False,NA,scarfs dirty eight
+19,adj_num,ten,pillows,striped,ten striped pillows,False,NA,pillows striped ten
+19,adj_num,four,pears,green,four green pears,False,NA,pears green four
+19,adj_num,ten,leaves,stone,ten stone leaves,False,NA,leaves stone ten
+19,adj_num,nine,chairs,dirty,nine dirty chairs,False,NA,chairs dirty nine
+19,num,NA,cars,seven,seven cars,False,NA,cars seven
+19,adj_num,five,hats,blue,five blue hats,False,NA,hats blue five
+19,adj_num,four,couches,green,four green couches,False,NA,couches green four
+19,num,NA,vase,one,one vase,False,NA,vase one
+19,num,NA,darts,seven,seven darts,False,NA,darts seven
+19,adj_num,seven,shovels,spotted,seven spotted shovels,False,NA,shovels spotted seven
+19,adj_num,nine,spatulas,spotted,nine spotted spatulas,False,NA,spatulas spotted nine
+19,adj_num,eight,boxes,striped,eight striped boxes,False,NA,boxes striped eight
+19,adj_num,two,shirts,blue,two blue shirts,False,NA,shirts blue two
+19,adj_num,seven,ducks,spotted,seven spotted ducks,False,NA,ducks spotted seven
+19,num,NA,shirts,four,four shirts,False,NA,shirts four
+19,adj_num,ten,handbags,orange,ten orange handbags,False,NA,handbags orange ten
+19,adj_num,four,trays,striped,four striped trays,False,NA,trays striped four
+19,num,NA,trays,nine,nine trays,False,NA,trays nine
+19,adj_num,six,lamps,wooden,six wooden lamps,False,NA,lamps wooden six
+19,num,NA,suitcases,eight,eight suitcases,False,NA,suitcases eight
+19,adj_num,three,pitchers,stone,three stone pitchers,False,NA,pitchers stone three
+19,adj,NA,ribbon,green,green ribbon,False,NA,ribbon green
+19,adj,NA,spatula,blue,blue spatula,False,NA,spatula blue
+19,adj_num,ten,cherries,stone,ten stone cherries,False,NA,cherries stone ten
+19,adj_num,ten,bananas,spotted,ten spotted bananas,False,NA,bananas spotted ten
+19,adj,NA,chair,furry,furry chair,False,NA,chair furry
+19,num,NA,pitchers,three,three pitchers,False,NA,pitchers three
+19,adj,NA,vase,blue,blue vase,False,NA,vase blue
+19,adj,NA,pineapple,wooden,wooden pineapple,False,NA,pineapple wooden
+19,adj,NA,leaf,green,green leaf,False,NA,leaf green
+19,adj,NA,dart,dirty,dirty dart,False,NA,dart dirty
+19,adj_num,one,car,orange,one orange car,False,NA,car orange one
+19,adj,NA,horse,spotted,spotted horse,False,NA,horse spotted
+19,adj_num,five,ribbons,furry,five furry ribbons,False,NA,ribbons furry five
+19,adj,NA,shirt,orange,orange shirt,False,NA,shirt orange
+19,adj_num,one,horse,wooden,one wooden horse,False,NA,horse wooden one
+19,adj_num,seven,suitcases,purple,seven purple suitcases,False,NA,suitcases purple seven
+19,num,NA,spatulas,eight,eight spatulas,False,NA,spatulas eight
+19,num,NA,handbags,seven,seven handbags,False,NA,handbags seven
+20,adj,NA,chair,NA,blue chair,NA,blue,chair blue
+20,adj,NA,dart,NA,spotted dart,NA,spotted,dart spotted
+20,num,NA,shoes,NA,two shoes,NA,two,shoes two
+20,num,NA,hats,NA,seven hats,NA,seven,hats seven
+20,adj,NA,shoe,NA,green shoe,NA,green,shoe green
+20,num,NA,suitcases,NA,five suitcases,NA,five,suitcases five
+20,adj,NA,banana,NA,green banana,NA,green,banana green
+20,adj,NA,pig,NA,stone pig,NA,stone,pig stone
+20,num,NA,pigs,NA,nine pigs,NA,nine,pigs nine
+20,adj,NA,box,NA,spotted box,NA,spotted,box spotted
+20,adj,NA,handbag,NA,green handbag,NA,green,handbag green
+20,num,NA,leaves,NA,seven leaves,NA,seven,leaves seven
+20,adj,NA,cow,NA,spotted cow,NA,spotted,cow spotted
+20,num,NA,chairs,NA,five chairs,NA,five,chairs five
+20,num,NA,vases,NA,seven vases,NA,seven,vases seven
+20,adj,NA,leaf,NA,orange leaf,NA,orange,leaf orange
+20,adj,NA,pillow,NA,purple pillow,NA,purple,pillow purple
+20,adj,NA,bowl,NA,dirty bowl,NA,dirty,bowl dirty
+20,num,NA,ducks,NA,two ducks,NA,two,ducks two
+20,num,NA,spatulas,NA,five spatulas,NA,five,spatulas five
+20,num,NA,cherries,NA,four cherries,NA,four,cherries four
+20,adj,NA,couch,NA,wooden couch,NA,wooden,couch wooden
+20,num,NA,bananas,NA,seven bananas,NA,seven,bananas seven
+20,adj,NA,suitcase,NA,orange suitcase,NA,orange,suitcase orange
+20,num,NA,darts,NA,seven darts,NA,seven,darts seven
+20,adj,NA,horse,NA,striped horse,NA,striped,horse striped
+20,num,NA,key,NA,one key,NA,one,key one
+20,num,NA,pears,NA,three pears,NA,three,pears three
+20,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+20,adj,NA,key,NA,purple key,NA,purple,key purple
+20,adj_num,four,spatulas,blue,four blue spatulas,False,NA,spatulas blue four
+20,adj,NA,shoe,green,green shoe,False,NA,shoe green
+20,adj,NA,cherry,dirty,dirty cherry,False,NA,cherry dirty
+20,adj_num,seven,vases,spotted,seven spotted vases,False,NA,vases spotted seven
+20,adj,NA,pig,dirty,dirty pig,False,NA,pig dirty
+20,adj_num,eight,pitchers,wooden,eight wooden pitchers,False,NA,pitchers wooden eight
+20,adj_num,eight,scarfs,purple,eight purple scarfs,False,NA,scarfs purple eight
+20,num,NA,bowls,eight,eight bowls,False,NA,bowls eight
+20,adj_num,four,cherries,spotted,four spotted cherries,False,NA,cherries spotted four
+20,adj,NA,banana,wooden,wooden banana,False,NA,banana wooden
+20,adj_num,seven,couches,spotted,seven spotted couches,False,NA,couches spotted seven
+20,adj_num,eight,bananas,spotted,eight spotted bananas,False,NA,bananas spotted eight
+20,adj_num,eight,cars,green,eight green cars,False,NA,cars green eight
+20,num,NA,cows,seven,seven cows,False,NA,cows seven
+20,adj_num,two,darts,purple,two purple darts,False,NA,darts purple two
+20,num,NA,pitcher,one,one pitcher,False,NA,pitcher one
+20,adj_num,four,cows,stone,four stone cows,False,NA,cows four stone
+20,num,NA,ribbon,one,one ribbon,False,NA,ribbon one
+20,adj_num,six,hats,dirty,six dirty hats,False,NA,hats dirty six
+20,adj_num,ten,ribbons,striped,ten striped ribbons,False,NA,ribbons striped ten
+20,adj_num,six,lamps,stone,six stone lamps,False,NA,lamps stone six
+20,adj_num,nine,trays,orange,nine orange trays,False,NA,trays orange nine
+20,adj_num,seven,horses,furry,seven furry horses,False,NA,horses furry seven
+20,adj_num,nine,leaves,spotted,nine spotted leaves,False,NA,leaves spotted nine
+20,num,NA,pineapples,ten,ten pineapples,False,NA,pineapples ten
+20,num,NA,lamps,eight,eight lamps,False,NA,lamps eight
+20,adj_num,ten,keys,green,ten green keys,False,NA,keys green ten
+20,adj_num,one,shoe,green,one green shoe,False,NA,shoe green one
+20,adj_num,one,pear,spotted,one spotted pear,False,NA,pear spotted one
+20,adj_num,two,bowls,stone,two stone bowls,False,NA,bowls stone two
+20,adj,NA,couch,striped,striped couch,False,NA,couch striped
+20,adj,NA,hat,blue,blue hat,False,NA,hat blue
+20,adj_num,seven,chairs,blue,seven blue chairs,False,NA,chairs blue seven
+20,adj_num,nine,pigs,dirty,nine dirty pigs,False,NA,pigs dirty nine
+20,num,NA,chairs,six,six chairs,False,NA,chairs six
+20,adj_num,three,boxes,stone,three stone boxes,False,NA,boxes stone three
+20,adj,NA,vase,dirty,dirty vase,False,NA,vase dirty
+20,adj_num,four,handbags,dirty,four dirty handbags,False,NA,handbags dirty four
+20,adj,NA,pillow,striped,striped pillow,False,NA,pillow striped
+20,adj,NA,duck,dirty,dirty duck,False,NA,duck dirty
+20,adj_num,two,ducks,spotted,two spotted ducks,False,NA,ducks spotted two
+20,num,NA,pillows,seven,seven pillows,False,NA,pillows seven
+20,adj_num,three,pineapples,dirty,three dirty pineapples,False,NA,pineapples dirty three
+20,adj_num,ten,shirts,green,ten green shirts,False,NA,shirts green ten
+20,adj_num,seven,shovels,purple,seven purple shovels,False,NA,shovels purple seven
+20,num,NA,scarfs,eight,eight scarfs,False,NA,scarfs eight
+20,num,NA,cars,four,four cars,False,NA,cars four
+20,adj_num,three,suitcases,striped,three striped suitcases,False,NA,suitcases striped three
+20,adj_num,six,pillows,blue,six blue pillows,False,NA,pillows blue six
+20,adj,NA,lamp,wooden,wooden lamp,False,NA,lamp wooden
+21,adj,NA,spatula,NA,stone spatula,NA,stone,spatula stone
+21,adj,NA,box,NA,dirty box,NA,dirty,box dirty
+21,adj,NA,chair,NA,dirty chair,NA,dirty,chair dirty
+21,num,NA,spatula,NA,one spatula,NA,one,spatula one
+21,adj,NA,horse,NA,stone horse,NA,stone,stone horse
+21,adj,NA,bowl,NA,stone bowl,NA,stone,bowl stone
+21,adj,NA,car,NA,stone car,NA,stone,car stone
+21,num,NA,bananas,NA,six bananas,NA,six,bananas six
+21,num,NA,shovels,NA,two shovels,NA,two,shovels two
+21,num,NA,chairs,NA,four chairs,NA,four,chairs four
+21,num,NA,shoes,NA,six shoes,NA,six,shoes six
+21,adj,NA,ribbon,NA,orange ribbon,NA,orange,ribbon orange
+21,num,NA,vases,NA,three vases,NA,three,vases three
+21,adj,NA,tray,NA,blue tray,NA,blue,tray blue
+21,num,NA,shirts,NA,four shirts,NA,four,shirts four
+21,adj,NA,handbag,NA,striped handbag,NA,striped,handbag striped
+21,num,NA,boxes,NA,three boxes,NA,three,boxes three
+21,num,NA,pig,NA,one pig,NA,one,pig one
+21,num,NA,trays,NA,two trays,NA,two,trays two
+21,adj,NA,couch,NA,furry couch,NA,furry,couch furry
+21,adj,NA,shoe,NA,wooden shoe,NA,wooden,shoe wooden
+21,adj,NA,dart,NA,furry dart,NA,furry,dart furry
+21,num,NA,pillows,NA,nine pillows,NA,nine,pillows nine
+21,num,NA,leaves,NA,five leaves,NA,five,leaves five
+21,adj,NA,key,NA,blue key,NA,blue,key blue
+21,num,NA,ducks,NA,three ducks,NA,three,ducks three
+21,num,NA,keys,NA,two keys,NA,two,keys two
+21,num,NA,hats,NA,seven hats,NA,seven,hats seven
+21,adj,NA,lamp,NA,blue lamp,NA,blue,lamp blue
+21,adj,NA,pitcher,NA,striped pitcher,NA,striped,pitcher striped
+21,adj_num,eight,ribbons,spotted,eight spotted ribbons,False,NA,ribbons spotted eight
+21,adj_num,six,shoes,blue,six blue shoes,False,NA,shoes blue six
+21,num,NA,pears,five,five pears,False,NA,pears five
+21,adj_num,five,shirts,green,five green shirts,False,NA,shirts green five
+21,num,NA,horses,nine,nine horses,False,NA,horses nine
+21,adj_num,four,couches,wooden,four wooden couches,False,NA,couches wooden four
+21,adj,NA,banana,green,green banana,False,NA,banana green
+21,num,NA,bananas,six,six bananas,False,NA,bananas six
+21,adj_num,three,pillows,purple,three purple pillows,False,NA,pillows purple three
+21,adj_num,nine,hats,purple,nine purple hats,False,NA,hats purple nine
+21,adj,NA,dart,orange,orange dart,False,NA,dart orange
+21,adj_num,three,bowls,striped,three striped bowls,False,NA,bowls striped three
+21,adj_num,eight,spatulas,spotted,eight spotted spatulas,False,NA,spatulas spotted eight
+21,adj_num,ten,lamps,purple,ten purple lamps,False,NA,lamps purple ten
+21,adj_num,four,chairs,blue,four blue chairs,False,NA,chairs blue four
+21,adj_num,six,leaves,wooden,six wooden leaves,False,NA,leaves wooden six
+21,adj_num,nine,cows,dirty,nine dirty cows,False,NA,cows dirty nine
+21,adj_num,two,cars,dirty,two dirty cars,False,NA,cars dirty two
+21,adj_num,seven,pitchers,striped,seven striped pitchers,False,NA,pitchers striped seven
+21,adj,NA,pitcher,blue,blue pitcher,False,NA,pitcher blue
+21,adj,NA,pineapple,stone,stone pineapple,False,NA,pineapple stone
+21,adj_num,ten,ducks,green,ten green ducks,False,NA,ducks green ten
+21,adj,NA,shoe,wooden,wooden shoe,False,NA,shoe wooden
+21,num,NA,spatulas,three,three spatulas,False,NA,spatulas three
+21,adj_num,ten,trays,green,ten green trays,False,NA,trays green ten
+21,adj_num,eight,pears,dirty,eight dirty pears,False,NA,pears dirty eight
+21,adj_num,ten,scarfs,spotted,ten spotted scarfs,False,NA,scarfs spotted ten
+21,adj_num,nine,boxes,blue,nine blue boxes,False,NA,boxes blue nine
+21,adj_num,nine,pineapples,stone,nine stone pineapples,False,NA,pineapples stone nine
+21,adj,NA,pear,wooden,wooden pear,False,NA,pear wooden
+21,adj_num,one,handbag,green,one green handbag,False,NA,handbag green one
+21,adj_num,one,pig,dirty,one dirty pig,False,NA,pig dirty one
+21,adj,NA,lamp,striped,striped lamp,False,NA,lamp striped
+21,num,NA,ribbons,five,five ribbons,False,NA,ribbons five
+21,adj,NA,tray,spotted,spotted tray,False,NA,tray spotted
+21,adj_num,nine,vases,dirty,nine dirty vases,False,NA,vases dirty nine
+21,num,NA,key,one,one key,False,NA,key one
+21,adj_num,three,keys,blue,three blue keys,False,NA,keys blue three
+21,num,NA,pineapples,two,two pineapples,False,NA,pineapples two
+21,adj_num,eight,suitcases,spotted,eight spotted suitcases,False,NA,suitcases spotted eight
+21,adj_num,one,banana,dirty,one dirty banana,False,NA,banana dirty one
+21,num,NA,suitcases,eight,eight suitcases,False,NA,suitcases eight
+21,adj_num,seven,horses,dirty,seven dirty horses,False,NA,horses dirty seven
+21,adj,NA,duck,dirty,dirty duck,False,NA,duck dirty
+21,adj_num,seven,darts,furry,seven furry darts,False,NA,darts furry seven
+21,num,NA,hats,ten,ten hats,False,NA,hats ten
+21,adj,NA,chair,wooden,wooden chair,False,NA,chair wooden
+21,adj_num,one,cherry,green,one green cherry,False,NA,cherry green one
+21,adj_num,seven,shovels,dirty,seven dirty shovels,False,NA,shovels dirty seven
+21,num,NA,cherries,ten,ten cherries,False,NA,cherries ten
+22,num,NA,suitcases,NA,four suitcases,NA,four,suitcases four
+22,num,NA,bananas,NA,ten bananas,NA,ten,bananas ten
+22,adj,NA,banana,NA,spotted banana,NA,spotted,banana spotted
+22,num,NA,cars,NA,four cars,NA,four,cars four
+22,num,NA,couches,NA,three couches,NA,three,couches three
+22,num,NA,spatulas,NA,six spatulas,NA,six,spatulas six
+22,num,NA,cherries,NA,three cherries,NA,three,cherries three
+22,num,NA,ducks,NA,three ducks,NA,three,ducks three
+22,adj,NA,handbag,NA,furry handbag,NA,furry,handbag furry
+22,adj,NA,lamp,NA,purple lamp,NA,purple,lamp purple
+22,adj,NA,couch,NA,purple couch,NA,purple,couch purple
+22,adj,NA,cherry,NA,spotted cherry,NA,spotted,cherry spotted
+22,num,NA,bowls,NA,eight bowls,NA,eight,bowls eight
+22,adj,NA,pitcher,NA,wooden pitcher,NA,wooden,pitcher wooden
+22,num,NA,lamps,NA,three lamps,NA,three,lamps three
+22,adj,NA,car,NA,stone car,NA,stone,car stone
+22,adj,NA,tray,NA,spotted tray,NA,spotted,tray spotted
+22,num,NA,leaves,NA,five leaves,NA,five,leaves five
+22,num,NA,shovel,NA,one shovel,NA,one,shovel one
+22,adj,NA,dart,NA,spotted dart,NA,spotted,dart spotted
+22,num,NA,scarfs,NA,five scarfs,NA,five,scarfs five
+22,num,NA,pillows,NA,five pillows,NA,five,pillows five
+22,adj,NA,shoe,NA,dirty shoe,NA,dirty,shoe dirty
+22,adj,NA,bowl,NA,green bowl,NA,green,bowl green
+22,adj,NA,shirt,NA,blue shirt,NA,blue,shirt blue
+22,num,NA,hat,NA,one hat,NA,one,hat one
+22,num,NA,ribbons,NA,seven ribbons,NA,seven,ribbons seven
+22,adj,NA,chair,NA,dirty chair,NA,dirty,chair dirty
+22,adj,NA,pillow,NA,furry pillow,NA,furry,pillow furry
+22,adj,NA,shovel,NA,striped shovel,NA,striped,shovel striped
+22,adj_num,seven,pears,wooden,seven wooden pears,False,NA,pears wooden seven
+22,num,NA,shirts,two,two shirts,False,NA,shirts two
+22,adj_num,three,spatulas,wooden,three wooden spatulas,False,NA,spatulas wooden three
+22,num,NA,trays,ten,ten trays,False,NA,trays ten
+22,num,NA,shoes,nine,nine shoes,False,NA,shoes nine
+22,adj_num,seven,shovels,striped,seven striped shovels,False,NA,shovels striped seven
+22,adj,NA,chair,stone,stone chair,False,NA,chair stone
+22,adj_num,one,pillow,furry,one furry pillow,False,NA,pillow furry one
+22,adj_num,seven,hats,purple,seven purple hats,False,NA,hats purple seven
+22,adj,NA,shirt,orange,orange shirt,False,NA,shirt orange
+22,adj_num,eight,trays,dirty,eight dirty trays,False,NA,trays dirty eight
+22,adj_num,two,darts,green,two green darts,False,NA,darts green two
+22,adj_num,seven,pineapples,stone,seven stone pineapples,False,NA,pineapples stone seven
+22,num,NA,shovels,eight,eight shovels,False,NA,shovels eight
+22,adj_num,eight,chairs,orange,eight orange chairs,False,NA,chairs orange eight
+22,adj_num,four,vases,orange,four orange vases,False,NA,vases orange four
+22,num,NA,scarfs,six,six scarfs,False,NA,scarfs six
+22,adj_num,five,bananas,stone,five stone bananas,False,NA,bananas stone five
+22,adj,NA,pillow,orange,orange pillow,False,NA,pillow orange
+22,adj_num,five,cows,stone,five stone cows,False,NA,cows stone five
+22,num,NA,leaves,six,six leaves,False,NA,leaves six
+22,adj_num,eight,suitcases,orange,eight orange suitcases,False,NA,suitcases orange eight
+22,adj_num,two,lamps,blue,two blue lamps,False,NA,lamps blue two
+22,adj,NA,leaf,purple,purple leaf,False,NA,leaf purple
+22,adj,NA,pitcher,purple,purple pitcher,False,NA,pitcher purple
+22,adj,NA,lamp,dirty,dirty lamp,False,NA,lamp dirty
+22,adj,NA,tray,blue,blue tray,False,NA,tray blue
+22,adj_num,six,couches,blue,six blue couches,False,NA,couches blue six
+22,adj,NA,pig,wooden,wooden pig,False,NA,pig wooden
+22,adj_num,six,ribbons,striped,six striped ribbons,False,NA,ribbons striped six
+22,adj_num,three,cars,dirty,three dirty cars,False,NA,cars dirty three
+22,adj_num,nine,shirts,blue,nine blue shirts,False,NA,shirts blue nine
+22,adj_num,eight,pigs,dirty,eight dirty pigs,False,NA,pigs dirty eight
+22,num,NA,suitcases,four,four suitcases,False,NA,suitcases four
+22,adj_num,one,box,blue,one blue box,False,NA,box blue one
+22,adj_num,four,ducks,wooden,four wooden ducks,False,NA,ducks wooden four
+22,adj_num,nine,pitchers,spotted,nine spotted pitchers,False,NA,pitchers spotted nine
+22,adj_num,four,keys,striped,four striped keys,False,NA,keys striped four
+22,adj_num,one,horse,furry,one furry horse,False,NA,horse furry one
+22,num,NA,handbags,nine,nine handbags,False,NA,handbags nine
+22,num,NA,vases,nine,nine vases,False,NA,vases nine
+22,adj,NA,cherry,stone,stone cherry,False,NA,cherry stone
+22,adj,NA,key,dirty,dirty key,False,NA,key dirty
+22,adj_num,nine,leaves,dirty,nine dirty leaves,False,NA,leaves dirty nine
+22,num,NA,pigs,five,five pigs,False,NA,pigs five
+22,adj_num,six,handbags,purple,six purple handbags,False,NA,handbags purple six
+22,adj_num,three,cherries,spotted,three spotted cherries,False,NA,cherries spotted three
+22,adj_num,nine,bowls,stone,nine stone bowls,False,NA,bowls stone nine
+22,adj_num,three,shoes,wooden,three wooden shoes,False,NA,shoes wooden three
+22,adj_num,six,scarfs,striped,six striped scarfs,False,NA,scarfs striped six
+23,num,NA,leaves,NA,eight leaves,NA,eight,leaves eight
+23,adj,NA,car,NA,purple car,NA,purple,car purple
+23,num,NA,vases,NA,seven vases,NA,seven,vases seven
+23,num,NA,handbags,NA,five handbags,NA,five,handbags five
+23,num,NA,darts,NA,eight darts,NA,eight,darts eight
+23,adj,NA,bowl,NA,stone bowl,NA,stone,bowl stone
+23,adj,NA,shovel,NA,blue shovel,NA,blue,shovel blue
+23,num,NA,boxes,NA,eight boxes,NA,eight,boxes eight
+23,num,NA,hats,NA,nine hats,NA,nine,hats nine
+23,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+23,adj,NA,suitcase,NA,blue suitcase,NA,blue,suitcase blue
+23,adj,NA,banana,NA,wooden banana,NA,wooden,banana wooden
+23,num,NA,pears,NA,two pears,NA,two,pears two
+23,num,NA,cars,NA,six cars,NA,six,cars six
+23,adj,NA,chair,NA,striped chair,NA,striped,chair striped
+23,num,NA,chairs,NA,five chairs,NA,five,chairs five
+23,adj,NA,spatula,NA,purple spatula,NA,purple,spatula purple
+23,num,NA,shoes,NA,six shoes,NA,six,shoes six
+23,adj,NA,ribbon,NA,dirty ribbon,NA,dirty,ribbon dirty
+23,num,NA,suitcase,NA,one suitcase,NA,one,suitcase one
+23,adj,NA,key,NA,blue key,NA,blue,key blue
+23,adj,NA,hat,NA,furry hat,NA,furry,hat furry
+23,adj,NA,lamp,NA,wooden lamp,NA,wooden,lamp wooden
+23,num,NA,horses,NA,nine horses,NA,nine,horses nine
+23,num,NA,ducks,NA,nine ducks,NA,nine,ducks nine
+23,num,NA,keys,NA,five keys,NA,five,keys five
+23,adj,NA,horse,NA,spotted horse,NA,spotted,horse spotted
+23,adj,NA,vase,NA,spotted vase,NA,spotted,vase spotted
+23,adj,NA,pineapple,NA,dirty pineapple,NA,dirty,pineapple dirty
+23,adj,NA,couch,NA,furry couch,NA,furry,couch furry
+23,adj_num,two,vases,green,two green vases,False,NA,vases green two
+23,adj,NA,hat,purple,purple hat,False,NA,hat purple
+23,adj_num,eight,shoes,furry,eight furry shoes,False,NA,shoes furry eight
+23,adj,NA,pineapple,dirty,dirty pineapple,False,NA,pineapple dirty
+23,adj_num,one,car,wooden,one wooden car,False,NA,car wooden one
+23,adj_num,one,pillow,furry,one furry pillow,False,NA,pillow furry one
+23,adj_num,nine,spatulas,spotted,nine spotted spatulas,False,NA,spatulas spotted nine
+23,adj_num,nine,pears,spotted,nine spotted pears,False,NA,pears spotted nine
+23,adj_num,five,scarfs,green,five green scarfs,False,NA,scarfs green five
+23,adj_num,eight,cherries,green,eight green cherries,False,NA,cherries green eight
+23,num,NA,leaves,five,five leaves,False,NA,leaves five
+23,adj_num,ten,ducks,spotted,ten spotted ducks,False,NA,ducks spotted ten
+23,adj_num,six,horses,dirty,six dirty horses,False,NA,horses dirty six
+23,adj_num,one,shovel,dirty,one dirty shovel,False,NA,shovel dirty one
+23,adj_num,four,boxes,green,four green boxes,False,NA,boxes green four
+23,adj_num,eight,couches,blue,eight blue couches,False,NA,couches blue eight
+23,adj_num,three,handbags,dirty,three dirty handbags,False,NA,handbags dirty three
+23,adj_num,seven,chairs,furry,seven furry chairs,False,NA,chairs furry seven
+23,adj,NA,pear,spotted,spotted pear,False,NA,pear spotted
+23,num,NA,scarfs,seven,seven scarfs,False,NA,scarfs seven
+23,adj_num,five,pineapples,wooden,five wooden pineapples,False,NA,pineapples wooden five
+23,adj,NA,leaf,wooden,wooden leaf,False,NA,leaf wooden
+23,adj_num,six,pitchers,blue,six blue pitchers,False,NA,pitchers blue six
+23,num,NA,pitchers,eight,eight pitchers,False,NA,pitchers eight
+23,num,NA,bowls,eight,eight bowls,False,NA,bowls eight
+23,num,NA,lamps,two,two lamps,False,NA,lamps two
+23,adj_num,five,bananas,green,five green bananas,False,NA,bananas green five
+23,adj_num,two,shirts,spotted,two spotted shirts,False,NA,shirts spotted two
+23,adj_num,four,pigs,wooden,four wooden pigs,False,NA,pigs wooden four
+23,num,NA,trays,seven,seven trays,False,NA,trays seven
+23,adj_num,three,suitcases,blue,three blue suitcases,False,NA,suitcases blue three
+23,adj,NA,scarf,furry,furry scarf,False,NA,scarf furry
+23,adj_num,nine,cows,spotted,nine spotted cows,False,NA,cows spotted nine
+23,num,NA,pears,five,five pears,False,NA,pears five
+23,num,NA,bananas,four,four bananas,False,NA,bananas four
+23,adj_num,three,lamps,stone,three stone lamps,False,NA,lamps stone three
+23,adj_num,two,trays,stone,two stone trays,False,NA,trays stone two
+23,adj,NA,couch,green,green couch,False,NA,couch green
+23,num,NA,handbags,seven,seven handbags,False,NA,handbags seven
+23,adj_num,one,leaf,spotted,one spotted leaf,False,NA,leaf spotted one
+23,adj,NA,lamp,blue,blue lamp,False,NA,lamp blue
+23,adj_num,eight,darts,striped,eight striped darts,False,NA,darts striped eight
+23,adj,NA,duck,stone,stone duck,False,NA,duck stone
+23,adj,NA,chair,purple,purple chair,False,NA,chair purple
+23,adj_num,six,bowls,wooden,six wooden bowls,False,NA,bowls wooden six
+23,adj,NA,car,green,green car,False,NA,car green
+23,adj_num,two,hats,dirty,two dirty hats,False,NA,hats dirty two
+23,adj_num,four,keys,blue,four blue keys,False,NA,keys blue four
+23,adj_num,five,ribbons,striped,five striped ribbons,False,NA,ribbons striped five
+23,num,NA,pigs,nine,nine pigs,False,NA,pigs nine
+24,adj,NA,shirt,NA,stone shirt,NA,stone,shirt stone
+24,adj,NA,spatula,NA,green spatula,NA,green,spatula green
+24,num,NA,ribbon,NA,one ribbon,NA,one,one ribbon
+24,num,NA,cherries,NA,two cherries,NA,two,two cherries
+24,num,NA,leaf,NA,one leaf,NA,one,one leaf
+24,num,NA,ducks,NA,three ducks,NA,three,three ducks
+24,num,NA,cows,NA,nine cows,NA,nine,nine cows
+24,num,NA,shirts,NA,five shirts,NA,five,five shirts
+24,adj,NA,lamp,NA,dirty lamp,NA,dirty,dirty lamp
+24,adj,NA,banana,NA,dirty banana,NA,dirty,dirty banana
+24,num,NA,pigs,NA,four pigs,NA,four,pigs four
+24,adj,NA,handbag,NA,furry handbag,NA,furry,handbag furry
+24,adj,NA,box,NA,stone box,NA,stone,stone box
+24,adj,NA,horse,NA,dirty horse,NA,dirty,horse dirty
+24,num,NA,handbag,NA,one handbag,NA,one,one handbag
+24,num,NA,bananas,NA,nine bananas,NA,nine,nine bananas
+24,adj,NA,hat,NA,blue hat,NA,blue,blue hat
+24,num,NA,chairs,NA,eight chairs,NA,eight,eight chairs
+24,adj,NA,couch,NA,furry couch,NA,furry,furry couch
+24,num,NA,spatula,NA,one spatula,NA,one,one spatula
+24,num,NA,couches,NA,four couches,NA,four,four couches
+24,num,NA,scarfs,NA,two scarfs,NA,two,two scarfs
+24,adj,NA,pineapple,NA,wooden pineapple,NA,wooden,wooden pineapple
+24,adj,NA,dart,NA,spotted dart,NA,spotted,dart spotted
+24,adj,NA,car,NA,stone car,NA,stone,stone car
+24,adj,NA,cherry,NA,green cherry,NA,green,green cherry
+24,adj,NA,vase,NA,wooden vase,NA,wooden,vase wooden
+24,num,NA,car,NA,one car,NA,one,car one
+24,adj,NA,pitcher,NA,wooden pitcher,NA,wooden,pitcher wooden
+24,num,NA,suitcases,NA,four suitcases,NA,four,four suitcases
+24,adj,NA,cow,wooden,wooden cow,False,NA,cow wooden
+24,adj_num,three,horses,stone,three stone horses,False,NA,horses three stone
+24,adj,NA,tray,stone,stone tray,False,NA,stone tray
+24,adj_num,seven,darts,green,seven green darts,False,NA,darts seven green
+24,adj,NA,duck,spotted,spotted duck,False,NA,spotted duck
+24,adj_num,eight,cows,stone,eight stone cows,False,NA,cows stone eight
+24,adj_num,seven,scarfs,orange,seven orange scarfs,False,NA,scarfs orange seven
+24,adj_num,one,hat,spotted,one spotted hat,False,NA,hat one spotted
+24,adj_num,eight,pigs,wooden,eight wooden pigs,False,NA,pigs wooden eight
+24,adj_num,four,pillows,striped,four striped pillows,False,NA,pillows striped four
+24,adj_num,six,shovels,green,six green shovels,False,NA,green six shovels
+24,adj_num,nine,lamps,purple,nine purple lamps,False,NA,nine purple lamps
+24,adj_num,nine,ducks,green,nine green ducks,False,NA,ducks nine green
+24,adj_num,nine,bowls,striped,nine striped bowls,False,NA,bowls nine striped
+24,adj_num,four,trays,dirty,four dirty trays,False,NA,trays four dirty
+24,adj,NA,vase,wooden,wooden vase,False,NA,vase wooden
+24,num,NA,chairs,five,five chairs,False,NA,five chairs
+24,adj_num,three,shoes,furry,three furry shoes,False,NA,three furry shoes
+24,adj_num,four,bananas,spotted,four spotted bananas,False,NA,bananas four spotted
+24,adj_num,three,couches,wooden,three wooden couches,False,NA,couches three wooden
+24,adj_num,two,suitcases,wooden,two wooden suitcases,False,NA,suitcases two wooden
+24,adj,NA,handbag,orange,orange handbag,False,NA,handbag orange
+24,adj_num,three,pineapples,stone,three stone pineapples,False,NA,pineapples three stone
+24,adj_num,two,chairs,green,two green chairs,False,NA,green two chairs
+24,num,NA,bowls,two,two bowls,False,NA,bowls two
+24,num,NA,bananas,nine,nine bananas,False,NA,nine bananas
+24,adj_num,ten,shirts,furry,ten furry shirts,False,NA,furry ten shirts
+24,num,NA,spatulas,two,two spatulas,False,NA,two spatulas
+24,adj,NA,lamp,purple,purple lamp,False,NA,lamp purple
+24,adj_num,nine,pears,spotted,nine spotted pears,False,NA,pears spotted nine
+24,adj_num,seven,cars,dirty,seven dirty cars,False,NA,seven dirty cars
+24,adj,NA,shovel,orange,orange shovel,False,NA,orange shovel
+24,adj_num,five,cherries,green,five green cherries,False,NA,cherries green five
+24,num,NA,pitcher,one,one pitcher,False,NA,one pitcher
+24,adj_num,three,vases,wooden,three wooden vases,False,NA,vases three wooden
+24,num,NA,couch,one,one couch,False,NA,couch one
+24,adj_num,four,leaves,wooden,four wooden leaves,False,NA,four wooden leaves
+24,num,NA,shirts,four,four shirts,False,NA,four shirts
+24,num,NA,boxes,seven,seven boxes,False,NA,seven boxes
+24,adj_num,two,keys,green,two green keys,False,NA,keys green two
+24,adj_num,five,ribbons,stone,five stone ribbons,False,NA,ribbons stone five
+24,num,NA,vases,nine,nine vases,False,NA,nine vases
+24,num,NA,handbags,seven,seven handbags,False,NA,seven handbags
+24,adj_num,three,boxes,furry,three furry boxes,False,NA,furry three boxes
+24,adj_num,two,handbags,green,two green handbags,False,NA,two green handbags
+24,adj,NA,leaf,orange,orange leaf,False,NA,leaf orange
+24,adj,NA,car,blue,blue car,False,NA,car blue
+24,adj,NA,couch,blue,blue couch,False,NA,couch blue
+24,adj_num,four,pitchers,striped,four striped pitchers,False,NA,four striped pitchers
+24,adj_num,seven,spatulas,wooden,seven wooden spatulas,False,NA,wooden seven spatulas
+25,adj,NA,vase,NA,spotted vase,NA,spotted,spotted vase
+25,adj,NA,hat,NA,dirty hat,NA,dirty,dirty hat
+25,adj,NA,lamp,NA,purple lamp,NA,purple,purple lamp
+25,num,NA,suitcases,NA,seven suitcases,NA,seven,seven suitcases
+25,num,NA,cars,NA,seven cars,NA,seven,seven cars
+25,adj,NA,pillow,NA,green pillow,NA,green,green pillow
+25,adj,NA,pear,NA,green pear,NA,green,green pear
+25,adj,NA,duck,NA,orange duck,NA,orange,orange duck
+25,adj,NA,car,NA,dirty car,NA,dirty,dirty car
+25,adj,NA,shovel,NA,purple shovel,NA,purple,purple shovel
+25,num,NA,pitchers,NA,ten pitchers,NA,ten,ten pitchers
+25,num,NA,pears,NA,eight pears,NA,eight,eight pears
+25,num,NA,ribbons,NA,nine ribbons,NA,nine,nine ribbons
+25,num,NA,bowls,NA,six bowls,NA,six,six bowls
+25,num,NA,cow,NA,one cow,NA,one,one cow
+25,num,NA,bananas,NA,three bananas,NA,three,three bananas
+25,num,NA,shovels,NA,five shovels,NA,five,five shovels
+25,adj,NA,scarf,NA,spotted scarf,NA,spotted,spotted scarf
+25,num,NA,cherries,NA,seven cherries,NA,seven,seven cherries
+25,num,NA,spatulas,NA,seven spatulas,NA,seven,seven spatulas
+25,num,NA,couches,NA,eight couches,NA,eight,eight couches
+25,adj,NA,tray,NA,dirty tray,NA,dirty,dirty tray
+25,adj,NA,pitcher,NA,striped pitcher,NA,striped,striped pitcher
+25,num,NA,ducks,NA,eight ducks,NA,eight,eight ducks
+25,adj,NA,handbag,NA,purple handbag,NA,purple,purple handbag
+25,adj,NA,spatula,NA,spotted spatula,NA,spotted,spotted spatula
+25,num,NA,darts,NA,six darts,NA,six,six darts
+25,adj,NA,couch,NA,green couch,NA,green,green couch
+25,adj,NA,suitcase,NA,green suitcase,NA,green,green suitcase
+25,num,NA,keys,NA,two keys,NA,two,two keys
+25,adj_num,nine,hats,wooden,nine wooden hats,False,NA,hats wooden nine
+25,adj,NA,spatula,dirty,dirty spatula,False,NA,spatula dirty
+25,adj,NA,cow,dirty,dirty cow,False,NA,cow dirty
+25,adj_num,one,car,green,one green car,False,NA,car one green
+25,adj_num,nine,ribbons,blue,nine blue ribbons,False,NA,ribbons nine blue
+25,num,NA,pigs,six,six pigs,False,NA,pigs six
+25,adj_num,eight,suitcases,spotted,eight spotted suitcases,False,NA,suitcases eight spotted
+25,adj_num,nine,couches,orange,nine orange couches,False,NA,couches nine orange
+25,adj_num,two,leaves,striped,two striped leaves,False,NA,leaves two striped
+25,adj_num,two,boxes,stone,two stone boxes,False,NA,boxes two stone
+25,adj_num,six,shovels,orange,six orange shovels,False,NA,shovels six orange
+25,adj_num,seven,pineapples,dirty,seven dirty pineapples,False,NA,dirty seven pineapples
+25,num,NA,vases,nine,nine vases,False,NA,vases nine
+25,adj,NA,leaf,green,green leaf,False,NA,leaf green
+25,adj_num,seven,chairs,blue,seven blue chairs,False,NA,chairs blue seven
+25,adj_num,four,cows,stone,four stone cows,False,NA,cows four stone
+25,adj_num,ten,scarfs,furry,ten furry scarfs,False,NA,scarfs ten furry
+25,adj_num,four,pigs,striped,four striped pigs,False,NA,pigs four striped
+25,adj_num,six,darts,wooden,six wooden darts,False,NA,darts six wooden
+25,num,NA,bananas,five,five bananas,False,NA,bananas five
+25,adj_num,four,pears,stone,four stone pears,False,NA,pears four stone
+25,adj_num,nine,ducks,spotted,nine spotted ducks,False,NA,ducks nine spotted
+25,adj,NA,pillow,striped,striped pillow,False,NA,pillow striped
+25,adj_num,nine,cherries,dirty,nine dirty cherries,False,NA,cherries nine dirty
+25,adj,NA,lamp,striped,striped lamp,False,NA,lamp striped
+25,adj_num,eight,pitchers,dirty,eight dirty pitchers,False,NA,pitchers eight dirty
+25,num,NA,pillows,six,six pillows,False,NA,pillows six
+25,adj_num,two,pillows,orange,two orange pillows,False,NA,pillows two orange
+25,num,NA,ducks,five,five ducks,False,NA,ducks five
+25,adj_num,seven,keys,striped,seven striped keys,False,NA,keys seven striped
+25,num,NA,hats,four,four hats,False,NA,hats four
+25,adj_num,four,horses,dirty,four dirty horses,False,NA,horses four dirty
+25,adj_num,nine,shirts,furry,nine furry shirts,False,NA,shirts nine furry
+25,adj,NA,dart,spotted,spotted dart,False,NA,dart spotted
+25,adj,NA,tray,spotted,spotted tray,False,NA,tray spotted
+25,adj_num,one,bowl,wooden,one wooden bowl,False,NA,bowl one wooden
+25,adj_num,five,bananas,dirty,five dirty bananas,False,NA,bananas five dirty
+25,num,NA,pineapples,two,two pineapples,False,NA,pineapples two
+25,adj_num,seven,trays,green,seven green trays,False,NA,trays green seven
+25,adj_num,four,handbags,blue,four blue handbags,False,NA,handbags four blue
+25,num,NA,couches,four,four couches,False,NA,couches four
+25,num,NA,chairs,nine,nine chairs,False,NA,chairs nine
+25,adj_num,eight,vases,orange,eight orange vases,False,NA,vases eight orange
+25,adj_num,six,lamps,wooden,six wooden lamps,False,NA,lamps six wooden
+25,adj_num,eight,shoes,stone,eight stone shoes,False,NA,shoes eight stone
+25,adj_num,ten,spatulas,striped,ten striped spatulas,False,NA,spatulas ten striped
+25,adj,NA,scarf,orange,orange scarf,False,NA,scarf orange
+25,num,NA,horses,seven,seven horses,False,NA,horses seven
+25,adj,NA,pig,dirty,dirty pig,False,NA,pig dirty
+25,adj,NA,handbag,dirty,dirty handbag,False,NA,handbag dirty
+26,num,NA,cows,NA,four cows,NA,four,cows four
+26,num,NA,lamps,NA,five lamps,NA,five,lamps five
+26,adj,NA,suitcase,NA,spotted suitcase,NA,spotted,suitcase spotted
+26,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+26,adj,NA,scarf,NA,blue scarf,NA,blue,scarf blue
+26,num,NA,keys,NA,eight keys,NA,eight,keys eight
+26,num,NA,trays,NA,eight trays,NA,eight,trays eight
+26,num,NA,handbags,NA,eight handbags,NA,eight,handbags eight
+26,num,NA,darts,NA,four darts,NA,four,darts four
+26,adj,NA,key,NA,purple key,NA,purple,key purple
+26,num,NA,spatulas,NA,eight spatulas,NA,eight,spatulas eight
+26,adj,NA,pitcher,NA,dirty pitcher,NA,dirty,pitcher dirty
+26,adj,NA,dart,NA,purple dart,NA,purple,dart purple
+26,num,NA,shoe,NA,one shoe,NA,one,shoe one
+26,num,NA,horses,NA,nine horses,NA,nine,horses nine
+26,adj,NA,shoe,NA,orange shoe,NA,orange,shoe orange
+26,num,NA,shirts,NA,two shirts,NA,two,shirts two
+26,adj,NA,shirt,NA,green shirt,NA,green,shirt green
+26,num,NA,pillows,NA,four pillows,NA,four,pillows four
+26,adj,NA,leaf,NA,purple leaf,NA,purple,leaf purple
+26,adj,NA,chair,NA,green chair,NA,green,chair green
+26,adj,NA,horse,NA,dirty horse,NA,dirty,horse dirty
+26,adj,NA,ribbon,NA,furry ribbon,NA,furry,ribbon furry
+26,adj,NA,hat,NA,striped hat,NA,striped,hat striped
+26,num,NA,pitchers,NA,three pitchers,NA,three,pitchers three
+26,num,NA,cherries,NA,six cherries,NA,six,six cherries
+26,num,NA,ducks,NA,ten ducks,NA,ten,ducks ten
+26,num,NA,leaves,NA,seven leaves,NA,seven,leaves seven
+26,adj,NA,car,NA,green car,NA,green,car green
+26,adj,NA,pillow,NA,furry pillow,NA,furry,pillow furry
+26,adj_num,nine,cars,striped,nine striped cars,False,NA,cars nine striped
+26,adj_num,three,cows,wooden,three wooden cows,False,NA,cows wooden three
+26,num,NA,cars,five,five cars,False,NA,cars five
+26,adj,NA,vase,orange,orange vase,False,NA,vase orange
+26,adj,NA,couch,green,green couch,False,NA,couch green
+26,adj,NA,handbag,green,green handbag,False,NA,handbag green
+26,adj_num,seven,scarfs,purple,seven purple scarfs,False,NA,scarfs purple seven
+26,adj_num,three,ducks,stone,three stone ducks,False,NA,ducks stone three
+26,adj_num,seven,handbags,striped,seven striped handbags,False,NA,handbags striped seven
+26,adj_num,eight,bananas,green,eight green bananas,False,NA,bananas green eight
+26,adj_num,six,pigs,furry,six furry pigs,False,NA,pigs furry six
+26,adj_num,ten,spatulas,orange,ten orange spatulas,False,NA,spatulas orange ten
+26,adj_num,eight,cherries,dirty,eight dirty cherries,False,NA,cherries dirty eight
+26,adj_num,seven,suitcases,purple,seven purple suitcases,False,NA,suitcases purple seven
+26,num,NA,darts,three,three darts,False,NA,darts three
+26,adj_num,one,ribbon,wooden,one wooden ribbon,False,NA,ribbon wooden one
+26,num,NA,ducks,four,four ducks,False,NA,ducks four
+26,adj_num,two,horses,stone,two stone horses,False,NA,horses stone two
+26,adj_num,two,chairs,wooden,two wooden chairs,False,NA,chairs wooden two
+26,adj_num,eight,trays,orange,eight orange trays,False,NA,trays orange eight
+26,num,NA,pear,one,one pear,False,NA,pear one
+26,adj_num,two,pitchers,blue,two blue pitchers,False,NA,pitchers blue two
+26,adj_num,six,leaves,wooden,six wooden leaves,False,NA,leaves wooden six
+26,adj,NA,spatula,spotted,spotted spatula,False,NA,spatula spotted
+26,adj_num,three,shirts,green,three green shirts,False,NA,shirts three green
+26,num,NA,horses,ten,ten horses,False,NA,horses ten
+26,num,NA,box,one,one box,False,NA,box one
+26,adj_num,nine,boxes,furry,nine furry boxes,False,NA,boxes furry nine
+26,adj_num,five,keys,dirty,five dirty keys,False,NA,keys dirty five
+26,adj,NA,ribbon,spotted,spotted ribbon,False,NA,ribbon spotted
+26,num,NA,scarfs,three,three scarfs,False,NA,scarfs three
+26,adj,NA,shoe,furry,furry shoe,False,NA,shoe furry
+26,num,NA,bowls,seven,seven bowls,False,NA,bowls seven
+26,adj_num,two,shovels,stone,two stone shovels,False,NA,shovels stone two
+26,adj_num,ten,couches,spotted,ten spotted couches,False,NA,spotted ten couches
+26,adj,NA,pear,dirty,dirty pear,False,NA,pear dirty
+26,adj_num,six,darts,striped,six striped darts,False,NA,darts striped six
+26,adj,NA,cow,furry,furry cow,False,NA,cow furry
+26,adj_num,four,vases,green,four green vases,False,NA,vases green four
+26,adj_num,ten,hats,green,ten green hats,False,NA,hats green ten
+26,adj_num,five,bowls,purple,five purple bowls,False,NA,bowls purple five
+26,adj,NA,duck,orange,orange duck,False,NA,duck orange
+26,num,NA,pillows,ten,ten pillows,False,NA,pillows ten
+26,adj_num,seven,lamps,wooden,seven wooden lamps,False,NA,lamps wooden seven
+26,adj_num,six,shoes,spotted,six spotted shoes,False,NA,shoes six spotted
+26,adj_num,seven,pillows,furry,seven furry pillows,False,NA,pillows furry seven
+26,adj,NA,banana,spotted,spotted banana,False,NA,banana spotted
+26,adj_num,one,pineapple,stone,one stone pineapple,False,NA,pineapple stone one
+26,adj_num,nine,pears,stone,nine stone pears,False,NA,pears stone nine
+26,num,NA,cherries,four,four cherries,False,NA,cherries four
+27,adj,NA,cow,NA,striped cow,NA,striped,cow striped
+27,adj,NA,horse,NA,dirty horse,NA,dirty,horse dirty
+27,adj,NA,leaf,NA,spotted leaf,NA,spotted,leaf spotted
+27,adj,NA,cherry,NA,green cherry,NA,green,cherry green
+27,num,NA,spatulas,NA,four spatulas,NA,four,spatulas four
+27,adj,NA,pitcher,NA,purple pitcher,NA,purple,pitcher purple
+27,num,NA,darts,NA,three darts,NA,three,darts three
+27,num,NA,pineapples,NA,nine pineapples,NA,nine,pineapples nine
+27,num,NA,bowls,NA,four bowls,NA,four,bowls four
+27,num,NA,trays,NA,nine trays,NA,nine,trays nine
+27,num,NA,handbags,NA,two handbags,NA,two,handbags two
+27,adj,NA,spatula,NA,dirty spatula,NA,dirty,spatula dirty
+27,num,NA,hat,NA,one hat,NA,one,hat one
+27,num,NA,vases,NA,ten vases,NA,ten,vases ten
+27,adj,NA,pear,NA,green pear,NA,green,pear green
+27,adj,NA,tray,NA,striped tray,NA,striped,tray striped
+27,adj,NA,suitcase,NA,purple suitcase,NA,purple,suitcase purple
+27,num,NA,cows,NA,four cows,NA,four,cows four
+27,adj,NA,duck,NA,spotted duck,NA,spotted,duck spotted
+27,adj,NA,pillow,NA,dirty pillow,NA,dirty,pillow dirty
+27,adj,NA,pineapple,NA,dirty pineapple,NA,dirty,pineapple dirty
+27,num,NA,couches,NA,nine couches,NA,nine,couches nine
+27,adj,NA,banana,NA,spotted banana,NA,spotted,banana spotted
+27,adj,NA,ribbon,NA,dirty ribbon,NA,dirty,ribbon dirty
+27,adj,NA,dart,NA,orange dart,NA,orange,dart orange
+27,num,NA,pears,NA,six pears,NA,six,pears six
+27,num,NA,shoes,NA,ten shoes,NA,ten,shoes ten
+27,num,NA,suitcases,NA,ten suitcases,NA,ten,suitcases ten
+27,num,NA,ribbon,NA,one ribbon,NA,one,ribbon one
+27,num,NA,pigs,NA,three pigs,NA,three,three pigs
+27,adj_num,two,ducks,spotted,two spotted ducks,False,NA,ducks two spotted
+27,num,NA,pitcher,one,one pitcher,False,NA,pitcher one
+27,adj_num,eight,horses,furry,eight furry horses,False,NA,horses eight furry
+27,adj,NA,lamp,orange,orange lamp,False,NA,lamp orange
+27,num,NA,vases,nine,nine vases,False,NA,vases nine
+27,adj_num,three,chairs,spotted,three spotted chairs,False,NA,chairs spotted three
+27,num,NA,shovels,ten,ten shovels,False,NA,shovels ten
+27,adj_num,four,boxes,dirty,four dirty boxes,False,NA,boxes four dirty
+27,adj_num,ten,hats,green,ten green hats,False,NA,hats green ten
+27,adj_num,four,leaves,spotted,four spotted leaves,False,NA,leaves spotted four
+27,adj_num,four,scarfs,furry,four furry scarfs,False,NA,scarfs four furry
+27,adj_num,two,suitcases,dirty,two dirty suitcases,False,NA,dirty two suitcases
+27,adj_num,one,ribbon,green,one green ribbon,False,NA,ribbon green one
+27,adj,NA,pineapple,spotted,spotted pineapple,False,NA,pineapple spotted
+27,adj_num,ten,lamps,green,ten green lamps,False,NA,lamps green ten
+27,adj_num,eight,pitchers,purple,eight purple pitchers,False,NA,pitchers purple eight
+27,adj,NA,duck,green,green duck,False,NA,duck green
+27,adj,NA,bowl,purple,purple bowl,False,NA,bowl purple
+27,adj_num,five,vases,orange,five orange vases,False,NA,vases orange five
+27,adj_num,six,keys,purple,six purple keys,False,NA,keys purple six
+27,adj_num,one,spatula,green,one green spatula,False,NA,spatula green one
+27,adj,NA,shoe,furry,furry shoe,False,NA,shoe furry
+27,adj_num,three,shirts,spotted,three spotted shirts,False,NA,shirts spotted three
+27,adj_num,two,darts,furry,two furry darts,False,NA,darts furry two
+27,adj_num,four,pillows,purple,four purple pillows,False,NA,pillows purple four
+27,num,NA,bananas,nine,nine bananas,False,NA,bananas nine
+27,adj_num,ten,bowls,dirty,ten dirty bowls,False,NA,bowls dirty ten
+27,num,NA,lamps,ten,ten lamps,False,NA,lamps ten
+27,adj_num,ten,handbags,blue,ten blue handbags,False,NA,handbags blue ten
+27,adj_num,six,cherries,dirty,six dirty cherries,False,NA,cherries dirty six
+27,adj_num,nine,trays,stone,nine stone trays,False,NA,trays stone nine
+27,adj_num,seven,shoes,dirty,seven dirty shoes,False,NA,shoes dirty seven
+27,adj_num,one,pig,striped,one striped pig,False,NA,pig striped one
+27,num,NA,chair,one,one chair,False,NA,chair one
+27,adj,NA,leaf,striped,striped leaf,False,NA,leaf striped
+27,adj,NA,handbag,green,green handbag,False,NA,handbag green
+27,adj_num,ten,bananas,green,ten green bananas,False,NA,bananas green ten
+27,num,NA,hats,seven,seven hats,False,NA,hats seven
+27,adj_num,four,shovels,green,four green shovels,False,NA,shovels green four
+27,adj,NA,cow,spotted,spotted cow,False,NA,cow spotted
+27,adj_num,five,pineapples,spotted,five spotted pineapples,False,NA,pineapples spotted five
+27,num,NA,scarfs,three,three scarfs,False,NA,scarfs three
+27,adj_num,five,cars,blue,five blue cars,False,NA,cars blue five
+27,adj,NA,spatula,blue,blue spatula,False,NA,spatula blue
+27,adj,NA,box,furry,furry box,False,NA,box furry
+27,num,NA,pineapples,five,five pineapples,False,NA,pineapples five
+27,adj_num,seven,cows,wooden,seven wooden cows,False,NA,cows wooden seven
+27,adj_num,eight,pears,green,eight green pears,False,NA,pears green eight
+27,adj_num,ten,couches,green,ten green couches,False,NA,couches green ten
+27,num,NA,cherries,five,five cherries,False,NA,cherries five
+28,num,NA,lamps,NA,seven lamps,NA,seven,lamps seven
+28,adj,NA,shovel,NA,stone shovel,NA,stone,shovel stone
+28,adj,NA,couch,NA,green couch,NA,green,couch green
+28,num,NA,trays,NA,seven trays,NA,seven,trays seven
+28,num,NA,cows,NA,six cows,NA,six,cows six
+28,num,NA,keys,NA,nine keys,NA,nine,keys nine
+28,num,NA,pigs,NA,five pigs,NA,five,pigs five
+28,adj,NA,key,NA,orange key,NA,orange,key orange
+28,num,NA,cars,NA,four cars,NA,four,cars four
+28,num,NA,ducks,NA,six ducks,NA,six,ducks six
+28,adj,NA,shirt,NA,purple shirt,NA,purple,shirt purple
+28,adj,NA,box,NA,spotted box,NA,spotted,box spotted
+28,num,NA,pillows,NA,six pillows,NA,six,pillows six
+28,adj,NA,tray,NA,purple tray,NA,purple,tray purple
+28,num,NA,shirts,NA,seven shirts,NA,seven,shirts seven
+28,adj,NA,pitcher,NA,green pitcher,NA,green,pitcher green
+28,adj,NA,leaf,NA,orange leaf,NA,orange,leaf orange
+28,adj,NA,spatula,NA,dirty spatula,NA,dirty,spatula dirty
+28,num,NA,shoes,NA,seven shoes,NA,seven,shoes seven
+28,adj,NA,hat,NA,purple hat,NA,purple,hat purple
+28,num,NA,pear,NA,one pear,NA,one,pear one
+28,adj,NA,ribbon,NA,purple ribbon,NA,purple,ribbon purple
+28,num,NA,scarfs,NA,four scarfs,NA,four,scarfs four
+28,adj,NA,pear,NA,dirty pear,NA,dirty,pear dirty
+28,num,NA,couches,NA,nine couches,NA,nine,couches nine
+28,adj,NA,shoe,NA,stone shoe,NA,stone,shoe stone
+28,adj,NA,duck,NA,spotted duck,NA,spotted,duck spotted
+28,adj,NA,vase,NA,spotted vase,NA,spotted,vase spotted
+28,num,NA,pitcher,NA,one pitcher,NA,one,pitcher one
+28,num,NA,vase,NA,one vase,NA,one,vase one
+28,num,NA,cherries,four,four cherries,False,NA,cherries four
+28,adj,NA,handbag,blue,blue handbag,False,NA,handbag blue
+28,adj_num,three,couches,furry,three furry couches,False,NA,couches three furry
+28,adj_num,two,darts,dirty,two dirty darts,False,NA,darts two dirty
+28,adj_num,four,scarfs,blue,four blue scarfs,False,NA,scarfs blue four
+28,adj_num,ten,trays,orange,ten orange trays,False,NA,trays orange ten
+28,num,NA,boxes,nine,nine boxes,False,NA,boxes nine
+28,adj_num,eight,pigs,stone,eight stone pigs,False,NA,pigs stone eight
+28,adj_num,one,key,wooden,one wooden key,False,NA,key wooden one
+28,adj_num,eight,pears,green,eight green pears,False,NA,pears green eight
+28,adj,NA,leaf,stone,stone leaf,False,NA,leaf stone
+28,adj_num,four,ducks,orange,four orange ducks,False,NA,ducks orange four
+28,num,NA,handbag,one,one handbag,False,NA,handbag one
+28,adj_num,seven,pineapples,spotted,seven spotted pineapples,False,NA,pineapples spotted seven
+28,adj_num,three,suitcases,wooden,three wooden suitcases,False,NA,suitcases wooden three
+28,adj_num,six,vases,blue,six blue vases,False,NA,vases blue six
+28,adj_num,ten,hats,orange,ten orange hats,False,NA,hats orange ten
+28,adj_num,three,cars,striped,three striped cars,False,NA,cars striped three
+28,adj_num,five,cows,stone,five stone cows,False,NA,cows stone five
+28,adj,NA,shoe,green,green shoe,False,NA,shoe green
+28,adj_num,eight,horses,dirty,eight dirty horses,False,NA,horses dirty eight
+28,adj_num,two,bowls,green,two green bowls,False,NA,bowls green two
+28,num,NA,couches,two,two couches,False,NA,couches two
+28,adj,NA,tray,dirty,dirty tray,False,NA,tray dirty
+28,num,NA,pigs,five,five pigs,False,NA,pigs five
+28,adj_num,eight,spatulas,stone,eight stone spatulas,False,NA,spatulas stone eight
+28,num,NA,bananas,three,three bananas,False,NA,bananas three
+28,adj,NA,couch,green,green couch,False,NA,couch green
+28,adj,NA,shirt,spotted,spotted shirt,False,NA,shirt spotted
+28,adj,NA,chair,furry,furry chair,False,NA,chair furry
+28,adj_num,five,bananas,stone,five stone bananas,False,NA,bananas stone five
+28,adj_num,four,pitchers,stone,four stone pitchers,False,NA,pitchers stone four
+28,adj,NA,pitcher,stone,stone pitcher,False,NA,pitcher stone
+28,num,NA,scarfs,two,two scarfs,False,NA,scarfs two
+28,adj_num,eight,ribbons,spotted,eight spotted ribbons,False,NA,ribbons spotted eight
+28,adj_num,nine,boxes,wooden,nine wooden boxes,False,NA,boxes wooden nine
+28,num,NA,pears,eight,eight pears,False,NA,pears eight
+28,adj_num,one,pillow,orange,one orange pillow,False,NA,pillow orange one
+28,adj,NA,car,dirty,dirty car,False,NA,car dirty
+28,adj_num,five,shovels,green,five green shovels,False,NA,shovels green five
+28,adj_num,two,shoes,stone,two stone shoes,False,NA,shoes stone two
+28,adj_num,ten,shirts,purple,ten purple shirts,False,NA,shirts purple ten
+28,adj,NA,key,purple,purple key,False,NA,key purple
+28,num,NA,leaves,two,two leaves,False,NA,leaves two
+28,adj_num,seven,cherries,dirty,seven dirty cherries,False,NA,cherries dirty seven
+28,adj_num,five,handbags,green,five green handbags,False,NA,handbags green five
+28,adj_num,four,leaves,stone,four stone leaves,False,NA,leaves stone four
+28,num,NA,pitchers,ten,ten pitchers,False,NA,pitchers ten
+28,adj_num,nine,chairs,purple,nine purple chairs,False,NA,chairs purple nine
+28,adj_num,two,lamps,striped,two striped lamps,False,NA,lamps striped two
+29,num,NA,ribbons,NA,three ribbons,NA,three,ribbons three
+29,adj,NA,couch,NA,purple couch,NA,purple,couch purple
+29,num,NA,darts,NA,five darts,NA,five,darts five
+29,adj,NA,banana,NA,dirty banana,NA,dirty,banana dirty
+29,adj,NA,shoe,NA,green shoe,NA,green,shoe green
+29,num,NA,shoes,NA,two shoes,NA,two,shoes two
+29,adj,NA,tray,NA,striped tray,NA,striped,tray striped
+29,adj,NA,dart,NA,blue dart,NA,blue,dart blue
+29,num,NA,chairs,NA,three chairs,NA,three,chairs three
+29,adj,NA,bowl,NA,stone bowl,NA,stone,bowl stone
+29,adj,NA,vase,NA,green vase,NA,green,vase green
+29,num,NA,trays,NA,two trays,NA,two,trays two
+29,adj,NA,chair,NA,striped chair,NA,striped,chair striped
+29,adj,NA,spatula,NA,green spatula,NA,green,spatula green
+29,num,NA,bananas,NA,two bananas,NA,two,bananas two
+29,num,NA,boxes,NA,three boxes,NA,three,boxes three
+29,adj,NA,pear,NA,stone pear,NA,stone,pear stone
+29,num,NA,pineapples,NA,eight pineapples,NA,eight,pineapples eight
+29,num,NA,cars,NA,three cars,NA,three,cars three
+29,num,NA,leaves,NA,eight leaves,NA,eight,leaves eight
+29,adj,NA,car,NA,spotted car,NA,spotted,car spotted
+29,num,NA,horse,NA,one horse,NA,one,horse one
+29,adj,NA,cow,NA,stone cow,NA,stone,cow stone
+29,adj,NA,leaf,NA,wooden leaf,NA,wooden,leaf wooden
+29,num,NA,pigs,NA,nine pigs,NA,nine,pigs nine
+29,num,NA,shovels,NA,three shovels,NA,three,shovels three
+29,num,NA,suitcases,NA,seven suitcases,NA,seven,suitcases seven
+29,adj,NA,handbag,NA,purple handbag,NA,purple,handbag purple
+29,adj,NA,pillow,NA,dirty pillow,NA,dirty,pillow dirty
+29,num,NA,bowls,NA,four bowls,NA,four,bowls four
+29,adj_num,two,cars,spotted,two spotted cars,False,NA,spotted two cars
+29,adj_num,eight,suitcases,orange,eight orange suitcases,False,NA,suitcases eight orange
+29,adj_num,ten,handbags,furry,ten furry handbags,False,NA,handbags furry ten
+29,num,NA,chairs,ten,ten chairs,False,NA,chairs ten
+29,adj,NA,pitcher,purple,purple pitcher,False,NA,pitcher purple
+29,num,NA,cherries,ten,ten cherries,False,NA,cherries ten
+29,adj_num,seven,ribbons,spotted,seven spotted ribbons,False,NA,spotted seven ribbons
+29,adj_num,six,boxes,spotted,six spotted boxes,False,NA,spotted six boxes
+29,adj,NA,pig,furry,furry pig,False,NA,pig furry
+29,adj,NA,hat,striped,striped hat,False,NA,hat striped
+29,num,NA,boxes,ten,ten boxes,False,NA,boxes ten
+29,num,NA,shirts,six,six shirts,False,NA,shirts six
+29,adj,NA,bowl,dirty,dirty bowl,False,NA,bowl dirty
+29,adj,NA,couch,striped,striped couch,False,NA,couch striped
+29,adj_num,nine,vases,stone,nine stone vases,False,NA,vases nine stone
+29,num,NA,ducks,ten,ten ducks,False,NA,ducks ten
+29,adj_num,nine,pitchers,green,nine green pitchers,False,NA,pitchers nine green
+29,adj_num,three,darts,spotted,three spotted darts,False,NA,spotted three darts
+29,adj_num,ten,bananas,stone,ten stone bananas,False,NA,bananas ten stone
+29,num,NA,pitchers,five,five pitchers,False,NA,pitchers five
+29,adj_num,six,pigs,dirty,six dirty pigs,False,NA,dirty six pigs
+29,adj_num,five,couches,dirty,five dirty couches,False,NA,dirty five couches
+29,adj_num,ten,leaves,green,ten green leaves,False,NA,leaves ten green
+29,adj_num,seven,spatulas,spotted,seven spotted spatulas,False,NA,spatulas spotted seven
+29,adj,NA,box,green,green box,False,NA,box green
+29,num,NA,shoes,eight,eight shoes,False,NA,shoes eight
+29,adj,NA,horse,furry,furry horse,False,NA,horse furry
+29,adj_num,three,pillows,blue,three blue pillows,False,NA,blue three pillows
+29,adj_num,nine,lamps,purple,nine purple lamps,False,NA,purple nine lamps
+29,adj_num,six,horses,striped,six striped horses,False,NA,horses striped six
+29,num,NA,hat,one,one hat,False,NA,hat one
+29,adj_num,five,keys,green,five green keys,False,NA,keys green five
+29,adj_num,four,ducks,spotted,four spotted ducks,False,NA,ducks spotted four
+29,adj_num,one,pineapple,spotted,one spotted pineapple,False,NA,pineapple spotted one
+29,adj_num,ten,trays,dirty,ten dirty trays,False,NA,trays dirty ten
+29,adj_num,nine,hats,furry,nine furry hats,False,NA,hats furry nine
+29,adj_num,ten,chairs,dirty,ten dirty chairs,False,NA,chairs dirty ten
+29,num,NA,pineapples,ten,ten pineapples,False,NA,pineapples ten
+29,adj_num,seven,bowls,dirty,seven dirty bowls,False,NA,bowls dirty seven
+29,adj,NA,cherry,wooden,wooden cherry,False,NA,cherry wooden
+29,num,NA,leaves,four,four leaves,False,NA,leaves four
+29,adj_num,five,shoes,orange,five orange shoes,False,NA,shoes orange five
+29,adj_num,two,shovels,striped,two striped shovels,False,NA,shovels striped two
+29,adj_num,four,cows,striped,four striped cows,False,NA,cows striped four
+29,adj,NA,car,wooden,wooden car,False,NA,car wooden
+29,adj_num,seven,scarfs,blue,seven blue scarfs,False,NA,scarfs blue seven
+29,adj,NA,tray,blue,blue tray,False,NA,tray blue
+29,adj_num,one,shirt,blue,one blue shirt,False,NA,shirt blue one
+29,adj_num,nine,pears,dirty,nine dirty pears,False,NA,pears dirty nine
+29,adj_num,three,cherries,green,three green cherries,False,NA,cherries green three
