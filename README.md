@@ -1,5 +1,14 @@
 # Sebastian's Project: A Replication of Culbertson and Adger (2014)
 
+## Links
+
+Data visualization: https://nlp.stanford.edu/~sebschu/experiments/visualize.html
+
+Experiment:
+- Condition 1: https://nlp.stanford.edu/~sebschu/experiments/0_word_order/experiment-cond1.html
+- Condition 2: https://nlp.stanford.edu/~sebschu/experiments/0_word_order/experiment-cond2.html
+- Condition 3: https://nlp.stanford.edu/~sebschu/experiments/0_word_order/experiment-cond3.html
+
 ## Motivation for the Study
 
 The main motivation behind the study is the old nature vs. nurture debate in language acquisition. Do language learners make use of some pre-defined structures or do the solely learn from surface sequences? The authors try to address this question by investigating the preferences in learning the order of nominal modifiers. They base their study on Greenberg's Universal 20, which says that in languages with pre-nominal modifiers, the relative order of demonstratives, numerals, and adjectives is always the same, namely Dem-Num-Adj-Nom. In languages with post-nominal modifiers, the order is either Nom-Dem-Num-Adj (rare) or Nom-Adj-Num-Dem (more frequent). They argue that the orders Dem-Num-Adj-Nom and Nom-Adj-Num-Dem are most common because these orders are isomorphic to the semantic scope of the various modifiers. In their experiment, they want to address the question whether language learners prefer these isomorphic word orders for post-nominal modifiers or instead the word order that they are most familiar with, namely the English word order.
