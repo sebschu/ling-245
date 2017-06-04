@@ -1,8 +1,11 @@
 ---
 title: "Results"
 author: "Sebastian Schuster"
-date: "5/29/2017"
-output: html_document
+date: "6/4/2017"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 1
 ---
 
 ```{r setup, include=FALSE}
@@ -10,9 +13,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
+setwd("~/Dropbox/Uni/2017S/LINGUIST245/replication/data/")
 library(tidyverse)
 library(ggplot2)
 library(scales)
+library(lme4)
+library(lmtest)
+library(lmerTest)
 source("helpers.R")
 
 theme_set(theme_bw())
@@ -37,7 +44,7 @@ Modifier 1 and modifier 2 are as following, depending on the condition:
  
  During the test phase, participants are asked to "translate" phrases with one modifier (as they heard during training -- these are control trials) and phrases with two modifiers. As they never observed a noun with two modifiers during training, they have to come up with some strategy on how to order the nominal modifiers.
  
-## Control trials
+# Control trials
 
 I first plot the ratio of post-nominal control trials for each of 96 participants. Culbertson and Adger exluded participants who consistenly failed at these trials. While they are not specific about what "consistent" means, I also exlude participants who selected a phrase with a post-nominal modifier in less than 50% of the cases (highlighted in red).
 
@@ -80,6 +87,7 @@ exclude_workers = agr.test_control[agr.test_control$exclude == "2",]$workerid
 
 agr.test = data %>%
   filter((workerid %in% exclude_workers) == FALSE) %>%
+  filter(is.na(modifier2) == FALSE) %>%
   group_by(condition) %>%
   summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
   mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High)
@@ -89,10 +97,94 @@ agr.test = data %>%
 ggplot(agr.test, aes(x=condition,y=MeanCorrect)) +
   geom_bar(stat="identity",fill="gray80",color="black") +
   geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
-  xlab("Condition") +
+  xlab("\nCondition") +
+  xlim("{adj,num}", "{adj,dem}", "{dem, num}") +
   ylab("Proportion of scope-isomorphic responses") +
   scale_y_continuous(labels=percent)
 
 
 ```
+
+
+
+# Analysis
+
+The statistical model decription in Culbertson and Adger is very superficial, so I was not able to reconstruct exaclty what they did. They state that they used a Bayesian mixed-effects logistic regression model with random subject and item intercepts but from their description it is not entirely clear what they modelled as fixed effects and what exactly their dependent variable was. 
+
+As I did not see a huge advantage of using a Bayesian model for this analysis, I used a generalized linear model. My dependent variable is whether participants chose the post-nominal scope-isomorphic ordering (`1`) or another ordering (`0`). I only used the condition as a fixed effect (using dummy coding with condition 1 as the reference condition). I excluded the data from 9 participants as explained in the section above.
+
+
+```{r}
+
+data.test = data %>%
+  filter((workerid %in% exclude_workers) == FALSE)  %>%
+  filter(is.na(modifier2) == FALSE)
+
+data.test$condition = factor(data.test$condition)
+
+#just fixed effect
+model1 <- glm(correct ~ condition, family="binomial", data = data.test)
+res1 <- summary(model1)
+print(res1)
+```
+
+If we just run a fixed-effects model, there is a significant difference between conditions 1 and 3 ($b=`r round(res1$coefficients[3,1],2)`$, $z=`r round(res1$coefficients[3,1],2)`$, $p<0.001$), but no significant difference between conditions 1 and 2 ($b=`r round(res1$coefficients[2,1],2)`$, $z=`r round(res1$coefficients[2,1],2)`$, $p=`r round(res1$coefficients[2,4],3)`$). 
+
+However, if we include random intercepts for subjects, this effect goes away (though there remains a marginally significant effect).
+
+
+```{r}
+
+
+#random effects for subjects only
+model2 <- glmer(correct ~ condition + (1 | workerid), family="binomial", data=data.test)
+res2 <- summary(model2)
+print(res2)
+
+lrtest(model1, model2)
+
+```
+
+Considering that this model fits the data significantly better than the fixed-effects model according to a likelihood ratio test ($\chi^2(1)=1266$, $p<0.001$), it seems as if the difference between conditions 1 and 3 is a random artifact of certain subjects rather than an actual effect.
+
+Further, I include random item intercepts in my model.
+
+
+```{r}
+
+#random effects for subjects and items
+model3 <- glmer(correct ~ condition + (1 | workerid) + (1 | stimulus), family="binomial", data=data.test)
+summary(model3)
+
+lrtest(model2, model3)
+```
+
+As there are 1737 different stimuli as part of 2610 observations, the per-item estimates are most likely not reliable. And even if they are, the model does not fit the data significantly better than the model that only contains per-subject random intercepts, I therefore use the model with condition as a fixed effect and random subject intercepts as my final model.
+
+Lastly, I analyze whether the proportion of post-nominal scope-isomorphic ordered translations selected by participants is above chance. As my second model shows, the intercept is significantly above $0$ ($b=`r round(res2$coefficients[1,1], 2)`$, $z=`r round(res2$coefficients[1,3], 2)`$, $p<0.001$). Across all conditions, participants therefore selected the post-nominal scope-isomorphic order significantly more often than expected by chance. As expected, this also holds, if we compute the intercept for each individual condition, as shown in the following three models.
+
+```{r}
+# Condition 1
+model2.1 <- glmer(correct ~ 1 + (1 | workerid), family="binomial", data=data.test[data.test$condition==1,])
+summary(model2.1)
+
+# Condition 2
+model2.2 <- glmer(correct ~ 1 + (1 | workerid), family="binomial", data=data.test[data.test$condition==2,])
+summary(model2.2)
+
+# Condition 3
+model2.3 <- glmer(correct ~ 1 + (1 | workerid), family="binomial", data=data.test[data.test$condition==3,])
+summary(model2.3)
+
+```
+
+# (Brief) Discussion
+
+I was able to reproduce the effect that participants selected the post-nominal scope-isomorphic order significantly more often than chance. However, I failed to reproduce the effect of scope distance on the selection of post-nominal scope-isomorphic orders -- in all three conditions participants were equally likely to choose this order. While this does not provide any evidence against the hypothesis that subjects prefer scope-isomorphic orders, this result might suggest that participants are just reversing the English order after all. Culbertson and Adger (2014) used the differences across conditions to argue against this explanation; they rightly pointed out that if people were simply reversing the English order then we would not expect any differences across conditions. However, considering that I was not able to reproduce this effect, it might as well just be that the majority of participants uses a strategy that does not linked to the the scope of nominal modifiers.
+
+
+
+
+
+
   
