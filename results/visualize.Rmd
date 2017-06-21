@@ -13,10 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
-setwd("~/Dropbox/Uni/2017S/LINGUIST245/replication/data/")
+setwd("/Users/sebschu/Dropbox/Uni/2017S/LINGUIST245/replication/results/")
 library(tidyverse)
 library(ggplot2)
 library(scales)
+library(gridExtra)
 library(lme4)
 library(lmtest)
 library(lmerTest)
@@ -29,7 +30,7 @@ theme_set(theme_bw())
 
 ```{r}
 # Read the data.
-data <- read.csv("data-combined.csv")
+data <- read.csv("../data/data-combined.csv")
 
 ```
 
@@ -49,28 +50,64 @@ Modifier 1 and modifier 2 are as following, depending on the condition:
 I first plot the ratio of post-nominal control trials for each of 96 participants. Culbertson and Adger exluded participants who consistenly failed at these trials. While they are not specific about what "consistent" means, I also exlude participants who selected a phrase with a post-nominal modifier in less than 50% of the cases (highlighted in red).
 
 
-```{r fig.height=20, fig.width=10}
+```{r fig.height=5, fig.width=10}
 
 agr.test_control = data %>%
   filter(train == FALSE) %>%
   filter(is.na(modifier2)) %>%
   group_by(condition, workerid) %>%
   summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
-  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High)
+  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High) %>%
+  arrange(condition, desc(MeanCorrect))
+
 
 agr.test_control$exclude = "1"
 
 agr.test_control[agr.test_control$MeanCorrect < 0.5, ]$exclude = "2"
 
-ggplot(agr.test_control, aes(x=condition,y=MeanCorrect)) +
+worker_ids.cond1 = agr.test_control[agr.test_control$condition == 1,]$workerid;
+worker_ids.cond2 = agr.test_control[agr.test_control$condition == 2,]$workerid;
+worker_ids.cond3 = agr.test_control[agr.test_control$condition == 3,]$workerid;
+
+
+p1 <- ggplot(agr.test_control[agr.test_control$condition == 1,], aes(x=as.character(workerid), y=MeanCorrect)) +
   geom_bar(stat="identity",color="black", aes(fill=exclude)) +
   scale_fill_manual(values=c("gray80", "tomato1")) +
   geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
-  xlab("Condition") +
-  ylab("Proportion of post-nominal responses") +
+  xlab("") +
+  ylab("") +
+  ggtitle("Condition 1: {adj,num}") + 
   scale_y_continuous(labels=percent) +
-  facet_wrap(~workerid, ncol=12) + 
+  scale_x_discrete(limits= as.character(worker_ids.cond1)) +
+  #facet_wrap(~condition, ncol=1, scales = "free") + 
   theme(legend.position="none")
+  
+p2 <- ggplot(agr.test_control[agr.test_control$condition == 2,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",color="black", aes(fill=exclude)) +
+  scale_fill_manual(values=c("gray80", "tomato1")) +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("") +
+  ylab("Proportion of\npost-nominal responses") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond2)) +
+  ggtitle("Condition 2: {adj,dem}") + 
+  theme(legend.position="none")
+
+p3 <- ggplot(agr.test_control[agr.test_control$condition == 3,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",color="black", aes(fill=exclude)) +
+  scale_fill_manual(values=c("gray80", "tomato1")) +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("Participant ID") +
+  ylab("") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond3)) +
+  ggtitle("Condition 3: {dem,num}") + 
+  theme(legend.position="none")
+
+
+  
+combined_plot <- grid.arrange(p1, p2, p3)
+ggsave(filename = "plots/participant-performance-control-trial.pdf", plot=combined_plot, width=10, height=5)
 
 ```
 
@@ -92,15 +129,116 @@ agr.test = data %>%
   summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
   mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High)
   
+agr.test_indiv = data %>%
+  filter((workerid %in% exclude_workers) == FALSE) %>%
+  filter(train == FALSE) %>%
+  filter(is.na(modifier2) == FALSE) %>%
+  group_by(condition, workerid) %>%
+  summarise(MeanCorrect = mean(correct), CI.Low = ci.low(correct), CI.High = ci.high(correct)) %>%
+  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High) %>%
+  arrange(condition, desc(MeanCorrect))
 
 
 ggplot(agr.test, aes(x=condition,y=MeanCorrect)) +
-  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_bar(stat="identity",fill="gray80",color="black", width=.8) +
   geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
   xlab("\nCondition") +
   xlim("{adj,num}", "{adj,dem}", "{dem, num}") +
   ylab("Proportion of scope-isomorphic responses") +
   scale_y_continuous(labels=percent)
+
+ggsave(filename = "plots/main-results.pdf", width=6, height=6)
+
+
+worker_ids.cond1 = agr.test_indiv[agr.test_indiv$condition == 1,]$workerid;
+worker_ids.cond2 = agr.test_indiv[agr.test_indiv$condition == 2,]$workerid;
+worker_ids.cond3 = agr.test_indiv[agr.test_indiv$condition == 3,]$workerid;
+
+
+p1 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 1,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("") +
+  ylab("") +
+  ggtitle("Condition 1: {adj,num}") + 
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond1)) +
+  #facet_wrap(~condition, ncol=1, scales = "free") + 
+  theme(legend.position="none")
+  
+p2 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 2,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("") +
+  ylab("Prop. of post-nominal\n scope-isomorphic resp.") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond2)) +
+  ggtitle("Condition 2: {adj,dem}") + 
+  theme(legend.position="none")
+
+p3 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 3,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("Participant ID") +
+  ylab("") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond3)) +
+  ggtitle("Condition 3: {dem,num}") + 
+  theme(legend.position="none")
+
+combined_plot <- grid.arrange(p1, p2, p3)
+
+ggsave(filename = "plots/participant-performance-test-trial.pdf", plot=combined_plot, width=10, height=5)
+
+
+#same plot with proportion of post-nominal
+
+agr.test_indiv = data %>%
+  filter((workerid %in% exclude_workers) == FALSE) %>%
+  filter(train == FALSE) %>%
+  filter(is.na(modifier2) == FALSE) %>%
+  group_by(condition, workerid) %>%
+  summarise(MeanCorrect = mean(post_nominal), CI.Low = ci.low(post_nominal), CI.High = ci.high(post_nominal)) %>%
+  mutate(YMin = MeanCorrect - CI.Low, YMax = MeanCorrect + CI.High) %>%
+  arrange(condition, desc(MeanCorrect))
+
+worker_ids.cond1 = agr.test_indiv[agr.test_indiv$condition == 1,]$workerid;
+worker_ids.cond2 = agr.test_indiv[agr.test_indiv$condition == 2,]$workerid;
+worker_ids.cond3 = agr.test_indiv[agr.test_indiv$condition == 3,]$workerid;
+
+
+p1 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 1,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("") +
+  ylab("") +
+  ggtitle("Condition 1: {adj,num}") + 
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond1)) +
+  #facet_wrap(~condition, ncol=1, scales = "free") + 
+  theme(legend.position="none")
+  
+p2 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 2,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("") +
+  ylab("Proportion of\npost-nominal responses") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond2)) +
+  ggtitle("Condition 2: {adj,dem}") + 
+  theme(legend.position="none")
+
+p3 <- ggplot(agr.test_indiv[agr.test_indiv$condition == 3,], aes(x=as.character(workerid), y=MeanCorrect)) +
+  geom_bar(stat="identity",fill="gray80",color="black") +
+  geom_errorbar(aes(ymin=YMin,ymax=YMax), width=.25) +
+  xlab("Participant ID") +
+  ylab("") +
+  scale_y_continuous(labels=percent) +
+  scale_x_discrete(limits= as.character(worker_ids.cond3)) +
+  ggtitle("Condition 3: {dem,num}") + 
+  theme(legend.position="none")
+
+grid.arrange(p1, p2, p3)
 
 
 ```
